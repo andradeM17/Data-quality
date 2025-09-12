@@ -1,0 +1,21 @@
+M	J
+X: both correct languages	X: both correct languages
+X: both correct languages	X: both correct languages
+CB: boilerplate or low quality language	CC: natural language
+CC: natural language	CC: natural language
+CB: boilerplate or low quality language	CC: natural language
+CC: natural language	CS: short
+CC: natural language	CC: natural language
+CB: boilerplate or low quality language	X: both correct languages
+CB: boilerplate or low quality language	X: both correct languages
+CC: natural language	CC: natural language
+CC: natural language	X: both correct languages
+CC: natural language	CC: natural language
+CB: boilerplate or low quality language	X: both correct languages
+X: both correct languages	X: both correct languages
+CB: boilerplate or low quality language	CC: natural language
+WL: source or target incorrect language	WL: source or target incorrect language
+CB: boilerplate or low quality language	X: both correct languages
+CC: natural language	CC: natural language
+CC: natural language	CC: natural language
+CC: natural language	CC: natural language
