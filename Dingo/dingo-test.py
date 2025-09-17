@@ -34,7 +34,7 @@ def run_eval(eval_group, input_path):
 
 def main():
     datasets = ["HPLT", "NLLB", "Paracrawl", "CCMatrix", "XLEnt", "OpenSubtitles", "QED", "EUBookshops", "EUconst", "Tatoeba"]
-    
+
     results = []
     
     for d in datasets:
