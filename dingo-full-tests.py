@@ -15,7 +15,7 @@ RULE_LIST = [
     "RuleCapitalWords", "RuleCurlyBracket", "RuleLineStartWithBulletpoint", "RuleUniqueWords"
 ]
 
-def create_limited_dataset(input_path, max_lines=2000):
+def create_limited_dataset(input_path, max_lines=10000):
     """Create a temporary file with only the first max_lines from the input file."""
     temp_file = tempfile.NamedTemporaryFile(mode='w', suffix='.jsonl', delete=False, encoding='utf-8')
     
@@ -51,7 +51,7 @@ def run_eval(eval_group, input_path):
     return executor.execute()
 
 def main():
-    datasets = ["t", "n"]
+    datasets = ["c", "eub", "euconst", "h", "n", "o", "p", "q", "t", "x"]
     results = []
     temp_files_to_cleanup = []
     
@@ -61,12 +61,12 @@ def main():
             dataset_name = os.path.basename(dataset_path[:-6])
             
             # Create limited dataset file
-            print(f"Creating limited dataset (2000 lines) for {dataset_name}...")
-            limited_dataset_path = create_limited_dataset(dataset_path, max_lines=2000)
+            print(f"Creating limited dataset (10000 lines) for {dataset_name}...")
+            limited_dataset_path = create_limited_dataset(dataset_path, max_lines=10000)
             temp_files_to_cleanup.append(limited_dataset_path)
             
             for group in ["default"]:
-                print(f"Running eval_group='{group}' on dataset='{dataset_name}' (first 2000 lines)...")
+                print(f"Running eval_group='{group}' on dataset='{dataset_name}' (first 10000 lines)...")
                 result = run_eval(group, limited_dataset_path)
                 print(result)
                 

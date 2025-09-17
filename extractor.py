@@ -106,7 +106,11 @@ def extract_tmx_to_jsonl_optimized_regex(input_file, output_file):
 # Use the most appropriate version for your needs:
 
 # For very large files (recommended):
-extract_tmx_to_jsonl_efficient('n-en-ga.tmx', 'n-en-ga.jsonl')
+
+datasets = ["c", "eub", "euconst", "h", "n", "o", "p", "q", "t", "x"]
+
+for dataset in datasets:
+    extract_tmx_to_jsonl_efficient(f'full-datasets/{dataset}-en-ga.tmx', f'JSON-files/{dataset}-en-ga.jsonl')
 
 # For moderate files with batch processing:
 # extract_tmx_to_jsonl_batch('t-en-ga.tmx', 't-en-ga.jsonl', batch_size=1000)
