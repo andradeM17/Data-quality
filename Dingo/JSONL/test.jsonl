@@ -1,20 +1,20 @@
-{"text": "Hello"}
-{"text": "No punctuation"}
-{"text": "word"}
-{"text": "1234567890"}
-{"text": "!!!!"}
-{"text": "Lorem ipsum"}
-{"text": "Testing without ending"}
-{"text": "Another line missing period"}
-{"text": "Symbols $$$$$"}
-{"text": "Too short"}
-{"text": "Just stop"}
-{"text": "Why"}
-{"text": "Incomplete"}
-{"text": "Broken data line"}
-{"text": "###"}
-{"text": "Data data data data"}
-{"text": "Numbers 99999"}
-{"text": "gibberishqwertyuiopasdf"}
-{"text": "Unfinished thought"}
-{"text": "no period"}
+{"text": "- This is a correct bullet point."}
+{"text": "* Another proper bullet point."}
+{"text": "- List item with content."}
+{"text": "* Remember to check this."}
+{"text": "- Follow the steps carefully."}
+{"text": "* Add sugar, flour, and eggs."}
+{"text": "- This bullet is properly formatted."}
+{"text": "* Make sure to save your work."}
+{"text": "- Keep your code clean and readable."}
+{"text": "* This is a standard bullet point."}
+{"text": "- "}
+{"text": "*"}
+{"text": "-      "}
+{"text": "*    "}
+{"text": "-\t"}
+{"text": "*\t"}
+{"text": "-\n"}
+{"text": "*\n"}
+{"text": "-  "}
+{"text": "*  "}
