@@ -1,0 +1,33 @@
+rule_applied,score,num_good,num_bad,total,description
+RuleLineEndWithEllipsis,99.0,99,1,100,Over 30% of sentences in 1% of the samples end with ellipsis (...)
+RuleLineEndWithTerminal,79.0,79,21,100,Over 60% of sentences in 79% of the samples end with terminal punctuation (.!?;)
+RuleSentenceNumber,5.0,5,95,100,"5% of the samples have between 3 and 7,500 sentences."
+RuleWordNumber,46.0,46,54,100,"46% of the samples have between 20 and 100,000 words."
+RuleAbnormalChar,100.0,100,0,100,
+RuleAbnormalHtml,100.0,100,0,100,
+RuleAlphaWords,99.0,99,1,100,Over 60% of the words in 99% of the samples have alphabetic characters.
+RuleCharNumber,41.0,41,59,100,41% of the samples have more than 100 characters.
+RuleColonEnd,100.0,100,0,100,0% of the samples finish in a colon (:).
+RuleContentNull,100.0,100,0,100,0% of the samples are empty.
+RuleContentShort,99.0,99,1,100,
+RuleContentShortMultiLan,46.0,46,54,100,
+RuleEnterAndSpace,100.0,100,0,100,
+RuleEnterMore,100.0,100,0,100,
+RuleEnterRatioMore,100.0,100,0,100,
+RuleHtmlEntity,100.0,100,0,100,0% of the samples have HTML content.
+RuleHtmlTag,100.0,100,0,100,
+RuleInvisibleChar,100.0,100,0,100,
+RuleLatexSpecialChar,100.0,100,0,100,
+RuleLineJavascriptCount,100.0,100,0,100,"0% of the samples contain the word ""javascript""."
+RuleLoremIpsum,100.0,100,0,100,0% of the samples contain Lorem Ipsum text.
+RuleMeanWordLength,100.0,100,0,100,100% of the samples have a mean word length between 3 and 10 characters.
+RuleSpaceMore,100.0,100,0,100,
+RuleSpecialCharacter,100.0,100,0,100,0% of the samples have special characters.
+RuleStopWord,74.0,74,26,100,Over 6% of words in 26% of the samples are stop words.
+RuleSymbolWordRatio,100.0,100,0,100,"In 0% of the samples, the ratio between symbols and words is > 0.4."
+RuleOnlyUrl,100.0,100,0,100,
+RuleDocRepeat,100.0,100,0,100,0% of the samples have repeating lines.
+RuleCapitalWords,99.0,99,1,100,Over 20% of words in 1% of the samples are capitalised.
+RuleCurlyBracket,100.0,100,0,100,There is a ratio > 0.1 between curly brackets and other characters in 100% of the samples.
+RuleLineStartWithBulletpoint,100.0,100,0,100,0% of the samples start with a bullet point.
+RuleUniqueWords,100.0,100,0,100,100% of the samples have a ratio > 0.1 of unique words.
