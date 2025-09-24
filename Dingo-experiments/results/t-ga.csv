@@ -1,0 +1,33 @@
+rule_applied,score,num_good,num_bad,total,description
+RuleLineEndWithEllipsis,99.9,1990,2,1992,Over 30% of sentences in 0% of the samples end with ellipsis (...)
+RuleLineEndWithTerminal,99.05,1973,19,1992,Over 60% of sentences in 99% of the samples end with terminal punctuation (.!?;)
+RuleSentenceNumber,0.05,1,1991,1992,"0% of the samples have between 3 and 7,500 sentences."
+RuleWordNumber,0.25,5,1987,1992,"0% of the samples have between 20 and 100,000 words."
+RuleAbnormalChar,100.0,1992,0,1992,
+RuleAbnormalHtml,100.0,1992,0,1992,
+RuleAlphaWords,97.29,1938,54,1992,Over 60% of the words in 97% of the samples have alphabetic characters.
+RuleCharNumber,0.2,4,1988,1992,0% of the samples have more than 100 characters.
+RuleColonEnd,100.0,1992,0,1992,0% of the samples finish in a colon (:).
+RuleContentNull,100.0,1992,0,1992,0% of the samples are empty.
+RuleContentShort,73.85,1471,521,1992,
+RuleContentShortMultiLan,0.3,6,1986,1992,
+RuleEnterAndSpace,100.0,1992,0,1992,
+RuleEnterMore,100.0,1992,0,1992,
+RuleEnterRatioMore,100.0,1992,0,1992,
+RuleHtmlEntity,100.0,1992,0,1992,0% of the samples have HTML content.
+RuleHtmlTag,100.0,1992,0,1992,
+RuleInvisibleChar,100.0,1992,0,1992,
+RuleLatexSpecialChar,100.0,1992,0,1992,
+RuleLineJavascriptCount,100.0,1992,0,1992,"0% of the samples contain the word ""javascript""."
+RuleLoremIpsum,100.0,1992,0,1992,0% of the samples contain Lorem Ipsum text.
+RuleMeanWordLength,98.69,1966,26,1992,99% of the samples have a mean word length between 3 and 10 characters.
+RuleSpaceMore,100.0,1992,0,1992,
+RuleSpecialCharacter,100.0,1992,0,1992,0% of the samples have special characters.
+RuleStopWord,21.13,421,1571,1992,Over 6% of words in 79% of the samples are stop words.
+RuleSymbolWordRatio,100.0,1992,0,1992,"In 0% of the samples, the ratio between symbols and words is > 0.4."
+RuleOnlyUrl,100.0,1992,0,1992,
+RuleDocRepeat,100.0,1992,0,1992,0% of the samples have repeating lines.
+RuleCapitalWords,99.7,1986,6,1992,Over 20% of words in 0% of the samples are capitalised.
+RuleCurlyBracket,100.0,1992,0,1992,There is a ratio > 0.1 between curly brackets and other characters in 100% of the samples.
+RuleLineStartWithBulletpoint,100.0,1992,0,1992,0% of the samples start with a bullet point.
+RuleUniqueWords,100.0,1992,0,1992,100% of the samples have a ratio > 0.1 of unique words.

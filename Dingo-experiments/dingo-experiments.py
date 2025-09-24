@@ -93,7 +93,7 @@ def get_rule_description(rule, result):
             return ""
 
 def main():
-    datasets = ["hplt-ga"]
+    datasets = ["t-ga"]
     temp_files_to_cleanup = []
 
     try:
@@ -112,7 +112,7 @@ def main():
                     print(f"Testing {rule} on {d}")
                     result = run_eval(group, limited_dataset_path, [rule])
                     description = get_rule_description(rule, result)
-                    if description:
+                    if description and round(result.score) != 0 and round(result.score) != 100:
                         print(description + "\n")
 
                     row = {
