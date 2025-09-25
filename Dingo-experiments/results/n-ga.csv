@@ -1,0 +1,33 @@
+rule_applied,score,num_good,num_bad,total,description
+RuleLineEndWithEllipsis,97.57,9757,243,10000,Over 30% of sentences in 2% of the samples end with ellipsis (...)
+RuleLineEndWithTerminal,72.2,7220,2780,10000,Over 60% of sentences in 72% of the samples end with terminal punctuation (.!?;)
+RuleSentenceNumber,0.57,57,9943,10000,"1% of the samples have between 3 and 7,500 sentences."
+RuleWordNumber,12.58,1258,8742,10000,"13% of the samples have between 20 and 100,000 words."
+RuleAbnormalChar,100.0,10000,0,10000,
+RuleAbnormalHtml,99.96,9996,4,10000,
+RuleAlphaWords,94.38,9438,562,10000,Over 60% of the words in 94% of the samples have alphabetic characters.
+RuleCharNumber,10.33,1033,8967,10000,10% of the samples have more than 100 characters.
+RuleColonEnd,100.0,10000,0,10000,0% of the samples finish in a colon (:).
+RuleContentNull,100.0,10000,0,10000,0% of the samples are empty.
+RuleContentShort,87.17,8717,1283,10000,
+RuleContentShortMultiLan,12.69,1269,8731,10000,
+RuleEnterAndSpace,100.0,10000,0,10000,
+RuleEnterMore,100.0,10000,0,10000,
+RuleEnterRatioMore,100.0,10000,0,10000,
+RuleHtmlEntity,99.96,9996,4,10000,0% of the samples have HTML content.
+RuleHtmlTag,100.0,10000,0,10000,
+RuleInvisibleChar,100.0,10000,0,10000,
+RuleLatexSpecialChar,100.0,10000,0,10000,
+RuleLineJavascriptCount,100.0,10000,0,10000,"0% of the samples contain the word ""javascript""."
+RuleLoremIpsum,100.0,10000,0,10000,0% of the samples contain Lorem Ipsum text.
+RuleMeanWordLength,97.63,9763,237,10000,98% of the samples have a mean word length between 3 and 10 characters.
+RuleSpaceMore,100.0,10000,0,10000,
+RuleSpecialCharacter,100.0,10000,0,10000,0% of the samples have special characters.
+RuleStopWord,56.02,5602,4398,10000,Over 6% of words in 44% of the samples are stop words.
+RuleSymbolWordRatio,100.0,10000,0,10000,"In 0% of the samples, the ratio between symbols and words is > 0.4."
+RuleOnlyUrl,100.0,10000,0,10000,
+RuleDocRepeat,100.0,10000,0,10000,0% of the samples have repeating lines.
+RuleCapitalWords,98.42,9842,158,10000,Over 20% of words in 2% of the samples are capitalised.
+RuleCurlyBracket,99.99,9999,1,10000,There is a ratio > 0.1 between curly brackets and other characters in 100% of the samples.
+RuleLineStartWithBulletpoint,99.73,9973,27,10000,0% of the samples start with a bullet point.
+RuleUniqueWords,100.0,10000,0,10000,100% of the samples have a ratio > 0.1 of unique words.
