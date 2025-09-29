@@ -50,9 +50,9 @@ def get_rule_description(rule, result):
     """Return a description string for the rule based on the result."""
     match rule:
         case "RuleLineEndWithEllipsis":
-            return f"Over 30% of sentences in {100-result.score:.0f}% of the samples end with ellipsis (...)"
+            return f"Over 30% of sentences in {100-result.score:.0f}% of the samples end with ellipsis (...)."
         case "RuleLineEndWithTerminal":
-            return f"Over 60% of sentences in {result.score:.0f}% of the samples end with terminal punctuation (.!?;)"
+            return f"Over 60% of sentences in {result.score:.0f}% of the samples end with terminal punctuation (.!?;)."
         case "RuleSentenceNumber":
             return f"{result.score:.0f}% of the samples have between 3 and 7,500 sentences."
         case "RuleWordNumber":
@@ -84,16 +84,16 @@ def get_rule_description(rule, result):
         case "RuleCapitalWords":
             return f"Over 20% of words in {100-result.score:.0f}% of the samples are capitalised."
         case "RuleCurlyBracket":
-            return f"There is a ratio > 0.1 between curly brackets and other characters in {result.score:.0f}% of the samples."
+            return f"There is a ratio > 0.1 between curly brackets and other characters in {100-result.score:.0f}% of the samples."
         case "RuleLineStartWithBulletpoint":
             return f"{100-result.score:.0f}% of the samples start with a bullet point."
         case "RuleUniqueWords":
-            return f"{result.score:.0f}% of the samples have a ratio > 0.1 of unique words."
+            return f"{100-result.score:.0f}% of the samples have a ratio > 0.1 of unique words."
         case _:
             return ""
 
 def main():
-    datasets = ["n-ga"]
+    datasets = ["p-ga"]
     temp_files_to_cleanup = []
 
     try:
@@ -101,7 +101,7 @@ def main():
             dataset_path = f"Dingo-experiments/data/{d}.txt"
             dataset_name = os.path.basename(dataset_path[:-6])
 
-            print(f"\nCreating limited dataset (10000 lines) for {dataset_name}...\n\n")
+            print(f"\nCreating limited dataset (10,000 lines) for {dataset_name}...\n\n")
             limited_dataset_path = create_limited_dataset(dataset_path, max_lines=10000)
             temp_files_to_cleanup.append(limited_dataset_path)
 
