@@ -93,7 +93,7 @@ def get_rule_description(rule, result):
             return ""
 
 def main():
-    datasets = ["p-ga"]
+    datasets = ["c-ga"]
     temp_files_to_cleanup = []
 
     try:
