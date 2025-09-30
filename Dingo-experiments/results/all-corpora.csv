@@ -3,8 +3,8 @@ RuleLineEndWithEllipsis,The perecentage of samples that don't end in ellipsis.,E
 RuleLineEndWithTerminal,The percentage of samples where over 60% of sentences end with terminal punctuation (.!?;).,OpenSubtitles,XLEnt,85.51,60.37,50.76,83.09,60.7,96.65,54.21,73.96,99.05,0.4
 RuleSentenceNumber,"The percentage of samples that have between 3 and 7,500 sentences.",Eubookshop,XLEnt,1.51,4.43,0.65,1.9,0.41,0.36,1.31,0.7,0.05,0
 RuleWordNumber,"The percentage of samples that have between 20 and 100,000 words.",Eubookshop,XLEnt,11.28,39.27,31.45,45.82,10.72,1.88,34.66,30.6,0.25,0.3
-RuleAbnormalChar,,,,99.45,100,74.95,100,100,98.96,100,97.92,100,99.91
-RuleAbnormalHtml,,,,99.95,100,100,100,100,100,100,99.77,100,100
+RuleAbnormalChar,The percentage of samples that don't have special or invisible characters.,NLLB,Euconst,99.45,100,74.95,100,100,98.96,100,97.92,100,99.91
+RuleAbnormalHtml,The percentage of samples that don't have HTML entities or tags.,Eight datasets,QED,99.95,100,100,100,100,100,100,99.77,100,100
 RuleAlphaWords,The percentage of samples where over 60% of the words have alphabetic characters.,HPLT,NLLB,85.84,87.83,68,97.74,64.23,82.13,96.01,91.62,97.29,97.68
 RuleCharNumber,The percentage of samples that have more than 100 characters.,HPLT,Tatoeba,10.27,41.27,33.12,44.4,9.98,1.15,36.14,24.2,0.2,3.46
 RuleColonEnd,The percentage of samples that don't finish in a colon (:).,All,All,100,100,100,100,100,100,100,100,100,100
