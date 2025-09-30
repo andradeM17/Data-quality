@@ -1,33 +1,33 @@
-﻿Rule,CCMatrix,EUbookshop,Euconst,HPLT,NLLB,OpenSubtitles,Paracrawl,QED,Tatoeba,XLEnt
-RuleLineEndWithEllipsis,97.17,98.77,100,98.71,99.24,98.54,99.1,99.48,99.9,99.94
-RuleLineEndWithTerminal,85.51,60.37,50.76,83.09,60.7,96.65,54.21,73.96,99.05,0.4
-RuleSentenceNumber,1.51,4.43,0.65,1.9,0.41,0.36,1.31,0.7,0.05,0
-RuleWordNumber,11.28,39.27,31.45,45.82,10.72,1.88,34.66,30.6,0.25,0.3
-RuleAbnormalChar,99.45,100,74.95,100,100,98.96,100,97.92,100,99.91
-RuleAbnormalHtml,99.95,100,100,100,100,100,100,99.77,100,100
-RuleAlphaWords,85.84,87.83,68,97.74,64.23,82.13,96.01,91.62,97.29,97.68
-RuleCharNumber,10.27,41.27,33.12,44.4,9.98,1.15,36.14,24.2,0.2,3.46
-RuleColonEnd,100,100,100,100,100,100,100,100,100,100
-RuleContentNull,100,100,98.87,100,100,100,100,99.99,100,100
-RuleContentShort,87.94,84.43,56.92,98.35,74.23,66.84,98.36,91.43,73.85,78.65
-RuleContentShortMultiLan,10.83,39.09,31.28,45.93,10.71,1.98,34.12,31.38,0.3,0.3
-RuleEnterAndSpace,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
-RuleEnterMore,100,100,100,100,100,100,100,100,100,100
-RuleEnterRatioMore,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
-RuleHtmlEntity,99.95,100,100,100,100,100,100,99.77,100,100
-RuleHtmlTag,100,100,100,100,100,100,100,100,100,100
-RuleInvisibleChar,99.48,100,74.95,100,100,98.96,100,97.92,100,99.92
-RuleLatexSpecialChar,100,100,100,100,100,100,100,100,100,100
-RuleLineJavascriptCount,100,100,100,100,100,100,100,100,100,100
-RuleLoremIpsum,100,100,100,100,100,100,100,100,100,100
-RuleMeanWordLength,97.48,96.94,77.92,99.23,95.58,97.36,99.02,98.54,98.69,94.93
-RuleSpaceMore,100,100,100,100,100,100,100,100,100,100
-RuleSpecialCharacter,99.97,100,100,100,100,100,100,100,100,99.99
-RuleStopWord,37.31,57.16,43.44,74.11,44.23,22.44,58.87,63.25,21.13,3.39
-RuleSymbolWordRatio,99.95,99.89,100,99.99,100,99.75,99.99,100,100,99.99
-RuleOnlyUrl,100,100,100,100,100,100,100,100,100,100
-RuleDocRepeat,99.85,100,100,99.99,100,99.99,99.9,99.99,100,99.92
-RuleCapitalWords,97.92,92.99,89.52,99.19,98,99.05,99.15,98.15,99.7,93.06
-RuleCurlyBracket,99.97,99.99,100,99.99,99.93,100,100,100,100,100
-RuleLineStartWithBulletpoint,100,99.32,100,99.68,100,100,99.75,100,100,99.96
-RuleUniqueWords,99.91,100,100,100,100,100,100,100,100,99.94
+﻿Rule,Description,Highest score,Lowest score,CCMatrix,EUbookshop,EUconst,HPLT,NLLB,OpenSubtitles,Paracrawl,QED,Tatoeba,XLEnt
+RuleLineEndWithEllipsis,The perecentage of samples that don't end in ellipsis.,EUconst,CCMatrix,97.17,98.77,100,98.71,99.24,98.54,99.1,99.48,99.9,99.94
+RuleLineEndWithTerminal,The percentage of samples where over 60% of sentences end with terminal punctuation (.!?;).,OpenSubtitles,XLEnt,85.51,60.37,50.76,83.09,60.7,96.65,54.21,73.96,99.05,0.4
+RuleSentenceNumber,"The percentage of samples that have between 3 and 7,500 sentences.",Eubookshop,XLEnt,1.51,4.43,0.65,1.9,0.41,0.36,1.31,0.7,0.05,0
+RuleWordNumber,"The percentage of samples that have between 20 and 100,000 words.",Eubookshop,XLEnt,11.28,39.27,31.45,45.82,10.72,1.88,34.66,30.6,0.25,0.3
+RuleAbnormalChar,,,,99.45,100,74.95,100,100,98.96,100,97.92,100,99.91
+RuleAbnormalHtml,,,,99.95,100,100,100,100,100,100,99.77,100,100
+RuleAlphaWords,The percentage of samples where over 60% of the words have alphabetic characters.,HPLT,NLLB,85.84,87.83,68,97.74,64.23,82.13,96.01,91.62,97.29,97.68
+RuleCharNumber,The percentage of samples that have more than 100 characters.,HPLT,Tatoeba,10.27,41.27,33.12,44.4,9.98,1.15,36.14,24.2,0.2,3.46
+RuleColonEnd,The percentage of samples that don't finish in a colon (:).,All,All,100,100,100,100,100,100,100,100,100,100
+RuleContentNull,The percentage of samples that are not empty.,Eight datasets,Euconst,100,100,98.87,100,100,100,100,99.99,100,100
+RuleContentShort,,,,87.94,84.43,56.92,98.35,74.23,66.84,98.36,91.43,73.85,78.65
+RuleContentShortMultiLan,,,,10.83,39.09,31.28,45.93,10.71,1.98,34.12,31.38,0.3,0.3
+RuleEnterAndSpace,,,,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
+RuleEnterMore,,,,100,100,100,100,100,100,100,100,100,100
+RuleEnterRatioMore,,,,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
+RuleHtmlEntity,The percentage of samples that don't have HTML content.,Eight datasets,QED,99.95,100,100,100,100,100,100,99.77,100,100
+RuleHtmlTag,,,,100,100,100,100,100,100,100,100,100,100
+RuleInvisibleChar,,,,99.48,100,74.95,100,100,98.96,100,97.92,100,99.92
+RuleLatexSpecialChar,,,,100,100,100,100,100,100,100,100,100,100
+RuleLineJavascriptCount,"The percentage of samples that don't contain the word ""javascript"".",All,All,100,100,100,100,100,100,100,100,100,100
+RuleLoremIpsum,The percent of samples that don't contain Lorem Ipsum text.,All,All,100,100,100,100,100,100,100,100,100,100
+RuleMeanWordLength,The percentage of samples that have a mean word length between 3 and 10 characters.,Paracrawl,Euconst,97.48,96.94,77.92,99.23,95.58,97.36,99.02,98.54,98.69,94.93
+RuleSpaceMore,,,,100,100,100,100,100,100,100,100,100,100
+RuleSpecialCharacter,The percentage of samples that don't have special characters.,Eight datasets,CCMatrix,99.97,100,100,100,100,100,100,100,100,99.99
+RuleStopWord,The percentage of samples where over 6% of the words are stop words.,HPLT,XLEnt,37.31,57.16,43.44,74.11,44.23,22.44,58.87,63.25,21.13,3.39
+RuleSymbolWordRatio,The percentage of samples where the ratio between symbols and words is > 0.4.,Four datasets,OpenSubtitles,99.95,99.89,100,99.99,100,99.75,99.99,100,100,99.99
+RuleOnlyUrl,,,,100,100,100,100,100,100,100,100,100,100
+RuleDocRepeat,The percentage of samples that don't have repeating lines.,Four datasets,CCMatrix,99.85,100,100,99.99,100,99.99,99.9,99.99,100,99.92
+RuleCapitalWords,The percentage of samples where  80% of words are not capitalised.,Tatoeba,Euconst,97.92,92.99,89.52,99.19,98,99.05,99.15,98.15,99.7,93.06
+RuleCurlyBracket,The percentage of samples where there isn't a ratio > 0.1 between curly brackets and other characters.,Six datasets,NLLB,99.97,99.99,100,99.99,99.93,100,100,100,100,100
+RuleLineStartWithBulletpoint,The percentage of samples that don't start with a bullet point.,Six datasets,Eubookshop,100,99.32,100,99.68,100,100,99.75,100,100,99.96
+RuleUniqueWords,The percentage of samples where there isn't a ratio > 0.1 of unique words.,Eight datasets,CCMatrix,99.91,100,100,100,100,100,100,100,100,99.94
