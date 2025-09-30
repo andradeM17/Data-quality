@@ -25,7 +25,7 @@ RuleSpaceMore,,,,100,100,100,100,100,100,100,100,100,100
 RuleSpecialCharacter,The percentage of samples that don't have special characters.,Eight datasets,CCMatrix,99.97,100,100,100,100,100,100,100,100,99.99
 RuleStopWord,The percentage of samples where over 6% of the words are stop words.,HPLT,XLEnt,37.31,57.16,43.44,74.11,44.23,22.44,58.87,63.25,21.13,3.39
 RuleSymbolWordRatio,The percentage of samples where the ratio between symbols and words is > 0.4.,Four datasets,OpenSubtitles,99.95,99.89,100,99.99,100,99.75,99.99,100,100,99.99
-RuleOnlyUrl,,,,100,100,100,100,100,100,100,100,100,100
+RuleOnlyUrl,The percentage of samples that are URLs,All,All,100,100,100,100,100,100,100,100,100,100
 RuleDocRepeat,The percentage of samples that don't have repeating lines.,Four datasets,CCMatrix,99.85,100,100,99.99,100,99.99,99.9,99.99,100,99.92
 RuleCapitalWords,The percentage of samples where  80% of words are not capitalised.,Tatoeba,Euconst,97.92,92.99,89.52,99.19,98,99.05,99.15,98.15,99.7,93.06
 RuleCurlyBracket,The percentage of samples where there isn't a ratio > 0.1 between curly brackets and other characters.,Six datasets,NLLB,99.97,99.99,100,99.99,99.93,100,100,100,100,100
