@@ -13,7 +13,7 @@ eRuleContentShort,The percentage of samples that are have more than 20 character
 RuleContentShortMultiLan,The percentage of samples that have less than 20 characters after normalisation.,HPLT,"Tatoeba, XLEnt",10.83,39.09,31.28,45.93,10.71,1.98,34.12,31.38,0.3,0.3
 RuleEnterAndSpace,The percentage of samples that don't have excessive carriage return and space combinations.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
 RuleEnterMore,The percentage of samples that don't have 8 consecutive carriage returns.,All,All,100,100,100,100,100,100,100,100,100,100
-RuleEnterRatioMore,The percentage of samples where the ratio between carriage returns and content is greater than 25%.,,,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
+RuleEnterRatioMore,The percentage of samples where the ratio between carriage returns and content is greater than 25%.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
 RuleHtmlEntity,The percentage of samples that don't have HTML entities.,Eight datasets,QED,99.95,100,100,100,100,100,100,99.77,100,100
 RuleHtmlTag,The percentage of samples that don't have HTML tags.,All,All,100,100,100,100,100,100,100,100,100,100
 RuleInvisibleChar,The percentage of samples that don't have invisible characters.,"EUbookshop, NLLB",EUconst,99.48,100,74.95,100,100,98.96,100,97.92,100,99.92
