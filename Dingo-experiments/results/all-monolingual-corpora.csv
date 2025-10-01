@@ -1,0 +1,33 @@
+﻿Rule,Description,Highest score,Lowest score,C4,CulturaX,OSCAR,Wikipedia
+RuleLineEndWithEllipsis,The perecentage of samples that don't end in ellipsis.,Wikipedia,CulturaX,97.91,97.48,98.21,100
+RuleLineEndWithTerminal,The percentage of samples where over 60% of sentences end with terminal punctuation (.!?;).,OSCAR,Wikipedia,27.13,72.15,80.63,1.69
+RuleSentenceNumber,"The percentage of samples that have between 3 and 7,500 sentences.",CulturaX,OSCAR,78.58,95.46,37.04,89.12
+RuleWordNumber,"The percentage of samples that have between 20 and 100,000 words.",CulturaX,C4,91.59,100,92.56,92.94
+RuleAbnormalChar,The percentage of samples that don't have special or invisible characters.,CulturaX,C4,98.71,99.98,99.9,99.84
+RuleAbnormalHtml,The percentage of samples that don't have HTML entities or tags.,Three datasets,C4,99.99,100,100,100
+RuleAlphaWords,The percentage of samples where over 60% of the words have alphabetic characters.,CulturaX,C4,92.28,99.99,99.58,98.11
+RuleCharNumber,The percentage of samples that have more than 100 characters.,CulturaX,OSCAR,96.92,100,92.2,95.31
+RuleColonEnd,The percentage of samples that don't finish in a colon (:).,All,All,100,100,100,100
+RuleContentNull,The percentage of samples that are not empty.,All,All,100,100,100,100
+eRuleContentShort,The percentage of samples that are have more than 20 characters.,Three datasets,Wikipedia,100,100,100,99.99
+RuleContentShortMultiLan,The percentage of samples that have less than 20 characters after normalisation.,CulturaX,C4,92,100,92.53,94.78
+RuleEnterAndSpace,The percentage of samples that don't have excessive carriage return and space combinations.,All,All,100,100,100,100
+RuleEnterMore,The percentage of samples that don't have 8 consecutive carriage returns.,All,All,100,100,100,100
+RuleEnterRatioMore,The percentage of samples where the ratio between carriage returns and content is greater than 25%.,All,All,100,100,100,100
+RuleHtmlEntity,The percentage of samples that don't have HTML entities.,Three datasets,C4,99.99,100,100,100
+RuleHtmlTag,The percentage of samples that don't have HTML tags.,All,All,100,100,100,100
+RuleInvisibleChar,The percentage of samples that don't have invisible characters.,CulturaX,C4,99.76,99.99,99.9,99.84
+RuleLatexSpecialChar,The percentage of samples that don't have latex mark-up.,All,All,100,100,100,100
+RuleLineJavascriptCount,The percentage of samples that don't contain the word 'javascript'.,All,All,100,100,100,100
+RuleLoremIpsum,The percent of samples that don't contain Lorem Ipsum text.,Three datasets,CulturaX,100,99.97,100,100
+RuleMeanWordLength,The percentage of samples that have a mean word length between 3 and 10 characters.,CulturaX,C4,96.05,100,98.23,98.71
+RuleSpaceMore,The percent of samples that don't have 500 spaces.,All,All,100,100,100,100
+RuleSpecialCharacter,The percentage of samples that don't have special characters.,"OSCAR, Wikipedia",C4,98.95,99.99,100,100
+RuleStopWord,The percentage of samples where over 6% of the words are (English) stop words.,Wikipedia,C4,77.01,99.13,90.67,99.61
+RuleSymbolWordRatio,The percentage of samples where the ratio between symbols and words is greater than 40%.,All,All,100,100,100,100
+RuleOnlyUrl,The percentage of samples that are URLs.,All,All,100,100,100,100
+RuleDocRepeat,The percentage of samples that don't have repeating lines.,"CulturaX, Wikipedia",C4,99.56,100,99.97,100
+RuleCapitalWords,The percentage of samples where  80% of words are not capitalised.,Wikipedia,C4,98.31,99.99,99.85,100
+RuleCurlyBracket,The percentage of samples where there isn't a ratio greater than 10% between curly brackets and other characters.,"CulturaX, Wikipedia",C4,99.89,100,99.99,100
+RuleLineStartWithBulletpoint,The percentage of samples that don't start with a bullet point.,Three datasets,OSCAR,100,100,99.67,100
+RuleUniqueWords,The percentage of samples where there isn't a ratio greater than 10% 0.1 of unique words.,"CulturaX, Wikipedia",C4,99.84,100,99.96,100
