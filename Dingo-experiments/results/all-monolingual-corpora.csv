@@ -13,7 +13,7 @@ eRuleContentShort,Percentage of samples longer than 20 characters.,Three dataset
 RuleContentShortMultiLan,Percentage of samples shorter than 20 characters after cleaning.,CulturaX,C4,92,100,92.53,94.78
 RuleEnterAndSpace,Percentage of samples without too many line breaks and spaces together.,All,All,100,100,100,100
 RuleEnterMore,Percentage of samples without 8 line breaks in a row.,All,All,100,100,100,100
-RuleEnterRatioMore,Percentage of samples where line breaks take up more than 25% of the content.,All,All,100,100,100,100
+RuleEnterRatioMore,Percentage of samples where line breaks take up less than 25% of the content.,All,All,100,100,100,100
 RuleHtmlEntity,Percentage of samples without HTML entities (like &nbsp;).,Three datasets,C4,99.99,100,100,100
 RuleHtmlTag,Percentage of samples without HTML tags (like <div>).,All,All,100,100,100,100
 RuleInvisibleChar,Percentage of samples without hidden characters.,CulturaX,C4,99.76,99.99,99.9,99.84
@@ -25,7 +25,7 @@ RuleSpaceMore,Percentage of samples that don’t contain 500 spaces.,All,All,100
 RuleSpecialCharacter,Percentage of samples without unusual characters.,"OSCAR, Wikipedia",C4,98.95,99.99,100,100
 RuleStopWord,"Percentage of samples where at least 6% of words are common English stop words (like the, and, of).",Wikipedia,C4,77.01,99.13,90.67,99.61
 RuleSymbolWordRatio,Percentage of samples where symbols make up more than 40% compared to words.,All,All,100,100,100,100
-RuleOnlyUrl,Percentage of samples that are URLs.,All,All,100,100,100,100
+RuleOnlyUrl,Percentage of samples that are not URLs.,All,All,100,100,100,100
 RuleDocRepeat,Percentage of samples without repeated identical lines.,"CulturaX, Wikipedia",C4,99.56,100,99.97,100
 RuleCapitalWords,Percentage of samples where at least 80% of words are lowercase.,Wikipedia,C4,98.31,99.99,99.85,100
 RuleCurlyBracket,Percentage of samples where curly brackets {} and other characters aren’t more than 10% of the text.,"CulturaX, Wikipedia",C4,99.89,100,99.99,100

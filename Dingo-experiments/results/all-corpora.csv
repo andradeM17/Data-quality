@@ -13,7 +13,7 @@ eRuleContentShort,Percentage of samples longer than 20 characters.,HPLT,EUconst,
 RuleContentShortMultiLan,Percentage of samples shorter than 20 characters after cleaning.,HPLT,"Tatoeba, XLEnt",10.83,39.09,31.28,45.93,10.71,1.98,34.12,31.38,0.3,0.3
 RuleEnterAndSpace,Percentage of samples without too many line breaks and spaces together.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
 RuleEnterMore,Percentage of samples without 8 line breaks in a row.,All,All,100,100,100,100,100,100,100,100,100,100
-RuleEnterRatioMore,Percentage of samples where line breaks take up more than 25% of the content.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
+RuleEnterRatioMore,Percentage of samples where line breaks take up less than 25% of the content.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
 RuleHtmlEntity,Percentage of samples without HTML entities (like &nbsp;).,Eight datasets,QED,99.95,100,100,100,100,100,100,99.77,100,100
 RuleHtmlTag,Percentage of samples without HTML tags (like <div>).,All,All,100,100,100,100,100,100,100,100,100,100
 RuleInvisibleChar,Percentage of samples without hidden characters.,"EUbookshop, NLLB",EUconst,99.48,100,74.95,100,100,98.96,100,97.92,100,99.92
@@ -25,7 +25,7 @@ RuleSpaceMore,Percentage of samples that don’t contain 500 spaces.,All,All,100
 RuleSpecialCharacter,Percentage of samples without unusual characters.,Eight datasets,CCMatrix,99.97,100,100,100,100,100,100,100,100,99.99
 RuleStopWord,"Percentage of samples where at least 6% of words are common English stop words (like the, and, of).",HPLT,XLEnt,37.31,57.16,43.44,74.11,44.23,22.44,58.87,63.25,21.13,3.39
 RuleSymbolWordRatio,Percentage of samples where symbols make up more than 40% compared to words.,Four datasets,OpenSubtitles,99.95,99.89,100,99.99,100,99.75,99.99,100,100,99.99
-RuleOnlyUrl,Percentage of samples that are URLs.,All,All,100,100,100,100,100,100,100,100,100,100
+RuleOnlyUrl,Percentage of samples that are not URLs.,All,All,100,100,100,100,100,100,100,100,100,100
 RuleDocRepeat,Percentage of samples without repeated identical lines.,Four datasets,CCMatrix,99.85,100,100,99.99,100,99.99,99.9,99.99,100,99.92
 RuleCapitalWords,Percentage of samples where at least 80% of words are lowercase.,Tatoeba,Euconst,97.92,92.99,89.52,99.19,98,99.05,99.15,98.15,99.7,93.06
 RuleCurlyBracket,Percentage of samples where curly brackets {} and other characters aren’t more than 10% of the text.,Six datasets,NLLB,99.97,99.99,100,99.99,99.93,100,100,100,100,100
