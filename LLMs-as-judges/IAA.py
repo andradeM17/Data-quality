@@ -4,7 +4,7 @@ from sklearn.metrics import cohen_kappa_score
 csv_file = 'LLMs-as-judges/results.csv'
 df = pd.read_csv(csv_file)
 
-annotator_cols = df.columns[17:23]  # adjust as needed
+annotator_cols = df.columns[19:26]  # adjust as needed
 
 kappa_matrix = pd.DataFrame(index=annotator_cols, columns=annotator_cols, dtype=float)
 for i, ann1 in enumerate(annotator_cols):
