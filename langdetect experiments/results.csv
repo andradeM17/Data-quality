@@ -1,0 +1,27 @@
+	First language	Second language	Ratio	ga score	sv score	hu score	en score
+	ga	en	90%	0.9999989453			
+	ga	en	70%	0.999999447			
+	ga	en	50%	0.8571425326			0.1428571539
+	ga	en	20%	0.9999964996			
+	ga	gd	90%	0.9999978241			
+	ga	gd	70%	0.999999432			
+	ga	gd	50%	0.9999984704			
+	ga	gd	20%	0.9999978241			
+	ga	hu	90%	0.9999980625			
+	ga	hu	70%	0.9999987941			
+	ga	hu	50%	0.9999966663			
+	ga	hu	20%			0.9999975982	
+	ga	is	90%	0.9999980625			
+	ga	is	70%	0.9999995413			
+	ga	is	50%	0.999995109			
+	ga	is	20%	0.285713566	0.5714255682	0.1428562628	
+	gd	ga	90%	0.9999974984			
+	gd	ga	70%	0.9999980892			
+	gd	ga	50%	0.9999967216			
+	gd	ga	20%	0.9999965589			
+							
+Dataset	First language		Ratio				
+C4	ga		100%	0.9999983899			
+CulturaX	ga		100%	0.999998475			
+OSCAR	ga		100%	0.9999980603			
+Wikipedia	ga		100%	0.9999988169			
