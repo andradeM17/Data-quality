@@ -98,7 +98,7 @@ class LanguageDetector:
         return
 
 if __name__ == "__main__":
-    folder_path = "langdetect experiments/100samples"
+    folder_path = "langdetect experiments/files"
     for file_name in os.listdir(folder_path):
         full_path = os.path.join(folder_path, file_name)
         if os.path.isfile(full_path):
