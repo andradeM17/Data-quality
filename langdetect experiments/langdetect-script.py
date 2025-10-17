@@ -1,6 +1,6 @@
 from collections import namedtuple
-from langdetect import detect_langs, DetectorFactory
-from langdetect.lang_detect_exception import LangDetectException
+from trainedmodel.langdetect import detect_langs, DetectorFactory
+from trainedmodel.langdetect.lang_detect_exception import LangDetectException
 import logging, os
 
 logger = logging.getLogger(__name__)
