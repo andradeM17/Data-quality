@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score
 import matplotlib.pyplot as plt
+import numpy as np
 
 # ----------------------------------------
 # 1. Create your dataset
@@ -79,12 +80,62 @@ print(importances)
 # 5. Visualization
 # ----------------------------------------
 
-plt.figure(figsize=(6,6))
-plt.scatter(y, y_pred_rf, label="Predicted (RF)")
-plt.plot([min(y), max(y)], [min(y), max(y)], 'r--', label="Perfect Fit")
-plt.xlabel("Actual Score")
-plt.ylabel("Predicted Score")
-plt.title("Actual vs Predicted Scores (Random Forest)")
-plt.legend()
+import matplotlib.pyplot as plt
+import numpy as np
+
+# ---------------------------
+# 1. Linear Regression Coefficients
+# ---------------------------
+
+coefficients = linreg.coef_  # Correct reference to your linear model
+features = X.columns
+
+# Sort by coefficient magnitude
+indices = np.argsort(coefficients)
+sorted_features = [features[i] for i in indices]
+sorted_coefficients = coefficients[indices]
+
+plt.figure(figsize=(10, 6))
+bars = plt.barh(sorted_features, sorted_coefficients, color=['tomato' if c < 0 else 'skyblue' for c in sorted_coefficients])
+plt.axvline(0, color='black', linewidth=0.8)
+plt.xlabel("Coefficient Value")
+plt.ylabel("Variable")
+plt.title("Linear Regression Coefficients")
+
+# Annotate values
+for bar in bars:
+    plt.text(bar.get_width() + (0.5 if bar.get_width() > 0 else -0.5),
+             bar.get_y() + bar.get_height()/2,
+             f"{bar.get_width():.2f}",
+             va='center', ha='right' if bar.get_width() < 0 else 'left')
+
 plt.tight_layout()
-plt.savefig("score_fit_plot.png", dpi=300)  # Save instead of show()
+plt.savefig("linear_coefficients.png", dpi=300)
+print("Linear regression coefficient plot saved as 'linear_coefficients.png'")
+
+# ---------------------------
+# 2. Random Forest Feature Importances
+# ---------------------------
+
+rf_importances = rf.feature_importances_
+features = X.columns
+
+# Sort by importance
+indices = np.argsort(rf_importances)[::-1]
+sorted_features = [features[i] for i in indices]
+sorted_importances = rf_importances[indices]
+
+plt.figure(figsize=(10, 6))
+bars = plt.barh(sorted_features[::-1], sorted_importances[::-1], color='mediumseagreen')
+plt.xlabel("Feature Importance")
+plt.ylabel("Variable")
+plt.title("Random Forest Feature Importances")
+
+# Annotate values
+for bar in bars:
+    plt.text(bar.get_width() + 0.002, bar.get_y() + bar.get_height()/2,
+             f"{bar.get_width():.3f}", va='center')
+
+plt.tight_layout()
+plt.savefig("rf_feature_importances.png", dpi=300)
+print("Random Forest feature importance plot saved as 'rf_feature_importances.png'")
