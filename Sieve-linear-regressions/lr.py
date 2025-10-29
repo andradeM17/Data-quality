@@ -13,32 +13,12 @@ import numpy as np
 # 1. Create your dataset
 # ----------------------------------------
 
-data = {
-    "Score": [69.5, -27.5, 109, -38.5, -107, 121.5, 86.5, 79, 96, 113, 73, 114, 65, -108],
-    "LANGD": [True, True, True, True, True, True, True, True, True, True, False, False, False, False],
-    "DEDUP": [True, True, True, True, True, False, False, False, False, False, False, False, False, False],
-    "RMKUP": [True, True, True, True, False, False, False, False, False, False, True, False, False, False],
-    "RMLEN": [True, False, False, False, False, False, False, True, True, False, False, False, False, False],
-    "RFDOC": [True, True, True, False, False, False, False, False, False, False, False, False, False, False],
-    "RMBOL": [True, False, False, False, True, False, False, False, False, False, False, False, False, False],
-    "RMOBS": [True, True, False, False, False, False, False, False, False, False, False, False, False, False],
-    "METCL": [True, False, False, True, False, False, False, False, False, False, False, False, False, False],
-    "RMURL": [True, False, True, False, False, False, False, False, False, False, False, False, False, False],
-    "RMCLN": [False, True, False, False, False, False, False, False, False, True, False, False, False, False],
-    "SNTSP": [False, False, False, True, False, False, True, False, False, False, False, False, False, False],
-    "RMLNG": [False, False, False, True, False, True, False, False, False, False, False, False, False, False],
-    "PARSP": [False, False, True, False, False, True, False, False, False, False, False, False, False, False],
-    "DOMFX": [False, True, False, False, False, False, False, False, False, False, False, False, False, False],
-    "TRANL": [False, False, False, True, False, False, False, False, False, False, False, False, False, False],
-    "SPCCR": [False, False, False, False, False, False, True, False, False, False, False, False, False, False],
-    "ADDMT": [False, False, False, False, False, False, True, False, False, False, False, False, False, False],
-    "WDSEG": [False, False, False, False, False, True, False, False, False, False, False, False, False, False],
-}
-
-df = pd.DataFrame(data)
-
-# Convert TRUE/FALSE to 1/0
-df = df.replace({True: 1, False: 0})
+df = pd.read_csv("Sieve-linear-regressions/lrdata.csv", header=None)
+df = df.set_index(0)
+df = df.transpose()
+df.columns.name = None
+df = df.replace({"TRUE": 1, "FALSE": 0, True: 1, False: 0})
+df["Score"] = pd.to_numeric(df["Score"], errors="coerce")
 
 # ----------------------------------------
 # 2. Separate features and target
