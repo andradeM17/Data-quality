@@ -4,17 +4,44 @@ import csv
 import os
 import tempfile
 
+# List of all rules to test
 RULE_LIST = [
-    "RuleLineEndWithEllipsis", "RuleLineEndWithTerminal", "RuleSentenceNumber", "RuleWordNumber",
-    "RuleAbnormalChar", "RuleAbnormalHtml", "RuleAlphaWords", "RuleCharNumber", "RuleColonEnd",
-    "RuleContentNull", "RuleContentShort", "RuleContentShortMultiLan", "RuleEnterAndSpace", "RuleEnterMore",
-    "RuleEnterRatioMore", "RuleHtmlEntity", "RuleHtmlTag", "RuleInvisibleChar", "RuleLatexSpecialChar",
-    "RuleLineJavascriptCount", "RuleLoremIpsum", "RuleMeanWordLength", "RuleSpaceMore",
-    "RuleSpecialCharacter", "RuleStopWord", "RuleSymbolWordRatio", "RuleOnlyUrl", "RuleDocRepeat",
-    "RuleCapitalWords", "RuleCurlyBracket", "RuleLineStartWithBulletpoint", "RuleUniqueWords"
+    "RuleCharNumber",
+    "RuleWordNumber",
+    "RuleContentShortMultiLan",
+    "RuleLineEndWithTerminal",
+    "RuleStopWord",
+    "RuleSentenceNumber",
+    "RuleContentShort",
+    "RuleAlphaWords",
+    "RuleInvisibleChar",
+    "RuleAbnormalChar",
+    "RuleMeanWordLength",
+    "RuleEnterAndSpace",
+    "RuleEnterRatioMore",
+    "RuleCapitalWords",
+    "RuleLineEndWithEllipsis",
+    "RuleContentNull",
+    "RuleSpecialCharacter",
+    "RuleLineStartWithBulletpoint",
+    "RuleDocRepeat",
+    "RuleSymbolWordRatio",
+    "RuleAbnormalHtml",
+    "RuleHtmlEntity",
+    "RuleUniqueWords",
+    "RuleCurlyBracket",
+    "RuleLoremIpsum",
+    "RuleColonEnd",
+    "RuleEnterMore",
+    "RuleHtmlTag",
+    "RuleLatexSpecialChar",
+    "RuleLineJavascriptCount",
+    "RuleSpaceMore",
+    "RuleOnlyUrl"
 ]
 
 def create_limited_dataset(input_path, max_lines=10000):
+    """Create a temporary truncated dataset of max_lines lines."""
     temp_file = tempfile.NamedTemporaryFile(mode='w', suffix='.txt', delete=False, encoding='utf-8')
     try:
         with open(input_path, 'r', encoding='utf-8') as infile:
@@ -30,12 +57,10 @@ def create_limited_dataset(input_path, max_lines=10000):
         raise e
 
 def run_eval(eval_group, input_path, rules):
+    """Run Dingo Executor for a given dataset and rule(s)."""
     input_data = {
         "input_path": input_path,
-        "dataset": {
-            "source": "local",
-            "format": "plaintext"
-        },
+        "dataset": {"source": "local", "format": "plaintext"},
         "executor": {
             "eval_group": eval_group,
             "rule_list": rules,
@@ -46,99 +71,48 @@ def run_eval(eval_group, input_path, rules):
     executor = Executor.exec_map["local"](input_args)
     return executor.execute()
 
-def get_rule_description(rule, result):
-    """Return a description string for the rule based on the result."""
-    match rule:
-        case "RuleLineEndWithEllipsis":
-            return f"Over 30% of sentences in {100-result.score:.0f}% of the samples end with ellipsis (...)."
-        case "RuleLineEndWithTerminal":
-            return f"Over 60% of sentences in {result.score:.0f}% of the samples end with terminal punctuation (.!?;)."
-        case "RuleSentenceNumber":
-            return f"{result.score:.0f}% of the samples have between 3 and 7,500 sentences."
-        case "RuleWordNumber":
-            return f"{result.score:.0f}% of the samples have between 20 and 100,000 words."
-        case "RuleAlphaWords":
-            return f"Over 60% of the words in {result.score:.0f}% of the samples have alphabetic characters."
-        case "RuleCharNumber":
-            return f"{result.score:.0f}% of the samples have more than 100 characters."
-        case "RuleColonEnd":
-            return f"{100-result.score:.0f}% of the samples finish in a colon (:)."
-        case "RuleContentNull":
-            return f"{100-result.score:.0f}% of the samples are empty."
-        case "RuleHtmlEntity":
-            return f"{100-result.score:.0f}% of the samples have HTML content."
-        case "RuleLineJavascriptCount":
-            return f'{100-result.score:.0f}% of the samples contain the word "javascript".'
-        case "RuleLoremIpsum":
-            return f"{100-result.score:.0f}% of the samples contain Lorem Ipsum text."
-        case "RuleMeanWordLength":
-            return f"{result.score:.0f}% of the samples have a mean word length between 3 and 10 characters."
-        case "RuleSpecialCharacter":
-            return f"{100-result.score:.0f}% of the samples have special characters."
-        case "RuleStopWord":
-            return f"Over 6% of words in {100-result.score:.0f}% of the samples are stop words."
-        case "RuleSymbolWordRatio":
-            return f"In {100-result.score:.0f}% of the samples, the ratio between symbols and words is > 0.4."
-        case "RuleDocRepeat":
-            return f"{100-result.score:.0f}% of the samples have repeating lines."
-        case "RuleCapitalWords":
-            return f"Over 20% of words in {100-result.score:.0f}% of the samples are capitalised."
-        case "RuleCurlyBracket":
-            return f"There is a ratio > 0.1 between curly brackets and other characters in {100-result.score:.0f}% of the samples."
-        case "RuleLineStartWithBulletpoint":
-            return f"{100-result.score:.0f}% of the samples start with a bullet point."
-        case "RuleUniqueWords":
-            return f"{100-result.score:.0f}% of the samples have a ratio > 0.1 of unique words."
-        case _:
-            return ""
-
 def main():
-    datasets = ["cx", "w"]
+    datasets = ["CCMatrix", "EUBookshops", "EUconst", "hplt", "NLLB", "OpenSubtitles", "Paracrawl", "QED", "Tatoeba", "XLEnt"]
     temp_files_to_cleanup = []
+    summary_rows = []
 
     try:
         for d in datasets:
-            dataset_path = f"Dingo-experiments/data/{d}.txt"
+            dataset_path = f"WMDQS/Dingo/JSONL/{d}.jsonl"
             dataset_name = os.path.basename(dataset_path[:-6])
 
             print(f"\nCreating limited dataset (10,000 lines) for {dataset_name}...\n\n")
             limited_dataset_path = create_limited_dataset(dataset_path, max_lines=10000)
             temp_files_to_cleanup.append(limited_dataset_path)
 
-            results = []
+            # Prepare one row per dataset with all rule scores
+            dataset_result = {"Rule": dataset_name}
 
-            for group in ["default"]:
-                for rule in RULE_LIST:
-                    print(f"Testing {rule} on {d}")
-                    result = run_eval(group, limited_dataset_path, [rule])
-                    description = get_rule_description(rule, result)
-                    if description and round(result.score) != 0 and round(result.score) != 100:
-                        print(description + "\n")
+            for rule in RULE_LIST:
+                print(f"Testing {rule} on {d}")
+                try:
+                    result = run_eval("default", limited_dataset_path, [rule])
+                    dataset_result[rule] = round(result.score, 2)
+                except Exception as e:
+                    print(f"⚠️ Error running {rule} on {dataset_name}: {e}")
+                    dataset_result[rule] = ""
 
-                    row = {
-                        "rule_applied": rule,
-                        "score": result.score,
-                        "num_good": result.num_good,
-                        "num_bad": result.num_bad,
-                        "total": result.total,
-                        "description": description
-                    }
+            summary_rows.append(dataset_result)
 
-                    results.append(row)
+        # Write summary CSV (tab-separated)
+        output_csv = "Dingo-experiments/results/WMDQS-summary.csv"
+        os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+        fieldnames = ["Rule"] + RULE_LIST
 
-            # Write CSV for this dataset
-            fieldnames = ["rule_applied", "score", "num_good", "num_bad", "total", "description"]
-            output_csv = f"Dingo-experiments/results/{d}.csv"
+        with open(output_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="\t")
+            writer.writeheader()
+            writer.writerows(summary_rows)
 
-            with open(output_csv, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerows(results)
-
-            print(f"\nSaved results to {output_csv}")
+        print(f"\n✅ Saved summary results for all rules to {output_csv}")
 
     finally:
-        # Clean up temporary files
+        # Clean up temp files
         for temp_file in temp_files_to_cleanup:
             try:
                 os.unlink(temp_file)
