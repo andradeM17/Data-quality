@@ -13,7 +13,7 @@ import numpy as np
 # 1. Create your dataset
 # ----------------------------------------
 
-df = pd.read_csv("Sieve-linear-regressions/lrdata.csv", header=None)
+df = pd.read_csv("Sieve-linear-regressions/dingo/lrdata.csv", header=None)
 df = df.set_index(0)
 df = df.transpose()
 df.columns.name = None
@@ -60,8 +60,7 @@ print(importances)
 # 5. Visualization
 # ----------------------------------------
 
-import matplotlib.pyplot as plt
-import numpy as np
+
 
 # ---------------------------
 # 1. Linear Regression Coefficients
@@ -90,7 +89,7 @@ for bar in bars:
              va='center', ha='right' if bar.get_width() < 0 else 'left')
 
 plt.tight_layout()
-plt.savefig("Sieve-linear-regressions/linear_coefficients.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/dingo/linear_coefficients.png", dpi=300)
 print("Linear regression coefficient plot saved as 'linear_coefficients.png'")
 
 # ---------------------------
@@ -117,5 +116,5 @@ for bar in bars:
              f"{bar.get_width():.3f}", va='center')
 
 plt.tight_layout()
-plt.savefig("Sieve-linear-regressions/rf_feature_importances.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/dingo/rf_feature_importances.png", dpi=300)
 print("Random Forest feature importance plot saved as 'rf_feature_importances.png'")
