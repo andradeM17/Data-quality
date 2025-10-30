@@ -1,5 +1,5 @@
 Rule,Description,Highest score,Lowest score,CCMatrix,EUbookshop,EUconst,HPLT,NLLB,OpenSubtitles,Paracrawl,QED,Tatoeba,XLEnt
-RuleLineEndWithEllipsis,Percentage of samples that don’t end with “…”.,EUconst,CCMatrix,97.17,98.77,100,98.71,99.24,98.54,99.1,99.48,99.9,99.94
+RuleLineEndWithEllipsis,Percentage of samples that don't end with “…”.,EUconst,CCMatrix,97.17,98.77,100,98.71,99.24,98.54,99.1,99.48,99.9,99.94
 RuleLineEndWithTerminal,"Percentage of samples where more than 60% of sentences end with punctuation (., !, ?, ;).",OpenSubtitles,XLEnt,85.51,60.37,50.76,83.09,60.7,96.65,54.21,73.96,99.05,0.4
 RuleSentenceNumber,"Percentage of samples with 3 to 7,500 sentences.",Eubookshop,XLEnt,1.51,4.43,0.65,1.9,0.41,0.36,1.31,0.7,0.05,0
 RuleWordNumber,"Percentage of samples with 20 to 100,000 words.",Eubookshop,XLEnt,11.28,39.27,31.45,45.82,10.72,1.88,34.66,30.6,0.25,0.3
@@ -7,9 +7,9 @@ RuleAbnormalChar,Percentage of samples without strange or hidden characters.,NLL
 RuleAbnormalHtml,Percentage of samples without HTML code or tags.,Eight datasets,QED,99.95,100,100,100,100,100,100,99.77,100,100
 RuleAlphaWords,Percentage of samples where at least 60% of words are alphabetic (letters).,HPLT,NLLB,85.84,87.83,68,97.74,64.23,82.13,96.01,91.62,97.29,97.68
 RuleCharNumber,Percentage of samples longer than 100 characters.,HPLT,Tatoeba,10.27,41.27,33.12,44.4,9.98,1.15,36.14,24.2,0.2,3.46
-RuleColonEnd,Percentage of samples that don’t end with a colon (:).,All,All,100,100,100,100,100,100,100,100,100,100
+RuleColonEnd,Percentage of samples that don't end with a colon (:).,All,All,100,100,100,100,100,100,100,100,100,100
 RuleContentNull,Percentage of samples that are not empty.,Eight datasets,Euconst,100,100,98.87,100,100,100,100,99.99,100,100
-eRuleContentShort,Percentage of samples longer than 20 characters.,HPLT,EUconst,87.94,84.43,56.92,98.35,74.23,66.84,98.36,91.43,73.85,78.65
+RuleContentShort,Percentage of samples longer than 20 characters.,HPLT,EUconst,87.94,84.43,56.92,98.35,74.23,66.84,98.36,91.43,73.85,78.65
 RuleContentShortMultiLan,Percentage of samples shorter than 20 characters after cleaning.,HPLT,"Tatoeba, XLEnt",10.83,39.09,31.28,45.93,10.71,1.98,34.12,31.38,0.3,0.3
 RuleEnterAndSpace,Percentage of samples without too many line breaks and spaces together.,Three datasets,EUconst,100,99.89,84.7,99.97,100,99.7,99.81,99.93,100,99.34
 RuleEnterMore,Percentage of samples without 8 line breaks in a row.,All,All,100,100,100,100,100,100,100,100,100,100
@@ -18,16 +18,16 @@ RuleHtmlEntity,Percentage of samples without HTML entities (like &nbsp;).,Eight 
 RuleHtmlTag,Percentage of samples without HTML tags (like <div>).,All,All,100,100,100,100,100,100,100,100,100,100
 RuleInvisibleChar,Percentage of samples without hidden characters.,"EUbookshop, NLLB",EUconst,99.48,100,74.95,100,100,98.96,100,97.92,100,99.92
 RuleLatexSpecialChar,Percentage of samples without LaTeX markup.,All,All,100,100,100,100,100,100,100,100,100,100
-RuleLineJavascriptCount,Percentage of samples that don’t contain the word “javascript”.,All,All,100,100,100,100,100,100,100,100,100,100
-RuleLoremIpsum,Percentage of samples that don’t contain Lorem Ipsum filler text.,All,All,100,100,100,100,100,100,100,100,100,100
+RuleLineJavascriptCount,Percentage of samples that don't contain the word “javascript”.,All,All,100,100,100,100,100,100,100,100,100,100
+RuleLoremIpsum,Percentage of samples that don't contain Lorem Ipsum filler text.,All,All,100,100,100,100,100,100,100,100,100,100
 RuleMeanWordLength,Percentage of samples with average word length between 3 and 10 letters.,Paracrawl,Euconst,97.48,96.94,77.92,99.23,95.58,97.36,99.02,98.54,98.69,94.93
-RuleSpaceMore,Percentage of samples that don’t contain 500 spaces.,All,All,100,100,100,100,100,100,100,100,100,100
+RuleSpaceMore,Percentage of samples that don't contain 500 spaces.,All,All,100,100,100,100,100,100,100,100,100,100
 RuleSpecialCharacter,Percentage of samples without unusual characters.,Eight datasets,CCMatrix,99.97,100,100,100,100,100,100,100,100,99.99
 RuleStopWord,"Percentage of samples where at least 6% of words are common English stop words (like the, and, of).",HPLT,XLEnt,37.31,57.16,43.44,74.11,44.23,22.44,58.87,63.25,21.13,3.39
 RuleSymbolWordRatio,Percentage of samples where symbols make up more than 40% compared to words.,Four datasets,OpenSubtitles,99.95,99.89,100,99.99,100,99.75,99.99,100,100,99.99
 RuleOnlyUrl,Percentage of samples that are not URLs.,All,All,100,100,100,100,100,100,100,100,100,100
 RuleDocRepeat,Percentage of samples without repeated identical lines.,Four datasets,CCMatrix,99.85,100,100,99.99,100,99.99,99.9,99.99,100,99.92
 RuleCapitalWords,Percentage of samples where at least 80% of words are lowercase.,Tatoeba,Euconst,97.92,92.99,89.52,99.19,98,99.05,99.15,98.15,99.7,93.06
-RuleCurlyBracket,Percentage of samples where curly brackets {} and other characters aren’t more than 10% of the text.,Six datasets,NLLB,99.97,99.99,100,99.99,99.93,100,100,100,100,100
-RuleLineStartWithBulletpoint,Percentage of samples that don’t begin with a bullet point.,Six datasets,Eubookshop,100,99.32,100,99.68,100,100,99.75,100,100,99.96
+RuleCurlyBracket,Percentage of samples where curly brackets {} and other characters aren't more than 10% of the text.,Six datasets,NLLB,99.97,99.99,100,99.99,99.93,100,100,100,100,100
+RuleLineStartWithBulletpoint,Percentage of samples that don't begin with a bullet point.,Six datasets,Eubookshop,100,99.32,100,99.68,100,100,99.75,100,100,99.96
 RuleUniqueWords,Percentage of samples where fewer than 10% of unique words are repeated too often.,Eight datasets,CCMatrix,99.91,100,100,100,100,100,100,100,100,99.94

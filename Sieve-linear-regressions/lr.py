@@ -90,7 +90,7 @@ for bar in bars:
              va='center', ha='right' if bar.get_width() < 0 else 'left')
 
 plt.tight_layout()
-plt.savefig("linear_coefficients.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/linear_coefficients.png", dpi=300)
 print("Linear regression coefficient plot saved as 'linear_coefficients.png'")
 
 # ---------------------------
@@ -117,5 +117,5 @@ for bar in bars:
              f"{bar.get_width():.3f}", va='center')
 
 plt.tight_layout()
-plt.savefig("rf_feature_importances.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/rf_feature_importances.png", dpi=300)
 print("Random Forest feature importance plot saved as 'rf_feature_importances.png'")
