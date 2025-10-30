@@ -7,11 +7,11 @@ import tempfile
 # List of all rules to test
 RULE_LIST = [
     "RuleCharNumber",
-    "RuleWordNumber",
     "RuleContentShortMultiLan",
+    "RuleWordNumber",
+    "RuleSentenceNumber",
     "RuleLineEndWithTerminal",
     "RuleStopWord",
-    "RuleSentenceNumber",
     "RuleContentShort",
     "RuleAlphaWords",
     "RuleInvisibleChar",
@@ -100,12 +100,12 @@ def main():
             summary_rows.append(dataset_result)
 
         # Write summary CSV (tab-separated)
-        output_csv = "Dingo-experiments/results/WMDQS-summary.csv"
+        output_csv = "Dingo-experiments/results/WMDQS-monolingual-summary.csv"
         os.makedirs(os.path.dirname(output_csv), exist_ok=True)
         fieldnames = ["Rule"] + RULE_LIST
 
         with open(output_csv, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="\t")
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(summary_rows)
 
