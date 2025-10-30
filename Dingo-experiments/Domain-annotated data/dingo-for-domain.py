@@ -72,7 +72,7 @@ def run_eval(eval_group, input_path, rules):
     return executor.execute()
 
 def main():
-    datasets = ["CCMatrix", "EUBookshops", "EUconst", "hplt", "NLLB", "OpenSubtitles", "Paracrawl", "QED", "Tatoeba", "XLEnt"]
+    datasets = ["Review", "Medical", "Literary", "Social media", "Website", "Subtitles", "News"]
     temp_files_to_cleanup = []
     summary_rows = []
 
