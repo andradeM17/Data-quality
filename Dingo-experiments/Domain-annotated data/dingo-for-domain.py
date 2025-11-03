@@ -11,45 +11,45 @@ def get_rule_description(rule, result):
     """Return a description string for the rule based on the result."""
     match rule:
         case "RuleLineEndWithEllipsis":
-            return f"Over 30% of sentences in {100 - result.score:.0f}% of the samples end with ellipsis (...)."
+            return f"Over 30% of sentences in this many samples don't end with ellipsis (...)."
         case "RuleLineEndWithTerminal":
-            return f"Over 60% of sentences in {result.score:.0f}% of the samples end with terminal punctuation (.!?;)."
+            return f"Over 60% of sentences in this many samples end with terminal punctuation (.!?;)."
         case "RuleSentenceNumber":
-            return f"{result.score:.0f}% of the samples have between 3 and 7,500 sentences."
+            return f"This many samples have between 3 and 7,500 sentences."
         case "RuleWordNumber":
-            return f"{result.score:.0f}% of the samples have between 20 and 100,000 words."
+            return f"This many samples have between 20 and 100,000 words."
         case "RuleAlphaWords":
-            return f"Over 60% of the words in {result.score:.0f}% of the samples have alphabetic characters."
+            return f"Over 60% of the words in this many samples have alphabetic characters."
         case "RuleCharNumber":
-            return f"{result.score:.0f}% of the samples have more than 100 characters."
+            return f"This many samples have more than 100 characters."
         case "RuleColonEnd":
-            return f"{100 - result.score:.0f}% of the samples finish in a colon (:)."
+            return f"This many samples don't finish in a colon (:)."
         case "RuleContentNull":
-            return f"{100 - result.score:.0f}% of the samples are empty."
+            return f"This many samples are not empty."
         case "RuleHtmlEntity":
-            return f"{100 - result.score:.0f}% of the samples have HTML content."
+            return f"This many samples don't have HTML content."
         case "RuleLineJavascriptCount":
-            return f' {100 - result.score:.0f}% of the samples contain the word "javascript".'
+            return f'This many samples don\'t contain the word "javascript".'
         case "RuleLoremIpsum":
-            return f"{100 - result.score:.0f}% of the samples contain Lorem Ipsum text."
+            return f"This many samples don't contain Lorem Ipsum text."
         case "RuleMeanWordLength":
-            return f"{result.score:.0f}% of the samples have a mean word length between 3 and 10 characters."
+            return f"This many samples have a mean word length between 3 and 10 characters."
         case "RuleSpecialCharacter":
-            return f"{100 - result.score:.0f}% of the samples have special characters."
+            return f"This many samples don't have special characters."
         case "RuleStopWord":
-            return f"Over 6% of words in {100 - result.score:.0f}% of the samples are stop words."
+            return f"Over 6% of words in this many samples are not stop words."
         case "RuleSymbolWordRatio":
-            return f"In {100 - result.score:.0f}% of the samples, the ratio between symbols and words is > 0.4."
+            return f"In this many samples, the ratio between symbols and words is <= 0.4."
         case "RuleDocRepeat":
-            return f"{100 - result.score:.0f}% of the samples have repeating lines."
+            return f"This many samples don't have repeating lines."
         case "RuleCapitalWords":
-            return f"Over 20% of words in {100 - result.score:.0f}% of the samples are capitalised."
+            return f"Over 20% of words in this many samples are not capitalised."
         case "RuleCurlyBracket":
-            return f"There is a ratio > 0.1 between curly brackets and other characters in {100 - result.score:.0f}% of the samples."
+            return f"There is a ratio <= 0.1 between curly brackets and other characters in this many samples."
         case "RuleLineStartWithBulletpoint":
-            return f"{100 - result.score:.0f}% of the samples start with a bullet point."
+            return f"This many samples don't start with a bullet point."
         case "RuleUniqueWords":
-            return f"{100 - result.score:.0f}% of the samples have a ratio > 0.1 of unique words."
+            return f"This many samples have a ratio <= 0.1 of unique words."
         case _:
             return ""
 
