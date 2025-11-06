@@ -29,7 +29,7 @@ def find_near_duplicates(lines):
         print(f"\tBucket length {length} with {len(length_buckets[length])} lines")
         candidates = length_buckets[length] + length_buckets.get(length - 1, []) + length_buckets.get(length + 1, [])
         for j, line in enumerate(candidates):
-            print(f"\t{round(((j/len(candidates))*100)**0.5)}%", end="\r")
+            print(f"\t{round(((j/len(candidates))*100)**2)}%", end="\r")
             if line in seen_lines:
                 continue
             for other in candidates[j+1:]:
@@ -75,7 +75,7 @@ def main():
 
         with open(filename, "r", encoding="utf-8") as f:
             lines = [line.strip() for line in f if line.strip()]
-            lines = lines[:10000]
+            lines = lines[:50000]
 
         print("Finding exact duplicates...")
         duplicates = find_duplicates(lines)
