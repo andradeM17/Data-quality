@@ -1,0 +1,913 @@
+SAINCHEISTEANNA COMHSHAOIL AGUS AN EORAIP
+Dearadh clúdaigh: © ZOB 2008 Léaráidí an chlúdaigh: © ZOB 2008 Léaráidí: © ZOB 2008 Leagan amach: EEA
+Fógra dlithiúil Níor ghá go léireodh ábhar an fhoilseacháin seo tuairimí oifigiúla an Choimisiúin Eorpaigh nó institiúidí eile de chuid na gComhphobal Eorpacha.
+Níl an Ghníomhaireacht Chomhshaoil Eorpach nó aon duine nó cuideachta ag gníomhú thar ceann na Gníomhaireachta freagrach as ucht an úsáid a d’fhéadfaí a bhaint as an eolas atá cuimsithe sa tuarascáil seo.
+Gach ceart ar cosaint Ní cheadaítear aon chuid den fhoilseachán seo a atáirgeadh ar aon mhodh nó slí, bíodh sin leictreonach nó meicniúil, lena n-áirítear fótachóipeáil, taifeadadh nó trí aon chóras aisghabhála stórála faisnéise, gan chead i scríbhinn ó shealbhóir an chóipchirt.
+Le haghaidh cearta aistriúcháin nó atáirgthe téigh i dteagmháil le do thoil le EEA (eolas an tseolta thíos).
+Tá eolas faoin Aontas Eorpach ar fáil ar an Idirlíon.
+Is féidir teacht air trí friothálaí Europa (www.europa.eu).
+Lucsamburg: Oifig um Fhoilseacháin Oifigiúla na gComhphobal Eorpach, 2009
+Táirgeadh comhshaoil Tá an foilseachán seo curtha i gcló faoi réir ardchaighdeáin chomhshaoil.
+Teastas Bainistíochta Comhshaoil: ISO 14001 IQNet — The International Certification Network DS/EN ISO 14001:2004 Teastas Cáilíochta: ISO 9001: 2000 Clárúchán EMAS: Ceadúnas uimh.
+DK — 000235 Éicilipéadú leis an Eala Nordach, ceadúnas uimh.
+541 176 Teastas FSC — cód clárúcháin: SW — COC — 698
+Páipéar — Mín-pháipéar neamhlonrach saor-adhmaid, TCF — Lipéad na hEala Nordach
+Priontáilte sa Danmhairg
+An Ghníomhaireacht Chomhshaoil Eorpach Kongens Nytorv 6 1050 Cóbanhávan K An Danmhairg Teil.: +45 33 36 71 00 Facs: +45 33 36 71 99 Gréasán: eea.europa.eu Fiosrúcháin: eea.europa.eu/enquiries
+Clár Ábhair
+Maolú athraithe aeráide – Ní baothchaint amháin .......................................................................6
+Oiriúnú athraithe aeráide – Má thriomaítear an tobar................................................................10 ................................................................10
+Bithéagsúlacht – Slugaí marfacha agus coimhthígh eile .............................................................14
+Truailliú aeir – Gach anáil a tharraingíonn tú67 ........................................................................18
+Talmhaíocht agus comhshaol – Ag glacadh CBT ar láimh ...........................................................22
+Muirí – Iasc ar thalamh tirim .................................................................................................26
+Fuinneamh – Bithfhuinneamh, má thiteann an lug ar an lag ......................................................30
+Dramhaíl – Ní i gcúl mo thí ...................................................................................................34
+Céard é Signals fhoilseofar sna 26 teanga an EEA, cur chuige bunaithe ar scéalta chun cabhrú linn cumarsáid níos éifeachtaí a dhéanamh leis an ngrúpa daoine ilghnéitheach seo.
+Cé nach bhfuil an ocht scéal a ndírítear orthu uileghabhálach, roghnaíodh iad mar gheall ar a n-ábharthacht leis an díospóireacht chomhshaoil atá ar siúl san Eoraip i láthair na huaire.
+Pléann siad saincheisteanna a bhaineann le hathrú aeráide, an nádúr, úsáid na n-acmhainní nádúrtha agus an tsláinte.
+Úsáideann Signals cineálacha éagsúla cur chuige chun a chuid scéalta a insint.
+Cé go mbaineann pointí sonracha le gach scéal, le chéile tugann siad léargas chomh maith ar an iomaí gaol idir saincheisteanna nach bhfuil baint ar bith acu lena chéile ar an gcéad amharc.
+Bheimis buíoch as ucht aon aiseolais maidir le Signals.
+Cuir do chuid tuairimí in iúl ar fhoirm fiosrúcháin phoiblí an EEA: http:// www.eea.europa.eu/enquiries.
+Ná déan dearmad 'Signals' a scríobh sa réimse ábhair.
+Foilsíonn an Ghníomhaireacht Chomhshaoil Eorpach (EEA) Signals ag tús gach bliana, agus is éard atá ann ná léargas gairid ar scéalta éagsúla i leith saincheisteanna atá ina n- ábhar spéise don bhliain atá ag teacht maidir leis an díospóireacht um an mbeartas comhshaoil féin agus don phobal i gcoitinne chomh maith.
+Déanaimid monatóireacht ar an gcomhshaol sa 32 balltír i gcomhpháirt lenár líonra.
+Bíonn an t-uafás sonraí comhshaoil in úsáid againn inár gcuid oibre, idir thaighdeoirí i mbun dian-oibre allamuigh agus íomháú satailíte.
+Ag croílár na hoibre a dhéanaimid tá an raon ‘comharthaí’ a bhaineann le sláinte agus le héagsúlacht ár gcomhshaoil a aimsiú, a léamh agus a thuiscint.
+Léiríonn ‘Signals’ meas ar chastacht na heolaíochta bunaidh mar aon le tuiscint ar na neamhchinnteachtaí bunúsacha a bhaineann leis na saincheisteanna uile a bpléimid leo.
+Tá réimse leathan daoine i measc ár bpobal léitheoireachta, idir mhic léinn agus eolaithe, ón lucht déanta beartas go feirmeoirí agus lucht na miongnóthas. Glacann Signals, a
+SIGNALS EEA 2009 / EAGARFHOCAL / 5
+In 2006 thagair an Tiarna Nicolas Stern don chostas a bhaineann le tionchair an athraithe aeráide.
+Mheas sé go bhféadfaí an costas a bhaineann le hathrú aeráide a laghdú go mór dá gcuirfí deireadh láithreach bonn le hastuithe gáis cheaptha teasa.
+Má théitear i mbun gnímh anois beidh sé níos saoire agus níos éifeachtaí ná gníomhaíochtaí a dtabharfar fúthu níos déanaí.
+Thionscain anailís Stern tionscnaimh i réimsí beartais eile, seirbhísí bithéagsúlachta agus éiceachórais ach go háirithe.
+Chabhraigh tionscnaimh cosúil le tionscnamh Stern le daoine tuiscint a fháil ar an damáiste a d'fhéadfaí a dhéanamh má leantar leis na patrúin tomhaltais reatha.
+Thar ní ar bith eile, ní mór go mbeadh meas áirithe againn ar an domhan nádúrtha an athuair, de bhrí gur eol do chách le fada an lá go bhfuilimid go léir freagrach as.
+Tá rialacha agus srianta áirithe dá chuid féin ag baint leis an nádúr.
+Is ionann ár ndomhan nádúrtha agus bunchloch — seachas cúlra — ár sochaí.
+Trí mheán Signals, tá sé i gceist againn cur leis an meas atá ag an bpobal ar an gcomhshaol nádúrtha.
+Tá súil againn tionchar a bheith againn ar smaoineamh agus meonta na ndaoine, mar aon le héifeacht a bheith againn ar na cinntí a dhéanaimid ar fad gach lá.
+Bliain stairiúil a bheidh anseo i gcás an chomhshaoil agus is é a bheidh mar chríoch leis an mbliain ná mórchruinniú na Náisiún Aontaithe um athrú aeráide i gCóbanhávan i mí na Nollag seo chugainn.
+Ní mór don chruinniú, a d’fhéadfadh a bheith ina thionól comhshaoil is tábhachtaí go dtí seo, teacht ar an réiteach ar an gcomharba a bheidh ar Phrótacal Kiótó.
+Níl sna hastuithe gáis cheaptha teasa ach gné amháin de shaincheist atá i bhfad níos doimhne: ár neamhábaltacht chun maireachtáil go hinbhuanaithe.
+Mar sin féin, níor cheart go gcuirfeadh scála na bhfadhbanna comhshaoil seo lagmhisneach orainn dul i mbun gnímh.
+Ba cheart go dtarraingeodh sé ár n-aird agus go dtabharfadh sé spreagadh dúinn patrúin nua, níos inbhuanaithe, maireachtála, fáis, táirgeachta agus ídithe a fhorbairt.
+I ndeireadh na dála, is ag trácht ar luach a chur ar ghnéithe bunúsacha an tsaoil atáimid.
+I láthair na huaire, agus na margaí airgid idir dhá cheann na meá, b'fhéidir go bhféadfaimis dul i muinín an chomhshaoil.
+An tOllamh Jacqueline McGlade, Stiúrthóir Feidhmiúcháin, An Ghníomhaireacht Chomhshaoil Eorpach Cóbanhávan
+Is minic a sholáthraíonn an domhan nádúrtha cúlra galánta ar ár saol laethúil.
+Ní gá go mbeadh i gceist leis an nádúr ach sruth, linn nó trá áitiúil.
+Ar scála níos leithne, is cinnte go dtéann áilleacht dhochreidte na nAlp nó na Sléibhte Cairp, na bhforaoisí ársa, na n-aibhneacha móra nó na gcóstaí galánta i bhfeidhm go mór orainn.
+Má amharcaimid níos faide ó bhaile ná an Eoraip, is deacair íomhánna iontacha de mhaiseanna oighir an Aigéin Artaigh agus an Aigéin Antartaigh, foraoisí báistí Amazonia agus mánna safari na hAfraice a ruaigeadh ó chuimhne.
+Tá go leor dár n-oidhreacht nádúrtha i mbaol anois ó fhás daonra agus forbairt eacnamaíoch gan fasach.
+3 bhilliún duine a bhí ag maireachtáil ar an domhan seo nuair a rugadh mise.
+Inniu tá 6.7 billiún duine ann agus é tuartha go n-ardóidh an figiúr seo go 9 mbilliún faoin mbliain 2050.
+Tá fás as cuimse tagtha ar gheilleagar an domhain i dtéarmaí olltáirgeacht intíre dhomhanda (OTI): sa bhliain 1950 bhí OTI cothrom le Euro 4 thrilliún.
+In 2007 bhí sé os cionn EUR 42 trilliún.
+Tá roinnt cúiseanna éagsúla leis an méadú faoi dheich seo, go háirithe gluaiseacht amhábhar agus earraí — iad ar fad a thagann ónár gcomhshaol.I gcodarsnacht leis an bhfás eacnamaíoch seo, is tionchar diúltach a bhí aige ar ár gcomhshaol.
+Tá oighearshruthanna i sliabhraonta na hEorpa ag leá leis an toradh go bhfuil níos mó aibhneacha ag sceitheadh agus an saol ag éirí níos crua ar na milliúin daoine dá dheasca sin.
+Tá muiroighear samhraidh an Artaigh ag cúlú agus ag tanú níos tapa ná riamh: in 2007 bhí laghdú 50 % sa mhuiroighear i gcomparáid leis na 1950aidí.
+Ar fud an domhain, braitheann níos mó ná billiún duine, daoine bochta den chuid is mó, ar an iascaireacht mar fhoinse bhia agus slí bheatha.
+Mar sin féin, tá beagnach leath d'iascaireacht fhiáin an domhain ídithe go hiomlán anois.
+Tá an chosúlacht ar an scéal anois go dtitfidh an bun as iascaireacht tráchtála an domhain ar fad faoin mbliain 2050 mura dtagann athrú ar threochtaí reatha.
+Ar an talamh, tá foraoisí báistí á scriosadh ar mhaithe le forbairtí nach n-áiríonn go leor de na seirbhísí éiceolaíocha luachmhara a sholáthraíonn na foraoisí báistí.
+Cé go d’fhéadfadh na treochtaí seo ár ngaolmhaireacht leis an domhan nádúrtha a athrú ní fhéadfadh sé ár spleáchas air a athrú.
+Tacaíonn acmhainní nádúrtha an domhain lenár ngníomhaíocht eacnamaíoch chomh maith le comhtháthú ár sochaithe.
+Ach ní thugann an tslí ina n-eagraímid ár ngeilleagair dóthain aitheantais do nádúr spleách na gaolmhaireachta seo — ní sochaí gan chomhshaol, ach is cinnte go bhfuil comhshaoil gan sochaí.
+Is i gcroílár an díghrádaithe a fheicimid mórthimpeall orainn inár ndomhan nádúrtha atá an easpa airde ar na saincheisteanna is tábhachtaí.
+Ní baothchaint amháin
+Taidhleoireacht Dhomhanda agus an cuardach do chomharba ar Phrótacal Kiótó
+Gach uile bliain osclaítear geataí Gairdíní Cáiliúla Tivoli i gCóbanhávan, páirc shiamsaíochta seanbhunaithe i lár na cathrach, chun tús oifigiúil a chur le saoire na Nollag.
+Tá an chosúlacht ar an scéal an Nollaig seo nach iad soilse glioscarnacha Tivoli a bheidh sa spot sholas in aon chor d’fhonn go mbeidh aird na ndaoine dírithe COP 15 — an cruinniú athraithe aeráide is tábhachtaí riamh — nuair a thiocfaidh na mílte taidhleoirí, polaiteoirí, lucht gnó, comhshaolaithe agus saineolaithe aeráide ó ar fud na cruinne go príomhchathair na Danmhairge.
+SIGNALS EEA 2009 / MAOLÚ ATHRAITHE AERÁIDE / 7
+Sainmhíneoidh dúshlán an athraithe aeráide, agus ár bhfreagra air, sinne féin, ár ré, agus i ndeireadh na dála, ár leagáid dhomhanda
+Ban Ki‑Moon, Ard‑Rúnaí na Náisiún Aontaithe eile ar fáil dóibh freisin chun cabhrú leo a gcuid spriocanna a chomhlíonadh (féach ar an mbosca: Go dtógfar sinn go Kiótó in am).
+Tá Prótacal Kiótó tar éis a bheith conspóideach go leor de bhrí nár dhaingnigh na Stáit Aontaithe é agus de bhrí nach bhfuil spriocanna sonracha faoin bprótacal seo ag náisiúin atá i mbéal forbartha cosúil leis an tSín agus an India, náisiúin ag a bhfuil a ngeilleagair ag forbairt go tapa.
+An EEA — cuid amháin den scéal
+Is céim ríthábhachtach í an cruinniú seo i bpróiseas a tosaíodh i 1992 leis an ‘Earth Summit’ [Cruinniú Mullaigh na Cruinne] i Rio de Janeiro.
+Ba ann a cuireadh tús leis an gcur chuige domhanda chun dul i ngleic le hathrú aeráide i ndáiríre.
+Is é a bhí mar thoradh ar an gcruinniú mullaigh ná Creat-Choinbhinsiún na Náisiún Aontaithe um Athrú Aeráide (UNFCCC) atá mar bhonn dlí na n-iarrachtaí domhanda chun déileáil le hathrú aeráide.
+Táthar tar éis cruinnithe na Comhdhála, ar a dtugtar Comhdhálacha na bPáirtithe (COP), a thionól gach bliain ó 1994 i leith.
+Kiótó — an chéad chéim i laghdú na nastuithe fhoinse na laghduithe nó na méaduithe sna hastuithe.
+Ní mór do gach Ballstát an AE meastachán dá gcuid astuithe a sholáthar don Choimisiún Eorpach agus don EEA.
+Smaoinigh ar an earnáil fuinnimh, atá freagrach as ucht níos mó ná 80 % de líon iomlán na nastuithe gáis cheaptha teasa san AE.
+Méadaítear na staitisticí ar úsáid fuinnimh, bunaithe ar an gcineál breosla, faoi 'fachtóirí astuithe' agus ansin tugann gach tír meastachán ar na hastuithe fuinnimh.
+Meastar astuithe ón earnáil talmhaíochta bunaithe ar limistéar na n-ithreacha saothraithe, na cineálacha barr, úsáid leasacháin agus líon an bheostoic (eallaí, éanlaithe, caoirigh, muca, srl) sa tír.
+Díreach mar a dhéantar tástáil rialta ar lúthchleasaithe lena chinntiú go gcloíonn siad leis na rialacha, déantar monatóireacht rialta.
+Bailítear na sonraí ar fad le chéile ionas gur féidir léargas ginearálta a fháil ar astuithe ar fud na hEorpa agus seoltar chuig an gCoimisiún Eorpach iad, áit a nglactar leis na sonraí mar aighneacht oifigiúil an Chomhphobail Eorpaigh chuig an UNFCCC.
+De bhrí go mbíonn na sonraí le deimhniú ar leibhéal náisiúnta bíonn mhoill de bhliain go leith.
+Tá an tuarascáil is déanaí a foilsíodh i Meitheamh 2008 bunaithe ar shonraí 2006.
+Léirítear go raibh astuithe ó AE-15 suite ag 3 % faoi bhun na bonnbhliana.
+Tá ról ag foireann athraithe aeráide an EEA in iarracht na hEorpa, ag comhordú ról cuntasóireachta atá suntasach ollmhór.
+Bailítear, fíoraítear agus déantar anailís ar shonraí na nastuithe gáis cheaptha teasa (mar a thugtar orthu), ó ar fud na hEorpa i bhfoirm dhá phríomhthuarascáil a áirítear mar chuid de phróiseas Kiótó.
+I mbliana, baineann suntas faoi leith leis na huimhreacha agus an anailís atá le fáil sa dhá thuarascáil seo i gcomhthéacs an chruinnithe COP 15 sa mhéid is go dtugann siad léargas soiléir ar conas mar atá ag éirí le hiarrachtaí an AE chun astuithe gáis cheaptha teasa a laghdú.
+Beidh spéis ar leith ag tíortha nach n-áirítear faoin bPrótacal nó tíortha nach bhfuil spriocanna sonracha acu go fóill i leith conas mar atá ag éirí leis an AE an prótacal a chur i bhfeidhm.
+Céard a chiallaíonn na huimhreacha?
+An tuarascáil fardail — ag comhaireamh gás
+Is é Prótacal Kiótó, a síníodh i 1997 mar leathnú ar UNFCCC, an chéad chéim san iarracht fhadtéarmach chun na hastuithe a laghdú.
+Iarracht é seo nach mór a dhéanamh chun leibhéil dhainséaracha athraithe aeráide a chosc.
+Tiocfaidh deireadh leis an gcéad thréimhse tiomantais den phrótacal in 2012 agus beifear ag súil go sholáthróidh 'COP 15' comharba uaillmhianach.
+Baineann suntas ar leith le Prótacal Kiótó sa mhéid is gur shocraigh sé spriocanna ceangailteacha astaithe do na tíortha forbartha a dhaingnigh an Prótacal.
+Mar shampla, tá comhsprioc ag an 15 tír a bhí mar bhaill den AE (AE-15) i 1997 astuithe a laghdú 8 % i gcomparáid le 'bonnbhliain' Kiótó (1).
+Ní mór dóibh an sprioc seo a chomhlíonadh i rith na tréimhse 2008–2012 (2).
+Táthar ag súil go n-éireoidh le tíortha a spriocanna Kiótó a chomhlíonadh trí astuithe sa bhaile a laghdú.
+Tá deiseanna
+Eisítear an chéad tuarascáil ar ghás ceaptha teasa de chuid an EEA san earrach gach bliain agus tuarascáil 'fardail' a thugtar uirthi.
+Sa chomhthéacs seo tagraíonn gáis cheaptha teasa do ghrúpa de na gáis athraithe aeráide is dainséaraí dá bhfuil ann lena n-áirítear: déocsaíd charbóin, meatán, ocsaíd nítriúil mar aon le gáis fhluairínithe.
+Tá léargas le fáil ar threochtaí náisiúnta sa tuarascáil fardail: cibé an bhfuil astuithe ag ardú nó ag ísliú.
+Laistigh de gach tír, tugtar léargas ar
+Coincheap teibí go leor é an coincheap a bhaineann le gáis a chomhaireamh.
+Mar thoradh, is deacair freisin a dhéanamh amach cad go díreach a chiallaíonn laghdú nó méadú céatadáin sna hastuithe.
+B’fhéidir go gcabhródh sé na laghduithe a shamhlú mar laethanta na bliana.
+Is ionann spriocanna Kiótó an AE-15 agus luach 29 lá d’astuithe.
+Le haghaidh gach ceann de na 5 bliana idir 2008–2012, ar an meán, ba cheart go mbeadh astuithe an AE-15 cothrom le 29 lá níos lú ná leibhéil 1990.
+Ar an tslí seo, ní
+Tá 'bonnbhlianta' difriúla ag gáis dhifriúla faoi Phrótacal Kiótó.
+I ndáil le déocsaíd charbóin, meatán agus ocsáid nítriúil (99 % de na hastuithe go léir) úsáidtear 1990 mar 'bhonnbhliain' do gach Ballstát an AE-15.
+I ndáil le gáis fhluairínithe, féadfaidh tíortha bliain eile a roghnú más mian leo.
+Roghnaigh 12 Ballstát den AE-15 an bhliain 1995.Tá comhsprioc Kiótó ag an AE-15.
+Laistigh de seo, tá sprioc laghdaithe difreáilte ag gach Ballstát san AE-15: ba cheart do roinnt díobh astuithe a laghdú ach tá méadú teoranta ceadaithe do chinn eile.
+Tá spriocanna ar leith ag Ballstáit nua an AE seachas an Chipir agus Málta, níl aon spriocanna acu siúd.
+8 / SIGNALS EEA 2009 / MAOLÚ ATHRAITHE AERÁIDE mór go dtarlódh laghduithe sna hastuithe ar bhonn comhsheasmhach thar roinnt mhaith blianta.
+Is léir ó na sonraí is déanaí ó EEA gur tharla laghdú 10 lá d’astuithe idir 1990 agus 2006.
+Ní mór don AE-15 laghdú 19 lá eile a chur i bhfeidhm chun an sprioc a chomhlíonadh.
+réamh-mheastacháin na nastuithe gáis cheaptha teasa a bheidh ann i 2012 agus níos faide ar aghaidh ná 2020.
+Tá an léargas seo thar a bheith luachmhar i dtéarmaí eolas a fháil faoin bhfadhb atá ann i ndáiríre mar aon le heolas a fháil faoin slí is fearr chun beartas a fhorbairt le déileáil leis an bhfadhb (3).
+Treochtaí agus réamh-mheastachán
+Go gairid i ndiaidh an tuarascáil fardail a sholáthar, tosaíonn foireann athraithe
+Deimhníonn an tuarascáil Treochtaí agus réamh-mheastacháin is déanaí gur laghdaigh an AE-15 a chuid astuithe 3 % idir an bonnbhliain agus 2006.
+Luaitear sa tuarascáil go dteastóidh cineálacha aeráide an EEA ar an dara mórthasc tuairiscithe don bhliain leis an tuarascáil 'Treochtaí agus réamh-mheastacháin' mar thoradh.
+Foilsítear an tuarascáil seo sa gheimhreadh thart ar an am a thionóltar cruinniú bliantúil COP an AE.
+Tá anailís níos géire ar na treochtaí astuithe a luaitear sa chéad tuarascáil le fáil sa tuarascáil seo agus leagtar béim freisin ar fhoinse na nastuithe agus laghduithe an astaithe.
+Níos tábhachtaí ná sin ar fad, áirítear an t-am atá romhainn amach sa tuarascáil agus áirítear
+Go dtógfar sinn go Kiótó in am
+Bunaithe ar na sonraí is déanaí de chuid an EEA, bhí astuithe ón AE-15 suite 3 % faoi bhun leibhéil na 'bonnbhliana' in 2006.
+An Ríocht Aontaithe
+Ní mór do thíortha atá páirteach i bPrótacal Kiótó laghduithe suntasacha a chur i bhfeidhm sna hastuithe sa bhaile.
+Mar sin féin, i ndiaidh an choinníll seo a chomhlíonadh, féadfaidh siad úsáid a bhaint as Meicníochtaí Kiótó cosúil leis an 'Meicníocht Ghlanfhorbartha’ (CDM) agus 'Comhfheidhmiú’, dhá scéim a chiallaíonn gur féidir le tír sciar dá cuid astuithe féin a sheach-chur trí infheistiú in iarrachtaí laghdaithe in áiteanna eile.
+Uirlis eile is ea 'Scéim Trádála Astuithe’ an AE (STA AE), a chabhraíonn le tionscail a gcuid astuithe CO a laghdú ar bhealach
+– 1 costéifeachtach.
+Tá teorainneacha socraithe do na suímh thionsclaíocha ar
+– 1 fad a astaíonn a lán CO
+Féadfaidh suímh
+31 a ghearrann a gcuid astuithe laistíos dá
+'leithdháileadh' an chuid atá fágtha a dhíol mar liúntais astuithe le cuideachtaí eile nach bhfuil dóthain laghduithe déanta acu.
+Ar an tslí seo táthar tar éis margadh carbóin a fhorbairt.
+I láthair na huaire meastar go laghdóidh STA AE astuithe an AE-15 le níos mó ná 3 % (4).
+0102030 % (maidir le hastuithe na bonnbhliana)
+Bearna idir réamh-mheastacháin 2010 (bearta eiseacha) agus sprioc Kiótó
+I ndiaidh togra ón gCoimisiún Eorpach a mheas, d’fhéadfaí STA AE a leathnú le hearnálacha breise a áireamh, lena n-áirítear eitlíocht, peitriceimiceáin, amóinia agus alúmanam, mar aon le gáis nua, ionas go bhféadfaí beagnach leath de astuithe an AE a chumhdach (5).
+Bearna idir réamh-mheastacháin 2010 (lena n-áirítear bearta breise, slogaidí carbóin agus meicníochtaí Kiótó) agus sprioc Kiótó
+1 / Bearnaí idir spriocanna agus réamh-mheastacháin Kiótó an AE agus roinnt an ualaigh do 2010 don AE-15.
+Foinse: Tuarascáil treochtaí agus réamh-mheastachán, EEA, 2007.
+I rith tréimhse Kiótó (2008–2012) féadfaidh tíortha forbartha liúntais astuithe a thrádáil eatarthu féin ar mhaithe lena gcuid spriocanna náisiúnta a chomhlíonadh.
+Ag féachaint chun cinn i dtreo 2020, tugann an tuarascáil meastachán fadtéarmach ar an staid ina mbeidh astuithe ar fud na hEorpa.
+Baineann ábharthacht ar leith leis seo i gcomhthéacs an 'Phacáiste Aeráide agus Fuinnimh' atá á mholadh ag an gCoimisiún Eorpach, atá ag moladh spriocanna don bhliain 2020.I gcomparáid le ‘bonnbhliain’ Kiótó.I láthair na huaire, ní áirítear astuithe ón earnáil eitlíochta agus loingseoireachta faoi Phrótacal Kiótó nó faoi dhlí an AE.
+SIGNALS EEA 2009 / MAOLÚ ATHRAITHE AERÁIDE / 9 nádúrtha, cosúil leis an aigéan, a shúnn
+2, le 50 bliain anuas, rud a chiallaíonn nach mór go mbeadh ár n-iarrachtaí astuithe ó ghníomhaíochtaí daonna a laghdú níos éifeachtaí má táimid chun
+2 a choinneáil leibhéil atmaisféaracha COcobhsaí.
+‘Tá costais shuntasacha, idir chostais airgeadais agus mhorálta, le heaspa gníomhaíochta i ndáil le hathrú aeráide.
+Is iad na daoine bochta a bheidh thíos leis ar dtús, ach beidh tionchar ag na héifeachtaí iarmhartacha orainn ar fad,’ a dúirt an tOllamh Jacqueline McGlade, stiúrthóir feidhmiúcháin an EEA.'Sáraíonn athrú aeráide idir theorainneacha polaitiúla agus teorainneacha airgeadais.
+Ní ceist í seo a bhaineann le haire rialtais nó dhó i mbun plé i gcomh-aireachtaí náisiúnta.
+Is ceist í seo nach mór do cheannairí rialtais díriú uirthi agus is mar sin is ceart déileáil léi,' a dúirt sí.
+Tagairtí éagsúla cur chuige chun an bhearna atá fós ann a líonadh.
+Úsáidfear iarrachtaí 'baile' reatha agus beartaithe (atá ag tarlú i ngach tír), meicníochtaí Kiótó, slogaidí carbóin (cosúil le crainn a chur chun na gáis a shú) agus creidiúintí trádála carbóin rud a d'fhéadfadh laghdú 11 % in astuithe a chinntiú don AE-15.
+Mar sin féin, ní mór do thíortha céimeanna beartaithe a fhorfheidhmiú gan mhoill nó ní bheidh tionchar acu in am leis an sprioc a chomhlíonadh.Ar leibhéal náisiúnta, d’éirigh leis an bhFrainc, an Ghréig, an tSualainn agus an Ríocht Aontaithe a sprioc Kiótó siúd do 2006 a chomhlíonadh.
+Measann an Ostair, an Bheilg, an Fhionlainn, an Ghearmáin, Éire, Lucsamburg, an Ísiltír agus an Phortaingéil go gcomhlíonfaidh siad siúd a gcuid spriocanna, ach bunaithe ar réamh-mheastacháin ón Danmhairg, ón Iodáil agus ón Spáinn ní éireoidh leo a spriocanna um laghdú na nastuithe a chomhlíonadh.
+Ag féachaint chun cinn: lastall de Kiótó
+Bhí sé rídheacair an coincheap a chur i ngnímh ar bhealach a raibh glacadh ag tíortha tionsclaithe agus tíortha i mbéal forbartha leis.
+I mí na Nollag seo chugainn, is é an príomhthasc a bheidh ag COP 15 ná a chinntiú go ndéanfar beart de réir briathair ar mhaithe le hastuithe ar fud na cruinne a laghdú.
+Ciallaíonn sé seo go mbeidh spriocanna nua ann do laghduithe astuithe agus níos tábhachtaí ná sin ceannacháin náisiún i leith Meiriceá agus náisiúin atá ag forbairt cosúil leis an India agus an tSín.
+Táimid ar an eolas cheana féin maidir le seasamh an AE i ndáil leis na hiarrachtaí laghduithe astuithe a bheidh ar siúl amach anseo: laghdú 20 % in astuithe faoin mbliain 2020, agus laghdú 30 % má chinneann náisiúin forbartha eile a bheith páirteach ag an gcruinniú i gCóbanhávan.
+Beidh Ballstáit uile an AE-27 san áireamh.
+Tá sprioc 2020 an AE beagnach cothrom le deireadh a chur leis na hastuithe ar fad as modhanna iompair ar fud na hEorpa.
+Samhlaigh ar gach trucail, gach bus, gach carr, gach bád agus gach eitleán a scriosadh — i dtéarmaí astuithe.
+Is cinnte go bhfuil a leithéid thar a bheith uaillmhianach, ach ní mór go mbeadh mar go bhfuil an dúshlán féin thar a bheith dáiríre.
+Tugann na sonraí is déanaí le fios gur mhéadaigh astuithe domhanda CO2 ceithre huaire níos tapa ó 2000 i leith i gcomparáid leis na deich mbliana roimhe sin.
+Sáraíonn an méadú seo an cás is measa a thuairiscigh an Painéal Idir-Rialtasach ar Athrú Aeráide (IPCC) in 2007.
+Tá níos mó astuithe CO
+2 ag teacht ó thíortha tearcfhorbartha anois ná mar ata á n-astú ag tíortha forbartha.
+Tá laghdú tagtha ar éifeachtacht slogaidí
+Ba ag Cruinniú Mullaigh na Cruinne i Rio a cloiseadh don chéaduair na dordfhocail 'freagracht choitianta ach difreáilte', dordfhocail atá i mbéal an phobail ó shin i leith agus trácht á dhéanamh ar athrú aeráide.
+Go simplí, tugann an frása seo léargas ar an bpointe go bhfuil níos mó freagrachta ag náisiúin forbartha as ucht na gáis cheaptha teasa inár n-atmaisféar.
+Tá na tíortha seo tar éis a bheith níos tionsclaithe, tá níos mó astuithe cruthaithe acu agus ba cheart go mbeadh spriocanna dlíthiúla acu chun astuithe a laghdú roimh na náisiúin sin atá i mbéal forbartha.
+10 / SIGNALS EEA 2009 / OIRIÚNÚ ATHRAITHE AERÁIDE: UISCE AGUS TRIOMACH
+Má thriomaítear an tobar
+Oiriúnú athraithe aeráide agus uisce
+Deir Barış Tekin agus é ag labhairt óna árasán in Beşiktaş, dúiche stairiúil Iostanbúl, áit a bhfuil cónaí air lena bhean agus lena iníon go 'múchtar an t-uisce as uair nó dhó sa mhí, nó níos minice ná sin uaireanta’.
+'Tá thart ar 50 lítear uisce i mbuidéil againn san árasán do níochán agus do ghlanadh, ar fhaitíos go dteastódh sé uainn.
+Má mhúchtar an t-uisce as ar feadh tréimhse fada téimid chomh fada le teach m’athar nó teach thuismitheoirí mo mhná,' a deir Barış, ollamh le heacnamaíocht in Ollscoil Marmara.
+Triomach agus ganntanas uisce
+Níl umar uisce sa sean-árasán rud a chiallaíonn go bhfuil muintir Tekin ceangailte le córas uisce na cathrach.
+Mar gheall ar thriomach a bhí in Iarthar na Tuirce le dhá bhliain anuas bíonn sé riachtanach soláthar uisce na cathrach a mhúchadh ar feadh tréimhse suas le 36 uair an chloig.
+Ach tá seantaithí ag na daoine seo ar ghanntanas uisce — tá a leithéid ag tarlú ó bhí Barış féin ina pháiste.
+Cé go gciallaíonn feabhas san infreastruchtúr nach bhfuil an oiread sin uisce á chur amú, tá an triomach atá ann faoi láthair thar a bheith tromchúiseach, agus is cuid de shaol mhuintir na cathrach anois í ‘ciondáil uisce’ i rith mhíonna an tsamhraidh.
+Tionchair an athraithe aeráide le huisce ó aibhneacha cosúil leis an Ebro agus fiú amháin an Rhône sa Fhrainc a chur ar malairt treo (1).
+Tá triomach tubaisteach á bhraistint sa Chipir.
+Tá méadú ag teacht ar an éileamh atá ar uisce le 17 bliana anuas agus anois teastaíonn sa bhreis ar 100 milliún méadar ciúbach (m3) fionnuisce gach bliain.
+Le trí bliana anuas, ní raibh ach 24, 39, agus 19 milliún m3 faoi seach ar fáil.
+D’fhonn an ghéarchéim uisce a mhaolú tugadh uisce isteach ón nGréig an samhradh seo caite.
+Faoi Mheán Fómhair 2008, bhí 29 long tagtha i dtír ón nGréig.
+Chuir ganntanas uisce sa Ghréig moill ar na lastais.
+Ní raibh an dara rogha ag rialtas na Cipire ach bearta éigeandála a chur i bhfeidhm lena n-áirítear an soláthar uisce a laghdú 30 %.
+Sa Tuirc, thit na leibhéil uisce go comhsheasmhach i gcaitheamh an tsamhraidh, de réir eolas faighte ó údarás oibreacha uisce an stáit.
+Bhí 28 % dá n-acmhainn sna taiscumair a bhí ag soláthar uisce óil d'Iostanbúl.
+Ní raibh ach 1 % dá n-acmhainn uisce óil sna taiscumair a bhí ag soláthar uisce do Ankara, áit a bhfuil daonra 4 mhilliún duine.
+Chruthaigh tuarascáil ó Oifig Uisce na Créite íomhá scanrúil d’acmhainní screamhuisce ar an oileán.
+Tá laghdú 15 méadar tagtha ar uiscígh —
+De réir mar a bheidh an teocht ag ardú, laghdóidh an cúltaca uisce i ndeisceart na hEorpa.
+San am céanna, teastóidh níos mó uisce ón earnáil talmhaíochta agus ón earnáil turasóireachta go háirithe sna réigiúin níos teo agus níos tirime.
+Beidh tionchar ag méadú i dteocht an uisce agus sreabhadh abhann níos ísle sa deisceart ar cháilíocht an uisce freisin.
+Cruthóidh méaduithe sna himeachtaí báistí agus tulcaí thar meán méadú sa bhaol truaillithe ó uisce stoirme sceite agus doirteadh éigeandála ó ionaid chóireála fuíolluisce.In earrach na bliana 2008, bhí na leibhéil uisce sna taiscumair ag soláthar uisce do Barcelona chomh híseal sin gur beartaíodh uisce a thabhairt isteach ón taobh amuigh.
+Bhí costas measta EUR 22 milliún i gceist, le sé lasta loinge a fháil, gach ceann díobh le dóthain fionnuisce iontu chun deich linn snámha Oilimpeacha a líonadh.
+Bhí an fionnuisce seo le fáil ó Tarragona i ndeisceart na Catalóine, Marseille agus Almeria — ceann de na limistéir is tirime i ndeisceart na Spáinne.
+Ar ámharaí an tsaoil, bhí mí na Bealtaine fliuch, líonadh na taiscumair agus ní raibh sé riachtanach na pleananna a chur i bhfeidhm.
+Mar sin féin táthar ag leanúint leis an bplé maidir
+Maolú agus oiriúnú
+50 % sna hastuithe gáis domhanda faoin mbliain 2050.
+Gáis cheaptha teasa is cúis lenár n-aeráid a bheith ag athrú.
+Táthar ag ceapadh go n-éireoidh deisceart na hEorpa níos teo agus níos tirime agus go mbeidh an aimsir sa Tuaisceart agus san Iarthuaisceart níos séimhe agus níos fliche.
+Ar an iomlán, leanfaidh an teocht domhanda ag ardú.
+Comhaontaíonn Ballstáit an AE gur cheart méaduithe teochta domhanda a theorannú go 2 °C os cionn leibhéil réamh-thionsclaíocha d’fhonn athruithe aeráide tromchúiseacha a sheachaint.
+Fiú amháin má chuirtear deireadh le hastuithe inniu, leanfar le hathrú aeráide ar feadh i bhfad mar gheall ar an síor-mhéadú stairiúil gás ceaptha teasa san atmaisféar.
+Tá impleachtaí soiléire le tabhairt faoi deara san aigéan Artach cheana féin mar shampla.
+Ní mór dúinn tús a chur leis an bpróiseas oiriúnaithe gan mhoill.
+Ciallaíonn oiriúnú nach mór leochaileacht na gcóras daonna agus na gcóras nádúrtha a mheas agus déileáil leo.
+Tá teas agus triomach, báisteach agus tuilte thar meán ag dul i bhfeidm ar a lán ceantar san Eoraip.
+An samhradh seo caite, cé go raibh grianghraif de leapacha tirime abhann le feiceáil i nuachtán laethúil na Spáinne El Pais, bhí ceannlínte scanrúla faoi thuilte le fáil sa Guardian sa Bhreatain.
+Cé go ndearna an rialtas áitiúil i mBarcelona socruithe chun uisce a iompórtáil ar long, rinne rialtas na Breataine a cuid modhanna cosanta in aghaidh tuilte a mheas.
+Is iomaí cúiseanna atá ann, ach táthar ag súil go mbeidh athrú aeráide ina phríomhchúis le méadú i minicíocht agus i ndéine na n-imeachtaí seo.
+Fiú amháin má éiríonn linn astuithe a laghdú, cruthóidh an síor-mhéadú stairiúil de gháis cheaptha teasa leibhéal éigin d’athrú aeráide gan aon amhras — is cinnte mar sin go mbeidh impleachtaí éigin le tabhairt faoi deara.
+Chuige sin, ní mór dúinn tabhairt faoi na hathruithe seo — ciallaíonn sé sin nach mór dúinn ár leochaileacht a mheas agus iarrachtaí a dhéanamh chun na rioscaí a laghdú.
+Díríonn an anailís seo ar oiriúnú athraithe aeráide ar shaincheisteanna a bhaineann le huisce, i.e. triomach den chuid is mó.
+Is é seo an príomhaidhm atá le hiarracht maolaithe an AE.
+Tá iarrachtaí maolaithe dírithe ar astuithe 'gáis cheaptha teasa' a laghdú.
+D’fhonn méaduithe teochta a theorannú go 2 °C 12 / teastaíonn laghdú
+Tá dlúthnasc idir maolú agus oiriúnú athraithe aeráide.
+A rathúla a bhíonn iarrachtaí maolaithe chun astuithe a laghdú, a laghad gá a bheidh le hoiriúnú.
+Ar an 27 Bealtaine 2008, dúirt an Roinn Comhshaoil do réigiún Spáinneach na Catalóine go bhfuil an triomach laghdaithe mar thoradh ar an méid báistí a bhí ann le déanaí i príomhchathair an réigiúin, Barcelona, rud a chiallódh go mb'fhéidir go mbeadh ar chumas an rialtais deireadh a chur le srianta maidir le húsáid uisce.
+Tá taiscumair a bhí 20 % lán i mí an Mhárta 44 % lán anois.
+12 / SIGNALS EEA 2009 / OIRIÚNÚ ATHRAITHE AERÁIDE: UISCE AGUS TRIOMACH taiscumair faoi thalamh — ó 2005 i leith mar gheall ar ró-chaidéalú.
+Tá uisce na mara ag sní isteach, rud is cúis le truailliú na soláthairtí atá fágtha.
+Ní hionann rialú géarchéime agus oiriúnú go fadtéarmach, ach tá an próiseas a bhaineann le huisce óil a chruthú as sáile thar a bheith dian ar acmhainní.
+Tá roinnt monarchana anois ag baint úsáide as fuinneamh gréine, rud atá ina chéim dhearfach dar ndóigh.
+Fós féin, áfach, is próiseas costasach go maith é díshalannú.
+Ina theannta sin, is deacair fáil réidh leis an tsáile a chruthaítear mar fhotháirge den phróiseas agus is féidir leis an tsáile áirithe seo a bheith dochrach don chomhshaol.
+Ag bainistiú ár gcuid acmhainní uisce
+Ní mór déileáil le triomach reatha agus leis an ngéarchéim uisce sa ghearrthéarma d’fhonn a chinntiú go mbeidh uisce ag daoine.
+Ní mór beartais oiriúnaithe fhadtéarmacha a fhorbairt freisin, áfach.
+Tá rialtais áitiúla agus náisiúnta, a dteastaíonn uathu an soláthar uisce a fheabhsú, ag infheistiú i dtionscadail cosúil le taiscumair stórála uisce, aistriú uisce agus monarchana díshalannaithe, chun uisce inólta a chruthú as sáile.
+Tá níos mó tíortha Meánmhara anois ag brath ar dhíshalannú chun fionnuisce a
+Deir Barış ó Iostanbúl 'go minic bíonn sé níos teo ná 40 °C anseo sa samhradh agus is féidir leis an taise a bheith an-ard'.
+'Tá taithí ag na húdaráis áitiúla rabhadh a thabhairt dúinn anois agus is gnách gur féidir leo insint dúinn cá fhad a bheidh an t-uisce múchta — ionas gur féidir linn sholáthar.
+Tá 700 monarcha díshalannaithe sa Spáinn i láthair na huaire, a sholáthraíonn dóthain uisce do 8 milliún duine gach lá.
+Táthar ag súil go dtiocfaidh méadú dhá oiread ar dhíshalannú sa Spáinn sna 50 bliain amach romhainn.
+Mar sin féin ní i ndeisceart na hEorpa amháin atá ganntanas uisce á bhrath.
+Tá an chéad mhonarcha díshalannaithe sa Ríocht Aontaithe á tógáil in oirthear Londan i láthair na huaire.
+Ar chostas GBP 200m, níos mó ná EUR 250m, beidh an tsaoráid seo in ann 140 milliún lítear uisce a sholáthar gach lá, dóthain uisce do 400 000 teaghlach.
+Go híorónta, cailleann an t-údarás uisce atá ag tógáil na monarchan na milliúin lítear d’uisce óil glan gach lá, trí phíobáin phollta agus infreastruchtúr mífheiliúnach.
+Féadfaidh ról dlisteanach a bheith ag díshalannú i mbainistíocht uisce
+Cabhróidh eolas níos fearr linn chun oiriúnú
+Astarraingt iomlán in aghaidh na bliana/Acmhainn inathnuaite fhadtéarmach 010203040506070
+An Chipir An Bhulgáir An Spáinn
+Sampla maith den chineál eolais a theastaíonn chun léargas a thabhairt ar scála agus ar láthair na bhfadhbanna a bheidh le sárú againn atá san Innéacs Díshaothraithe Uisce (WEI) (Figiúr 1).
+An Bheilg Iar-Phoblacht Iúgslavach na Macadóine
+Go simplí, tugtar léargas san innéacs ar na hacmhainní uisce atá ar fáil i dtír nó i réigiún ar leith i gcomparáid leis an méid uisce a úsáidtear.
+Is iondúil gurb ionann innéacs sa bhreis ar 20 % agus ganntanas uisce.
+Mar is léir ón ngraf, meastar go bhfuil naoi dtír ag braistint 'brú uisce': an Bheilg, an Bhulgáir, an Chipir, an Ghearmáin, an Iodáil, Iar-Phoblacht Iúgslavach na Macadóine, Málta, an Spáinn, agus an Ríocht Aontaithe (Sasana agus an Bhreatain Bheag).
+Tá sonraí WEI ar fáil do Shasana agus tá léargas le fáil iontu go bhfuil brú suntasach ar an Oirdheisceart agus ar Londain ach go háirithe.
+Baineann fíorthábhacht leis an leibhéal eolais seo i dtéarmaí oiriúnú éifeachtach a dhéanamh ar athrú aeráide.
+Trí tuiscint a fháil ar an méid uisce atá ar fáil i réigiún, cá háit as a bhfuil an t-uisce ag teacht agus cé a úsáideann an t-uisce, beidh ar ár gcumas straitéisí éifeachtacha áitiúla a bhunú ar mhaithe le hathrú aeráide a oiriúnú.
+An Iodáil Sasana/An Bhreatain Bheag Málta An Ghearmáin An Tuirc An Pholainn An Fhrainc An Rómáin Poblacht na Seice An Ghréig An Ísiltír An Liotuáin An Eastóin An Ungáir An Eilvéis An Ostair An Danmhairg Lucsamburg An tSlóivéin An Fhionlainn Éire An tSualainn An Phortaingéil An tSlóvaic An Laitvia An Íoslainn An Iorua
+WEI — na bliana is déanaí
+1 / Innéacs Díshaothraithe Uisce (WEI).
+Bhí teorainn áirithe le hoiriúnú a chomhtháthú i bpríomhbheartais an AE.
+Mar sin féin, táthar ag súil go bhfoilseoidh an Coimisiún Eorpach páipéar Bán ar oiriúnú i 2009.
+Léirítear i dtuarascáil de chuid an EEA a foilsíodh le déanaí nár ghlac ach seacht dtír as 32 tír an EEA leis na Straitéisí Oiriúnaithe Náisiúnta um athrú aeráide go dtí seo.
+D'ainneoin seo, tá gach Ballstát de chuid an AE gnóthach i mbun beart náisiúnta a ullmhú, a fhorbairt agus a chur i bhfeidhm bunaithe ar a bhfuil ag tarlú i ngach tír.
+Níl forbairt déanta ar an smaointeoireacht nasctha a theastaíonn d'oiriúnú éifeachtach go fóill ach ar a laghad tá tús á chur leis an bpróiseas.
+féin pleananna a dhéanamh.
+Ach níl an chosúlacht ar an scéal go bhfuil mórán ar bun acu chun déileáil leis an nganntanas uisce — is dóigh nach féidir leo a chinntiú go dtitfidh níos mó báistí,' a dúirt sé.
+D’fhéadfadh údaráis réigiúnacha agus náisiúnta sa Tuirc, agus ar fud na hEorpa, acmhainní uisce a bhainistiú níos fearr.
+Is é atá I gceist leis seo ná dul i mbun gnímh chun an t-éileamh féin a laghdú agus a bhainistiú in ionad iarracht a dhéanamh an soláthar uisce a mhéadú.
+Cuireann an Chreat-treoir Uisce (CTU), an uirlis sainmhínithe reachtaíochta um uisce san Eoraip, dualgas ar na Ballstáit úsáid a bhaint as praghsáil (airgead a ghearradh) seirbhísí uisce mar uirlis éifeachtach chun caomhnú uisce a chur chun cinn.
+Go deimhin, tá praghsáil uisce ar cheann de na modhanna is éifeachtaí le tionchar a imirt ar phatrúin ídithe uisce.
+Mar sin féin, ní mór go n-áireodh bainistíocht éifeachtach uisce iarrachtaí chun caillteanais uisce a laghdú agus eolas maidir le héifeachtúlacht uisce a sholáthar.
+Sa tuarascáil atá le teacht ón EEA tagraítear do na hAlpa go minic mar 'túr uisce na hEorpa' toisc gurb ón sliabhraon seo a thagann 40 % d’fhionnuisce na hEorpa.
+Tá méaduithe teochta cothrom le 1.48 °C tugtha faoi deara sa réigiún mórthimpeall na nAlp le céad bliain anuas — dhá oiread an meán domhanda.
+Luaitear sa tuarascáil go bhfuil oighearshruthanna ag leá, go bhfuil líne an tsneachta ag ardú agus go bhfuil athrú ag teachtdiaidh ar ndiaidh, ar an tslí a bhailíonn agus a stórálann an sliabhraon uisce sa gheimhreadh agus an tslí a dháiltear uisce arís i rith míonna te an tsamhraidh.
+Baineann fíorthábhacht leis na hAlpa i ndáil leis an soláthar uisce, ní hamháin i gcás an ocht dtír alpach, ach i gcuid mhaith de mhór-roinn na hEorpa, sa mhéid is gurb é an sliabhraon seo foinse uisce a lán de na haibhneacha móra.
+Ar an tslí sin, is féidir breathnú orthu mar shiombal íocónach de scála an bhaoil agus den chineál freagartha a theastaíonn.
+Ní mór go n-áireodh straitéisí agus beartais oiriúnaithe gnéithe áitiúla, trasteoranna agus AE.
+Ní mór smaoineamh ar ghníomhaíochtaí nach bhfuil an chosúlacht orthu go bhfuil baint ar bith acu lena chéile, cosúil le feirmeoireacht agus turasóireacht, táirgeadh fuinnimh agus sláinte phoiblí, i dteannta a chéile.
+Ar deireadh thiar thall, is ionann oiriúnú agus machnamh a dhéanamh ar an tslí a bhfuilimid ag maireachtáil inniu agus an tslí a mhairfimid amach anseo.
+Cad as a dtiocfaidh ár n-uisce?
+Conas a n-éireoidh linn muid féin a chosaint ó imeachtaí antoiseacha?
+Léiríonn staidéir an EEA a dhíríonn ar chúrsaí talún gur minic sna limistéir chósta a bhíonn formhór na tógála ar bun.
+Tagraíonn tuarascáil EEA, 'The changing faces of Europe's coastal areas' don 'Med wall' agus léirítear ann go bhfuil foirgnimh tógtha ar 50 % den imeallbhord Meánmhara.
+Is deacrachtaí i mórchuid de na réigiúin seo cheana féin é ganntanas uisce agus triomach.
+Ciallaíonn níos mó árasán, níos mó turasóirí agus níos mó galfchúrsaí go bhfuil níos mó éilimh ar uisce.
+Tá forbairt na gceantar cósta i dTuaisceart agus in Iarthar na hEorpa ar siúl go tapa, áit a bhfuil súil le breis tuilte.
+Slugaí marfacha agus coimhthígh eile
+Tá bithéagsúlacht na hEorpa ag imeacht as radharc ar luas lasrach
+An aoibhinn leat roinnt ama a chaitheamh amuigh sa ghairdín?
+Más aoibhinn agus má tá tú ag cur fút i lár nó i ndeisceart na hEorpa, seans maith go n-áiríonn tú an 'sluga marfach' ar cheann de do naimhde pearsanta.
+Tá an chosúlacht ar an scéal nach mbíonn tionchar ar bith ag na bearta rialaithe ar an sluga, a thugann faoi do chuid luibheanna agus do chuid ghlasraí go fíochmhar.
+SIGNALS EEA 2009 / BITHÉAGSÚLLACHT: SPEICIS CHOIMHTHÍOCHA IONRACHA / 15 ag déanamh damáiste dáiríre do speicis nádúrtha plandaí agus feithidí sa Ríocht Aontaithe agus sa Fhrainc.
+Is iondúil go ndéanann speicis choimhthíocha ionracha an-damáiste dá mbailte nua.
+Fiailí coimhthíocha is cúis le táirgeacht talmhaíochta Eorpach a laghdú agus tá crainn leamháin i bhforaoisí lár na hEorpa scriosta ag an ngalar Dúitseach leamhán.
+Ní hamháin go sháraíonn an t-iora liath Meiriceánach, a tugadh isteach chuig an Ríocht Aontaithe, an t-iora rua dúchasach — impleacht ar deacair a mheas i dtéarmaí airgeadaíochta — ach déanann sé damáiste do chrainn bhuaircíneacha agus laghdaíonn sé luach na gcrann mar adhmad.
+Tugtar an ‘sluga Spáinneach' ar an sluga marfach freisin, a aithnítear go sainiúil mar Arion lusitanicus, mar gur de bhunadh na leithinse Ibéaraí é.
+Is déghnéasach an sluga áirithe seo rud a chiallaíonn gur féidir leis scaipeadh ar luas lasrach.
+Itheann an sluga marfach slugaí níos lú agus tá sé i bhfad níos ionsaithí ná an sluga dubh dúchasach.
+Thosaigh na slugaí marfacha ag scaipeadh ar fud na hEorpa thart ar 30 bliain ó shin, iad ag déanamh a mbealach i bhfoirm uibheacha i bplandaí pota.
+Is príomhfhoinse inmhíolaithe é seo fiú sa lá inniu ann.
+Níl sa sluga marfach ach sampla amháin de bhaol i bhfad níos mó do bhithéagsúlacht na hEorpa de réir mar atá speicis choimhthíocha nó neamh-dhúchasacha ag bunú agus ag leathnú ar fud fad na hilchríche mar thoradh ar ghníomhaíochtaí daonna.
+Is iondúil go dtaistealaíonn siad mar fholchánaithe agus go mbíonn siad in iompar ar fud na cruinne i ngan fhios do dhuine ar bith.
+Tagraítear i gCoinbhinsiún na Náisiún Aontaithe ar Éagsúlacht Bhitheolaíoch don bhaol a bhaineann le speicis choimhthíocha ionracha mar cheann de na bagairtí ollmhóra ag tabhairt ar bhithéagsúlacht dhomhanda.
+Meastar go bhfuil an costas i dtéarmaí damáiste agus rialú speiceas coimhthíoch ionrach sna Stáit Aontaithe cothrom le EUR 80 billiún gach bliain.
+Ciallaíonn na meastacháin tosaigh go bhfuil an costas san Eoraip cothrom le níos mó ná EUR 10 mbilliún in aghaidh na bliana.
+Is ann don mheastachán seo, áfach, gan smaoineamh ar an gcostas a chruthaíonn príomh-phataiginí daonna (cosúil le SEIF nó an fliú) nó ráigeanna eisceachtúla galar ainmhithe.
+Tá speicis choimhthíocha ag teacht chomh fada le háiteanna nua ó thosaigh daoine ag taisteal agus ag trádáil.
+Cuireadh tús ceart leis an ionradh mar gheall ar thrádáil, ar thaiscéalaíocht agus ar choilíniú ó na 1600aidí, le teacht na bhfrancach dhoinn don chéaduair ar longa ón Áise.
+Tá thart ar 10 000 speiceas coimhthíoch cláraithe san Eoraip.
+Rinneadh iarracht speicis áirithe, cosúil leis an bpráta agus an tráta, a fhás d’aon turas agus baineann tábhacht eacnamaíoch leis na speicis seo go dtí an lá atá inniu ann fiú.
+Cruthaíonn speicis eile, ar a dtugtar 'speicis choimhthíocha ionracha' fadhbanna dáiríre mar speicis lotnaidí d’earnálacha éagsúla, garraíodóireacht, talmhaíocht, foraoiseacht mar go n-iompraíonn siad galar nó go ndéanann siad damáiste do struchtúir cosúil le foirgnimh nó dambaí.
+Chomh maith leis sin, athraíonn speicis choimhthíocha ionracha na héiceachórais ina maireann siad agus bíonn tionchar acu ar na speicis eile a bhíonn sna héiceachórais sin.
+Mar shampla, tugann staidéar a rinneadh le déanaí ar an nGlúineach, a tugadh chomh fada leis an Eoraip sa 19ú haois ó oirthear na hÁise mar phlanda ornáideach, go bhfuil an planda ionrach seo a scaipeann go tapa
+Bithéagsúlacht — an comhthéacs níos leithne airgeadais, áit a bhfuil speicis éagsúla, cosúil le stoic ghnó ar féidir a úsáid chun cosaint a thabhairt.
+más d’aon turas nó trí thimpiste a thugtar isteach a leithéid de speicis, féadfaidh siad an t-uafás damáiste a dhéanamh do dhaoine, d’éiceachórais agus do speicis dhúchasacha plandaí agus ainmhithe.
+Meastar go rachaidh an fhadhb a bhaineann le speicis ionracha in olcas sa chéad amach romhainn trí athrú aeráide agus méadú i líon na trádála agus na turasóireachta.
+Tagraíonn bithéagsúlacht don éagsúlacht beatha atá le fáil ar fud na cruinne.
+Is ionann an bhithéagsúlacht agus saibhreas nádúrtha an phláinéid agus ar an slí sin is ionann an bhithéagsúlacht agus bunús an tsaoil agus an rathúnais.
+Tacaíonn an bhithéagsúlacht lena lán de na seirbhísí bunúsacha a mbraithimid orthu agus chuige sin, ar an uisce a ólaimid agus ar an aer a análaímid.
+Cabhraíonn an bhithéagsúlacht le barra a phailniú, bia a chur ar an mbord, patrúin aimsire a rialú agus ár ndramhaíl a ghlanadh.
+I láthair na huaire, tá an bhithéagsúlacht ag imeacht uainn ar luas lasrach de bhrí go bhfuil mí-úsáid á baint againn as an dúlra chun táirgeadh, tomhaltas agus trádáil sa gheilleagar domhanda ina mairimid.
+I measc na bpríomhchúiseanna atá le caillteanas agus ilroinnt gnáthóg tá foraoisí agus limistéir nádúrtha á nglanadh chun críche tithíochta, bóithre agus talmhaíochta, draenáil bogach agus tógáil dambaí ar aibhneacha chun críche talmhaíochta, agus na héisc ar fad a thógáil ón bhfarraige.
+Gan an bhithéagsúlacht, ní bheadh ar ár gcumas maireachtáil.
+Dá réir sin, is féidir breathnú ar an mbithéagsúlacht mar pholasaí árachais atá tugtha ag an bpláinéad dúinn.
+Is féidir comparáid a dhéanamh idir luach na bithéagsúlachta agus luach na margaí
+Measann a lán caomhantóirí gurb iad speicis choimhthíocha ionracha an dara bagairt is mó ar bhithéagsúlacht ar fud na cruinne. Is cuma
+I measc na bpríomh-bhagairtí eile do bhithéagsúlacht tá truailliú, athrú aeráide agus róshaothrú acmhainní.
+De bhrí go meastar go mhéadóidh daonra an domhain ó 6.7 billiún duine inniu go dtí 9 mbilliún i 2050, táthar ag glacadh leis go dtiocfaidh méadú freisin ar na himpleachtaí a bheidh ag na príomh-bhagairtí reatha ar bhithéagsúlacht agus ar chaillteanais.
+Tá gníomhaíochtaí bainistíochta chun speicis choimhthíocha ionracha a laghdú (nó deireadh a chur leo) deacair, casta agus costasacha.
+Tacaíonn an Coimisiún Eorpach leis na tionscadail bhainistíochta nádúir sna Ballstáit tríd an Rialachán EU LIFE.
+De réir a chéile tá níos mó úsáide á baint as cistí EU LIFE do thionscadail bunaithe ar speicis choimhthíocha ionracha agus anois tá an buiséad beagnach cothrom le EUR 14 milliún do gach tréimhse 3 bliana.
+IAS agus an Eoraip — ag méadú tionchair
+Bíonn luas aisteach faoi scaipeadh na nglún agus go deimhin éiríonn leis plandaí dúchasacha a phlúchadh.
+Chomh maith leis sin, d’fhéadfadh an ghlúineach a bheith nimhiúil agus d’fhéadfadh gurb é a bheadh ina chúis le deirmitíteas.
+Sa lá atá inniu ann, is dócha nach féidir an feabhrán capaill a dhíothú ón Eoraip cé go mb’fhéidir go n-éireodh go breá le hiarrachtaí níos túisce (suas go dtí na 1950aidí).
+Ar aon dul leis seo, i gcumarsáid déanaí de chuid an Choimisiúin Eorpaigh maidir le bithéagsúlacht tarraingíodh aird ar an ngá atá le meicníocht réamhrabhaidh maidir le speicis choimhthíocha ionracha.
+Mar fhreagairt air seo, tá EEA i gcomhar lena líonra de bhalltíortha agus tíortha comhoibríocha, ag beartú córas faisnéise Eorpach a bhunú a aithneoidh, a bhraithfidh, a mheasfaidh agus a fhreagróidh d’ionraí nua agus méadaithe.
+An liosta is mó tóir
+Bíonn idir chruthanna éagsúla agus mhéideanna éagsúla le tabhairt faoi deara i measc speiceas coimhthíoch.
+Is d’aon turas a thugtar speicis áirithe isteach agus baineann tábhacht eacnamaíoch leo, cé gur beag tionchar a bhíonn ag speicis eile agus tubaiste cheart a bhíonn iontu.
+Dá dheasca seo, is é an chéad chéim a bhaineann le bearta rialaithe agus bainistíochta a fhorbairt, an speiceas is ionsaí a aithint ionas go mbíonn na hiarrachtaí ar fad dírithe ar na speicis seo.
+D’fhonn tuiscint níos fearr a fháil ar na speicis choimhthíocha ionracha agus a dtionchar ar bhithéagsúlacht Eorpach tá an EEA, le cabhair ó roinnt saineolaithe, tar éis liosta a chruthú de na speicis choimhthíocha ionracha is measa atá mar bhagairt do bhithéagsúlacht na hEorpa.
+I láthair na huaire, tá 163 speiceas nó grúpa speiceas ar an liosta.
+Cuirtear speicis leis an liosta má tá siad le fáil go forleathan agus/nó má chruthaíonn siad fadhbanna suntasacha don bhithéagsúlacht agus d’éiceachórais ina ngnáthóga nua.
+Tá tionchar ag speicis ar an liosta, arbh iad na plandaí soithíocha na plandaí is coitianta ina measc le 39 iontráil, ar an mbithéagsúlacht dhúchasach ag an leibhéal géiniteach, ag leibhéal an speicis nó ag leibhéal an éiceachórais.
+Tá tionchar ag a lán de na speicis seo ar shláinte an duine agus ar an ngeilleagar freisin.
+Ó 1950 i leith, gach bliain éiríonn le ceann amháin nó níos mó de na speicis liostaithe iad féin a bhunú agus níl comhartha ar bith ann a thugann le fios go bhfuil feabhas ar bith ag teacht ar an scéal (Figiúr 1).
+Tá speicis choimhthíocha le fáil sna héiceachórais Eorpacha ar fad.
+Ciallaíonn domhandú, go háirithe méadú i dtrádáil agus i dturasóireacht go bhfuil méadú tagtha ar an líon agus ar an gcineál speiceas coimhthíoch atá anois ar fáil san Eoraip.
+Tá tionchar suntasach aige seo ar cheantair mhuirí agus ar cheantair chósta mar gheall ar níos mó long a bheith ag taisteal agus tógáil canálacha idir ceantair iargúlta — is trí chanáil Shuais atá a lán speiceas nua ag dul isteach sa Mheánmhuir.
+Foinse mhór d’orgánaigh nua é uisce sceite ballasta ó longa agus bunaíodh an 'International Convention for the Control and Management of Ships Ballast Water & Sediments' ar mhaithe le 'orgánaigh agus paitiginí dochracha uisce a chosc, a laghdú agus ar deireadh thíos a scriosadh'. An líon carnach speiceas
+Bearta rialaithe
+Is é an modh cosanta is éifeachtaí i gcoinne speicis choimhthíocha ionracha ná iad a chosc — níl i gceist go bunúsach ach teorainn a chruthú chun cosc a chur ar scaipeadh na speiceas nua.
+Sa dara céim cuimsítear aimsiú luath agus rialú.
+Sampla suntasach amháin is ea an feabhrán capaill, Heracleum mantegazzianum, a tugadh chun na hEorpa mar phlanda ornáideach sa 19ú haois.
+Tá tréaniarrachtaí ar bun anois i ndáil leis an bplanda seo de bhrí go bhfuil speicis bunaithe i dtailte féaraigh, le hais iarnród, ar thaobh bóithre agus cois abhann.
+1 / Bunú liosta de na speicis choimhthíocha ionracha is measa atá ag déanamh damáiste don bhithéagsúlacht sa réigiún pan-Eorpach.
+SIGNALS EEA 2009 / BITHÉAGSÚLLACHT: SPEICIS CHOIMHTHÍOCHA IONRACHA / 17
+Tagann na speicis ar an liosta ó chodanna éagsúla den domhan, an Áise agus Meiriceá Thuaidh ach go háirithe (Figiúr 2).
+Leis sin ráite, áfach, tagann a lán speiceas eile ó chuid amháin den Eoraip ach an rud a tharla ná gur iompraíodh iad as codanna eile den ilchríoch.
+An Eagraíocht Mhuirí Idirnáisiúnta.
+Comhdhálacha. http://www.imo.org/.
+I measc na ngníomhaíochtaí atá riachtanach chun deireadh a chur le speicis choimhthíocha ionracha tá
+Kettunen, Genovesi, Gollash, Pagad, Starfinger, ten Brink & Shine, obair ar bun. 4
+Tuarascáil chuig EEA. http:// biodiversity‑chm.eea.europa.eu/stories/eufunding‑ management‑and‑research‑invasivealien.
+Meiriceá Thuaidh agus Láir
+Meiriceá Theas
+Anaithnid bearta bainistíochta agus athchóirithe a mbaineann castacht agus costas áirithe leo níos minice ná a mhalairt.
+Mar shampla, baineann ualach áirithe le bearta rialaithe i gcoinne an tsluga mharfaigh agus go minic ní bhíonn ach éifeacht áitiúil agus shealadach ag baint leo.
+D’ainneoin sin, tá siad tábhacht freisin.
+Laistigh den AE, tá iarrachtaí ar bun cheana féin chun deireadh a chur le speicis choimhthíocha ionracha trí bhearta bainistíochta agus athchóirithe, arna mhaoiniú ag an Rialachán LIFE.
+Idir 1992–2002, leithdháileadh EUR 40 milliún do thionscadail a bhí ag déileáil le speicis ionracha agus is ag dul i méid atá an infheistíocht seo i gcónaí.
+Lena chois sin, soláthraíonn an AE maoiniú chun staidéar a dhéanamh ar na speicis seo tríd an 'clár um thaighde agus um fhorbairt theicneolaíoch'.
+Níl an fhadhb a bhaineann le speicis choimhthíocha ionracha ag dul i léig.
+Ciallaíonn domhandú agus athrú aeráide (gluaiseacht speiceas mar gheall ar athruithe ar an ngnáthóg nádúrtha) go mbeidh taithí ag níos mó agus níos mó againn ar na speicis seo.
+Is den riachtanas é mar sin go ndíreodh an pobal agus na polaiteoirí ar níos mó acmhainní a úsáid chun na príomhbhealaí bunaithe, monatóireacht a dhéanamh ar réimsí riosca aimsithe luaith agus a bheith ullamh dul i mbun gnímh láithreach bonn chun deireadh a chur leis na speicis seo nach bhfuil fáilte ar bith rompu.
+2 / Réimse bunaidh speiceas domhanda agus fionnuisce liostaithe mar na speicis ionracha is measa atá mar bhagairt do bhithéagsúlacht san Eoraip.
+Gach anáil a tharraingíonn tú
+Caighdeán an aeir san Eoraip
+* Carachtair fhicseanúla atá luaite sa scéal seo.
+Mar sin féin is sonraí cearta atá in úsáid.
+Is ar 27 Iúil 2008 a tharla an scéal seo tráth ar eisíodh rabhadh maidir le caighdeán an aeir sa Bhruiséil dhaonra uirbeach na hEorpa i gcathracha ina sáraítear teorainneacha caighdeáin aeir an AE go minic, caighdeáin arb ann dóibh chun sláinte an duine a chosaint.
+Gach bliain, cailltear níos mó daoine ag aois ró óg san Eoraip mar gheall ar thruailliú aeir ná mar a chailltear i dtimpistí bóthair.
+Níor comhlíonadh an sprioc Eorpach maidir le leibhéil chaighdeáin an aeir nach ndéanann damáiste do shláinte an duine nó don chomhshaol go fóill.
+Tugann anailís atá déanta ag an EEA le fios go gcaillfidh 15 de 27 Ballstát an AE ceann amháin nó níos mó dá spriocanna 2010 atá ina gceangal dlí chun truailleáin dochrach don aer a laghdú.
+Ábhar cáithníneach agus ózón
+Tá Anna 37 bliain d'aois agus tá cónaí uirthi i gcroílár na Bruiséile.
+Tá sé beartaithe aici féin agus a mac óg, Johan, dul ar thuras lasmuigh den chathair ghnóthach seo.
+Tá asma ar Anna agus tharraing a dochtúir aird ar an dainséar a chruthaíonn truailliú aeir, go háirithe ar laethanta te an tsamhraidh.
+Tá scéalta cloiste ag Anna faoin gceo a bhíodh i Londain sna 1950aidí a mharaigh 2 000 duine in imeacht seachtaine.
+Is cuimhin léi nuair a bhí sí ag fás aníos a bheith ag breathnú ar na feasacháin nuachta agus ar na híomhánna d'éisc mharbha agus crainn mharbha nuair a tosaíodh ag trácht a chéaduair ar bháisteach aigéadach sna 1970aidí.
+Tá truailliú aeir tagtha chun cuimhne Anna an athuair os rud é anois gur máthair í agus go raibh ráig asma aici le déanaí.
+Is é fírinne an scéil go bhfuil laghdú suntasach tagtha ar astuithe a lán truailleán aeir ar fud na hEorpa ó bhí Anna ag fás aníos.
+Tá an t-aer atá á análú aici féin agus ag Johan i bhfad níos fearr ná an t-aer a bhíodh ann tráth agus áirítear an beartas aeir i measc ceann de na beartais is fearr a d’éirigh leis mar chuid d'iarrachtaí comhshaoil an AE.
+Go háirithe ciallaíonn an beartas AE go bhfuil laghdú suntasach tagtha ar astuithe sulfair, an phríomhghné de bháisteach aigéadach.
+I gcodarsnacht leis sin, níor déileáladh chomh héifeachtach céanna le nítrigin — príomhghné de 'bháisteach aigéadach' freisin — rud a chiallaíonn go bhfuil fadhbanna móra fós á gcruthú ag nítrigin.
+Tá cónaí ar chéatadán suntasach de
+Aithnítear dhá thruailleán anois, ábhar cáithníneach mín agus ózón ar leibhéal na talún, mar na truailleáin is suntasaí i dtéarmaí impleachtaí sláinte.
+D’fhéadfadh nochtadh fadtéarmach agus buaic-nochtadh éifeachtaí sláinte éagsúla a chruthú, idir riochtaí beaga an chórais riospráide agus bás anabaí.
+Tá tionchar ag ábhar cáithníneach, téarma a úsáidtear le cur síos a dhéanamh ar cháithníní beaga bídeacha ó fhoinsí cosúil le píobáin sceite feithiclí agus soirn teaghlaigh, ar na scamhóga.
+D’fhéadfadh nochtadh dochar a dhéanamh do dhaoine de gach aois, ach tá daoine a bhfuil fadhbanna croí agus riospráide acu cheana féin go háirithe i mbaol.Bunaithe ar na sonraí is déanaí ón EEA, ó 1997 i leith, d’fhéadfadh suas le 50 % de dhaonra uirbeach na hEorpa a bheith
+SIGNALS EEA 2009 / TRUAILLIÚ AEIR / 19 faoi thionchar comhchruinnithe ábhar cáithníneach sa bhreis ar an teorainn atá socraithe ag an AE chun sláinte an duine a chosaint.
+D’fhéadfadh suas le 61 % den daonra uirbeach a bheith faoi thionchar leibhéal ózóin a sháraíonn sprioc an AE.
+Meastar go bhfuil an t-ionchas saoil staitistiúil laghdaithe níos mó ná 8 mí mar gheall ar PM
+(ábhar cáithníneach mín) san aer.
+Cuireann astuithe ó phíobáin sceite carranna i gcroílár na Bruiséile, agus i ngach cathair mhór, isteach ar an gconair riospráide, ar na súile agus ar na scamhóga.
+Ansin tugann Anna agus Johan aghaidh ar a stáisiún traenach áitiúil agus as sin chuig an tuath.
+Ní thógann sé i bhfad go sroicheann Anna agus Johan páirc náisiúnta lasmuigh den Bhruiséil.
+Tugann comhartha le fios dóibh go bhfuil siad ag tabhairt cuairte ar shuíomh Natura 2000 — suíomh amháin de líonra éiceolaíoch Eorpach, a bunaíodh chun gnáthóga nádúrtha a chosaint agus an bheatha ainmhíoch agus phlandúil a chothú.
+Tá sé tugtha faoi deara ag an EEA cé go bhfuil laghdú tagtha ar astuithe an dá phríomh-thruailleáin seo ó 1997 i leith, go bhfuil na comhchruinnithe tomhaiste san aer a bhíonn á anáil againn fanta mórán mar a chéile.
+I láthair na huaire, níl a fhios againn cad chuige nár tugadh laghdú faoi deara i gcomhchruinnithe comhthimpeallacha ach d'fhéadfadh go bhfuil meascán fachtóirí i gceist: d'fhéadfadh teochtaí méadaithe mar gheall ar athrú aeráide tionchar a imirt ar chaighdeán an aeir; b’fhéidir go bhfuil tionchar ag truailliú ó ilchríocha eile orainn nó astuithe nádúrtha ózóin ag foirmiú substaintí eile a thagann ó chrainn, mar shampla.
+Lá faoin tuath
+Teagmhas ózóin sa Bhruiséil, 27 Iúil 2008
+Tá sé beartaithe ag Anna a mac Johan a thabhairt ar thuras lae amuigh faoin tuath.
+Sula bhfágann sí an t-árasán logálann sí isteach ar IRCEL, seirbhís ghréasáin de chuid an rialtais ar a mbíonn eolas faoi chaighdeán an aeir mórthimpeall na Beilge.
+Trí fhéachaint ar léarscáileanna, féadfaidh Anna léamha agus réamhaisnéisí maidir le hábhar cáithníneach, ózón, déocsaíd nítrigine, déocsaíd sulfair agus nithe eile a léamh.
+Cuirtear na sonraí a fhaightear ó na stáisiúin mhonatóireachta éagsúla ar fud na tíre ar fáil ar an ngréasán.
+Buaicphointe eile a tharla le blianta beaga anuas is ea an feabhas atá tagtha ar mhonatóireacht agus ar infhaighteacht eolais maidir le truailliú aeir.
+Mar shampla, cuirtear sonraí áitiúla maidir le leibhéil ózóin faoi bhráid gné an EEA dar teideal 'Ozone web' (1), seirbhísí a thugann léargas ar a bhfuil ag titim amach ar fud na hEorpa.
+Féachann Anna ar léarscáil den Bheilg, díríonn sí isteach níos cóngaraí ar stáisiún monatóireachta i gcroílár na Bruiséile, níos lú ná dhá chiliméadar óna baile.
+Taispeánann an léamh, a rinneadh cúpla nóiméad níos túisce, ardleibhéil ózóin sa Bhruiséil.
+Go deimhin tugann an t-eolas ar an suíomh gréasáin le fios go mbeidh na leibhéil níos airde ná spriocluachanna an AE níos moille anonn sa lá agus arís an lá dár gcionn (Figiúr 1).Fágann Anna a hárasán agus tugann sí aghaidh ar an stáisiún Metro is gaire di, siúlóid 10 nóiméad.
+Amuigh ar an sráid, is furasta tionchar iomlán fhadhbanna tráchta na cathrach a fheiceáil — agus a bholú.
+1 / Suíomh agus leibhéil an ózóin ag stáisiúin mhonatóireachta chaighdeán an aeir sa Bhruiséil Dé Domhnaigh, an 27 Iúil 2008.
+Nuair a bhíonn an léamh ózóin os cionn na leibhéal sábháilte taispeántar triantán dearg agus ní mór don rialtas áitiúil é seo a chur in iúl don phobal agus réamhchúraimí a mholadh.
+Truailliú ózóin ar fud na hEorpa: http://www.eea.europa.eu/maps/ozone.
+Tá seirbhís comhchosúil, ag soláthar eolais maidir le leibhéil ábhar cáithníneach ar fud na hEorpa, á forbairt faoi láthair.
+Nitrigín suntasach a rinneadh ar astuithe déocsaíd sulfair.
+D’éirigh le 32 balltír an EEA astuithe sulfair a laghdú 70 % idir 1990 agus 2006.
+Ar an láimh eile, áfach, níor déileáladh chomh héifeachtach céanna le nítrigin.
+Le hastuithe sulfair ag laghdú, is é nítrigin an phríomhghné aigéadaithe san aer.
+Is iad talmhaíocht agus iompar na príomhfhoinsí de thruailliú nítrigine.
+Tá talmhaíocht freagrach as ucht níos mó ná
+90 % de na hastuithe amóinia (NH3 t-éiceachóras sin ar thalamh nó ar muir.
+San uisce, d’fhéadfadh fás iomarcach plandaí agus lobhadh a bheith le tabhairt faoi deara, rud is cúis le héifeachtaí breise, ídiú ocsaigine san áireamh.
+Ar deireadh thiar plúchann éisc, ainmhithe agus plandaí eile mar go úsáidtear an soláthar ocsaigine ar fad.
+Tugann an fhlúirse neantóg anseo le fios, in ainneoin gur gnáthóg chosanta é, nach bhfuil an suíomh Natura 2000 saor ó shil-leaganacha nítrigine aeriompartha.
+Níl cosaint ar bith le fáil ón bhfál atá mórthimpeall an cheantair — go deimhin, is é an t-aon bhealach a d’fhéadfaí an ceantar a chosaint go hiomlán ó shubstaintí aeriompartha teach gloine a thógáil.
+De bhrí nach dtugann truailliú an aeir aird ar bith ar theorainneacha náisiúnta, ní mór déileáil leis an bhfadhb láithreach bonn.
+Tá Coinbhinsiún na Náisiún Aontaithe ar Thruailliú Aeir Trasteorainn Fadréimseach (Coinbhinsiún LRTAP) a comhaontaíodh i 1979, sínithe ag 51 tír agus tá sé in úsáid mar bhonn leis an gcath i gcoinne thruailliú an aeir.
+Ar aon dul leis sin, tá beartais forbartha ag an AE a chuireann cosc ar astuithe iomlána gach Ballstát, rud is
+Ach céard go díreach é an boladh sin?
+Tá aoileach á spraeáil ag tarracóir ar pháirc nach bhfuil rófhada uathu.
+Measann Anna go bhfuil an boladh seo uafásach, ach ní mór cuimhneamh gur gné dháiríre de shaol na tuaithe é seo a léirítear ar bhealach i bhfad níos deise sna leabhair phictiúir a bhíonn á léamh ag Johan.
+Is ann don bholadh géar seo de thoradh 40 substaint cheimiceach dhifriúil a thagann ón aoileach.
+Ina measc tá amóinia (NH3), comhdhúil sho-ghalaithe nítrigine.
+Má tá comhchruinnithe anard ann, bíonn NH3 loiscneach agus féadfaidh sé damáiste a dhéanamh don chonair riospráide.
+Níl na leibhéil anseo dochrach do shláinte an duine, áfach.
+Féadfaidh Anna a hanáil a tharraingt ar a suaimhneas, in ainneoin gur dóigh léi go bhfuil an t-aer lofa.
+Is cothaitheach riachtanach sa nádúr é nítrigin.
+Úsáideann ár gcoirp foirmeacha de nítrigin imoibríoch chun próitéiní a chruthú.
+Mar sin féin, d’fhéadfadh barraíocht nítrigine fadhbanna dáiríre comhshaoil agus sláinte a chruthú.
+Foirmítear báisteach aigéadach nuair a bhíonn ardleibhéil sulfair agus ocsaídí nítrigine san aer.
+Ceann de na gnéithe de bheartas truaillithe aeir ar éirigh leis le 10 mbliana anuas ba ea an laghdú
+Go tobann, imíonn Johan óna sheasamh agus titeann sé isteach i lár neantóg.
+Nuair a chabhraigh Anna le Johann a chosa a chur faoi arís agus é a ghlanadh, thug sí faoi deara go raibh neantóga ar fud na háite.
+Is maith is cuimhin léi neantóga a fheiceáil i ngairdín comharsan nuair a bhí sí ag fás aníos.
+Ansin d’fhás na neantóga mórthimpeall ar charn múirín a úsáideadh mar dhumpa d’aoileach éanlaithe ina dhiaidh sin.
+Ní haon comhtharlú a bhí ann — is léir áit ar bith a bhíonn an planda neantúil seo ag fás go bhfuil comhchruinnithe arda nítrigine san ithir.
+Is dócha gurb é 'Eotrófú' is cúis leis na neantóga ar fad a bhí mórthimpeall ar Johan.
+Tarlaíonn eotrófú nuair a bhíonn an iomarca cothaitheach ceimiceáin (cosúil le N) ar fáil d’éiceachóras, bíodh an
+Feabhsóidh iarrachtaí maolaithe an athraithe aeráide caighdeán an aeir
+I mí Eanáir 2008, mhol an Coimisiún Eorpach pacáiste Aeráide agus Fuinnimh chun:
+• astuithe gáis cheaptha teasa a laghdú 20 % faoin mbliain 2020;
+Meastar go laghdóidh an pacáiste thuasluaite an costas a bhaineann le spriocanna truailliú aeir an AE thart ar EUR 8.5 billiún in aghaidh na bliana.
+D’fhéadfadh coigiltí ar sheirbhísí sláinte na hEorpa a bheith chomh hard le sé oiread an fhigiúir seo.
+• sciar an fhuinnimh inathnuaite a mhéadú 20 % faoin mbliain 2020;
+Cabhróidh na hiarrachtaí a theastaíonn chun na spriocanna seo a chomhlíonadh truailliú an aeir san Eoraip a laghdú freisin.
+Mar shampla, ciallóidh feabhas in éifeachtacht fuinnimh agus níos mó úsáide á baint as fuinneamh inathnuaite go dtiocfaidh laghdú ar dhó breoslaí iontaise — príomhfhoinse de thruailliú an aeir.
+Tagraítear do na fo-iarmhairtí dearfacha seo mar chomhbhuntáistí beartas athraithe aeráide.
+• éifeachtacht fuinnimh a fheabhsú 20 % faoi 2020.
+SIGNALS EEA 2009 / TRUAILLIÚ AEIR / 21
+cúis le teorainneacha atá ina gceangal dlí a bhunú.
+Príomhbheartas de chuid an AE is ea an 'National Emissions Ceiling Directive' (NECD).
+Socraítear teorainneacha ann do cheithre thruailleán:
+X), comhdhúile so-ghalaithe orgánacha neamh-mheatáin (NMVOCs), agus amóinia (NH
+Ba cheart do Bhallstáit na
+3 nach bhfuil bearta feiliúnacha luaite chun feidhmíocht a fheabhsú, tá tús curtha le himeachtaí sáraithe.
+Níos faide anonn sa tráthnóna sin, le linn do Anna a bheith ag breathnú ar nuacht an tráthnóna, feiceann sí go bhfuil rabhadh maidir le caighdeán an aeir eisithe ag an rialtas i ndáil leis na hardleibhéil ózóin a bhfuil tairseach an AE sáraithe acu.
+Molann an rabhadh do dhaoine a bhfuil deacrachtaí análaithe acu cúram áirithe a léiriú cosúil le haclaíocht dhian a sheachaint fad is a bhíonn na leibhéil ózóin ard.
+teorainneacha seo a chomhlíonadh faoin mbliain 2010.
+Measann an EEA go dteastaíonn tuilleadh laghduithe sna hastuithe chun an comhshaol agus sláinte an duine a chosaint mar is ceart.
+Tugann anailís de chuid an EEA ar na sonraí is déanaí ón NECD (2) le fios go gceaptar nach n-éireoidh le 15 Ballstát ar a laghad ceann amháin den cheithre theorainn a chomhlíonadh; le 13 ag ceapadh nach gcomhlíonfar teorainneacha a bhaineann
+3 le 2 thruailleán nítrigin NO
+X agus NH
+Treoir 2008/50/CE de chuid Parlaimint na hEorpa agus na Comhairle de 21 Bealtaine 2008 ar chaighdeán an aeir comhthimpeallach agus aer níos glaine don Eoraip.
+In 2009, tá sé beartaithe ag an gCoimisiún Eorpach togra a fhoilsiú chun NECD reatha a athbhreithniú, lena n-áirítear teorainneacha níos doichte don bhliain 2020.
+Is é is dócha go molfar ná teorainneacha náisiúnta d’ábhar
+) don chéaduair.
+cáithníneach mín (PM2.5
+Tá treoracha maidir le caighdeán an aeir ann le cois NECD a shocraíonn teorainneacha agus spriocluachanna do na príomh-thruailleáin ar fad.
+Glacadh le treoir nua ar a dtugtar Cleaner Air For Europe (CAFE) i mí Aibreáin 2008.
+Don chéad uair riamh socraítear teorainneacha atá ina gceangal dlí do chomhchruinnithe
+(ábhar cáithníneach mín), atá le
+2.5 baint amach i 2015.
+Chomh maith leis sin, tá an Coimisiún Eorpach ag díriú ar thíortha nár éirigh leo teorainneacha níos túisce a chomhlíonadh, agus sa chás
+Tá léargas le fáil i dtuarascáil stádais Threoir NEC (Tuarascáil teicniúil an EEA Uimh 9/2008) ar na sonraí oifigiúla a thuairiscigh na Ballstáit ag deireadh na bliana 2007.Creideann an Bheilg, an Fhrainc, an Ghearmáin agus an Ísiltír go gcabhróidh beartais agus bearta nua leo, nach bhfuil achtaithe go fóill, a dteorainneacha astuithe do 2010 a chomhlíonadh.
+Lena chois sin, creideann Ballstáit eile go n-éireoidh leo a dteorainneacha bunaidh a shárú.
+Ag glacadh CBT ar láimh
+Athchóiriú an Chomhbheartais Talmhaíochta
+Acmhainn atá ag crapadh.
+Cónaíonn beagnach 80 % d’Eorpaigh i gcathracha móra, i mbailte nó sna lonnaíochtaí uirbeacha atá eatarthu, i bhfad amach ó réadúlacht na talmhaíochta.
+Tá suntasacht ollmhór ag baint lenár dtírdhreach tuaithe mar sin féin, i dtéarmaí bia, amhábhair, breosla agus deiseanna áineasa a chur ar fáil.
+SIGNALS EEA 2009 / ATALMHAÍOCHT AGUS COMHSHAOL / 23
+An CBT i gcomhthéacs
+Tugadh an CBT isteach i 1962 agus tógann sé 40 % de bhuiséad iomlán an AE.
+In 2007 b’ionann é seo agus níos mó ná EUR 54 billiún.
+Cuireann talmhaíocht le 1.2 % de OTI an AE agus 4.7 % de na poist ar fad san AE (1).
+Tá dhá ‘philéar’ ag an CBT faoi láthair:
+• Soláthraíonn Piléar I dír-chúnamh agus idirghabháil mhargaidh chun ioncam feirmeoirí agus táirgeadh bia a dhaingniú, agus talmhaíocht na hEorpa a dhéanamh níos iomaíche.
+Is í sin an chuid ceannasach den bhuiséad, freagrach as ucht 77.5 % den chaiteachas CBT iomlán in 2006.
+don fhiadhúlra.
+Tá an Comhbheartas Talmhaíochta (CBT) tar éis dul trí sraith leasuithe bunúsacha ón uair a thosaíodh i ré an ghanntanais bhia iarchogaidh é.
+Rinneadh tuilleadh díchúplála ar an bhfóirdheontas ón mbun-sprioc a bhí aige chun méadú a dhéanamh ar tháirgeadh bia agus tá díriú níos láidre ar fhorbairt tuaithe agus ar chuspóirí comhshaoil.
+Tá an CBL ag dul trí 'scrúdú sláinte' faoi láthair atá á reáchtáil ag an gCoimisiún Eorpach, ag Parlaimint na hEorpa agus ag na Ballstáit.
+I gcomhthéacs cainteanna ar thodhchaí an pholasaí, tá an EEA ag ullmhú anailís ar an CBT atá ag tabhairt aird ar 'spriocdhíriú' ar chaiteachas 'comhshaoil' an fhóirdheontais.
+Cá bhfuil an t-airgead ag dul agus cén éifeacht atá aige?
+Is réamhbhreathnú ar chuid de na torthaí a fuaireamar amach atá i gceist leis an méid seo a leanas.
+• Aithníonn Piléar II an ról lárnach atá ag feirmeoireacht mar sholáthreoir bia agus earraí, mar bhunchloch de shochaithe tuaithe agus mar ábhar bainistíochta don chomhshaol.
+Tá sé mar aidhm leis na bearta seo, curtha i bhfeidhm trí chláir Fhorbartha Tuaithe, go ndéanfaí athstruchtúrú ar an earnáil talmhaíochta agus go ndéanfaí éagsúlú, nuálaíocht agus cosaint chomhshaoil a spreagadh i
+Patrúin chaiteachais CBT gceantair thuaithe.
+Rinne an EEA anailís ar an bpátrún caiteachais reatha chun seiceáil conas a chuireadh an CBT le cothabháil talamh feirme HNV.
+Léiríonn sonraí reatha leithdháileadh ar mhaoiniú CBT ag leibhéal náisiúnta.
+Níl eolas laistigh de thíortha chomh mion céanna.
+Mar thoradh air seo thug an EEA tacaíocht do chás-staidéir san Ísiltír, san Eastóin, sa Fhrainc, sa Spáinn agus i bPoblacht na Seice chun iarracht measúnú níos míne a dhéanamh ar chaiteachas.
+Bainistíonn feirmeoirí leath d'achar talún an AE agus bíonn tionchar ollmhór acu ar ithir, uisce agus ar bhithéagsúlacht na hEorpa.
+Léiríonn anailís a rinneadh le déanaí go n-úsáideann talmhaíocht leath an uisce atá ar fáil i ndeisceart na hEorpa.
+San AE-15, is í an fheirmeoireacht is cúis le beagnach leath den truailliú nítrigin in aibhneacha, 94 % de na hastuithe amóinia agus 9 % de líon iomlán na nastuithe gáis cheaptha teasa.
+Rinne cleachtaí talmhaíochta traidisiúnta múnlú ar ár dtírdhreach, áfach, agus bhí tionchar acu ar na hainmhithe agus na plandaí atá ag maireachtáil ann.
+Tá an-cuid de na speicis is annaimhe atá againn ag brath go leantar le cleachtaí feirmeoireachta traidisiúnta.
+Is éard atá i gceist le talamh feirme le hardluach nádúir (HNV) ná talamh atá an-saibhir i ngnáthóga agus speicis ar ábhair chúraim iad ó thaobh an chaomhnaithe de.
+Go minic déantar comhcheangail idir í agus talmhaíocht ar dhéine íseal nó traidisiúnta, rud nach bhfuil an-eacnamaíoch.
+Rinne an chuid is mó de na feirmeoirí dianú ar tháirgeadh nó thréig siad an fheirmeoireacht ar fad — treochtaí atá mar bhagairt do ghnáthóga nádúrtha.
+Dúshlán tábhachtach maidir le polasaí talmhaíochta ná dreasachtaí eacnamaíochta a sholáthar d’fheirmeoirí ionas go leanfadh cleachtaí feirmeoireachta atá neamhdhíobhálach
+Sonraí don AE-25, 2006.
+(Figiúr 1).
+Ní haon iontas é seo nuair a thógtar san áireamh gur le táirgeadh a bhí an piléar bainteach sa chéad áit agus gur i réimsí dian-fheirmeoireachta is coitianta atá sé sin.
+Go ginearálta méadaíonn caiteachas Philéir II (forbairt thuaithe) in aghaidh an heicteár ar aon dul le sciar na talún feirme HNV.
+Níl caiteachas ar scéimeanna agrai-chomhshaoil — an eilimint is mó bainteach le caomhnú — ceangailte go láidir leis an méid talún feirme HNV
+Tá an CBT roinnte in dhá philéar (féach ar an mbosca).
+Cuireann Piléar I dír-chúnamh ar fáil d’fheirmeoirí agus idirghabháil i margaidh talmhaíochta.
+Tá Piléar II tiomnaithe d’fhorbairt cheantair thuaithe agus cuireann sé maoiniú ar fáil do scéimeanna bainistíochta comhshaoil.
+Faigheann tíortha a bhfuil sciar ard de thalamh feirme HNV acu méid measartha beag faoi Philéar I den bhuiséad CBT
+2 Bhallstát: An Ghréig, An Iodáil
+5 Bhallstát: An Ostair, An Fhionlainn, An Iodáil, An Phortaingéil, An tSlóivéin
+6 Bhallstát: An Bheilg, An Danmhairg, An Fhrainc, An Ghearmáin, Éire, An Ísiltír
+7 mBallstát: An Bheilg, Poblacht na Seice, An Ghearmáin, An Ungáir, Éire, Lucsamburg, An tSualainn
+3 Bhallstát: An Chipir, An Ghréig, An Spáinn
+6 Bhallstát: An Ostair, An Chipir, An Fhionlainn, An Phortaingéil, An tSlóivéin
+9 mBallstát: An Danmhairg, An Eastóin, An Fhrainc, An Laitvia, An Liotuáin, An Ísiltír, An Pholainn, An tSlóvaic, An Ríocht Aontaithe
+10 mBallstát: Poblacht na Seice, An Eastóin, An Ungáir, An Laitvia, An Liotuáin, Lucsamburg, An Pholainn, An tSlóvaic, An tSualainn, An Ríocht Aontaithe
+1 / Trasnascadh ar thacaíocht feirme (Piléar I) le sciar measta den talamh feirme le lharduach nádúir (HNV) in aghaidh an Bhallstáit.
+Tabhair faoi deara: Áirítear an sciar HNV bunaithe ar an achar talún talmhaíochta díorthaithe ón mbunachar sonraí um chumhdach talún Corine.
+Ní raibh aon sonraí ar fáil le haghaidh Málta.
+Foinse: Bunaithe ar shonraí ó thuarascálacha Airgeadais CBT, blianta éagsúla.
+2 / Trasnascadh ar chaiteachas agrai-chomhshaoil le sciar measta den talamh feirme le hardluach nádúir (HNV) in aghaidh an Bhallstáit.
+Tabhair faoi deara: Áirítear sciar an HNV bunaithe ar an achar talún talmhaíochta díorthaithe ón mbunachar sonraí um chumhdach talún Corine Ní raibh aon sonraí ar fáil le haghaidh Málta.
+Foinse: Bunaithe ar shonraí 2005, An Coimisiún Eorpach, 2007a.
+Dá gcuirfí tacaíocht fheirme agus sciar de thalamh feirme HNV i gcomhchoibhneas lena chéile, bheadh an chuid is mó de na Ballstáit le fáil sa bhosca uachtarach ar dheis agus sa bhosca íochtarach ar chlé.
+Léiríonn an dáileadh measartha cothrom de Bhallstáit idir na boscaí ar fad nach bhfuil tacaíocht CBT faoin gcéad philéar agus tacaíocht CBT do scéimeanna agrai-chomhshaoil i gcomhchoibhneas le sciar measta de thalamh feirme HNV faoi láthair nuair a dhéantar anailís air ag leibhéal na mBallstát.
+I bhfolach san fhéar ard
+Is lapairí arda le goba fada iad guilbnigh earrdhubha, atá le fáil ar líne chladaigh na hEorpa agus in insí.
+I 1975 bhí 120 000 péire póraithe san Ísiltír.
+Inniu tá thart ar 38 000 péire ann.
+Tá líon na bpéirí póraithe ag dul i laghad ar fud na hEorpa.
+íocaíochtaí le haghaidh gearradh déanach bheith mar pháirt de phacáiste cuimsitheach a áiríonn tuilleadh fásra, ionchuir nítrigine níos ísle agus maoschláir atá faoi rialú níos fearr.
+D’fhéadfaí cinntí ón sampla seo a chur i bhfeidhm don bhuiséad CBT iomlán i dtéarmaí a chuid iarrachtaí ó thaobh feabhsuithe comhshaoil de: tá éifeacht áirithe ag an CBT ach ní leor an éifeacht sin.
+Bheadh an ‘pacáiste’ bearta seo an-costasach, áfach.
+In ionad sin, de réir cás-staidéar don Ísiltír, cuid de thuarascáil EEA atá le foilsiú, ba cheart na híocaíochtaí agrai-chomhshaoil a dhíriú ar líon teoranta de cheantair fhéaraigh áit atá líon na nguilbneach fós ard agus áit nach bhfuil mórán creachadóirí.
+Sna ceantair seo ba cheart teaglaim bearta a thógáil cosúil le gearradh déanach agus neamhrialta, ionchuir nítrigine ísle agus cothabháil ar mhaoschláir arda.
+Caithfidh sicíní guilbnigh thart ar 20 000 feithid a ithe sa chéad seachtain dá gcuid saoil má tá siad le maireachtáil.
+Aontaíonn eolaithe go bhfuil na cleachtaí lomtha a bhíodh ag feirmeoirí mar an phríomhchúis gur chuaigh daonra na nguilbneach i laghad.
+Tharla an chéad ghearradh féir san Ísiltír trí seachtaine níos luaithe an bhliain seo ná mar a tharla 40 bliain ó shin, mar gheall ar thoirchiú níos fearr is dócha.
+Tá daonraí feithidí i bhfad níos airde i bhféara arda agus tá méadú níos mó fiú i bhféarthailte nach raibh dian-thoirchiú déanta orthu.
+I bhféar gearr, ní féidir le cearca agus coileacha go leor feithidí a fháil le tabhairt dá sicíní sna chéad laethanta sin atá rí-thábhachtach.
+Tá creachadóirí ann mar bhagairt níos mó anois toisc gur creachaithe éasca iad na sicíní i bhféarthailte oscailte gearrtha.
+In 2006 rinneadh leithdháileadh EUR 1.2 billiún de bhuiséad CBT don Ísiltír, agus úsáideadh cuid de chun gearradh féir níos déanaí a spreagadh.
+Léirigh staidéir go méadaíonn ráta maireachtála sicíní guilbnigh faoi dhó ar fhéaraigh a bhaineann tairbhe as an gearradh déanach.
+Léiríonn sé seo go hachomair an dúshlán atá os comhair an CBT, áit atá spriocdhíriú ar mhaoiniú agus dearadh polasaí ag leibhéal áitiúil rí-thábhachtach.
+In 2006, caitheadh EUR 1.2 billiún faoi Philéar I san Ísiltír; caitheadh EUR 83.2 milliún faoi Philéar II.
+Tá na híocaíochtaí feirmeoireachta aonair, faoi Philéar I, dírithe go mór mhór ar fheirmeacha le táirgiúlacht mhór toisc go bhfuil íocaíochtaí taca nasctha le dáileadh stairiúil na bhfóirdheontas.
+Ní leor na bearta seo, áfach, chun cobhsú a dhéanamh ar dhaonra na guilbnigh.
+Chun méadú dóthanach a dhéanamh ar mharthanas, caithfidh
+SIGNALS EEA 2009 / TALMHAÍOCHT AGUS COMHSHAOL / 25 sna ceantair a rinneadh staidéir orthu, áfach (Figiúr 2).
+Ba cheart a thabhairt faoi deara freisin go gcuimsíonn an idirghabháil seo níos lú ná 5 % d’iomlán na n-íocaíochtaí CBT
+Iarmhairtí don bhithéagsúlacht a rá go díreach cén áit ina bhfuil an t-airgead ag dul nó cad go díreach atá á bhaint amach aige.
+Ní dhéanann tacaíocht Philéar I, cé go bhfuil sí díchúpláilte ón táirgeadh i bpáirt anois, mórán chun feabhas a chur leis an mbithéagsúlacht a fhaightear ar thalamh feirme.
+Is rogha bhailí í feabhas a chur le Piléar II agus díriú ar bhearta bainteach le talamh feirme le luach nádúir ard, ach tá gá le dearadh agus measúnú cúramach chun cosc a chur le tionchair dhiúltacha neamhbheartaithe.
+Tuarascáil an EEA Uimh 6/2005. EEA, 2006. Assessing environmental integration in EU agriculture policy. EEA Briefing Uimh 1/2006.
+An Coimisiún Eorpach, 2007a. Rural Development in the European Union — Statistical and Economic Information — Tuarascáil 2007. http://ec.europa.eu/ agriculture/agrista/index_en.htm.
+An Coimisiún Eorpach, 2007b. Agriculture in the European Union — Statistical and economic information 2007. http://ec.europa.eu/agriculture/ agrista/index_en.htm.
+Buiséad Ginearálta an Aontais Eorpaigh, 2007.
+I ndeireadh na dála, is í an éifeacht atá ag íocaíochtaí CBT ar chothabháil thalamh feirme HNV an rud atá tábhachtach san anailís seo.
+Ní thugann an t-eolas atá ar fáil freagra soiléir mar gheall ar easpa mhionsonraí spásúla.
+Sa bhreis, tá na hidirghníomhaíochtaí idir na cineálacha feirmeoireachta agus déine na feirmeoireachta chomh maith le luach nádúrtha an talamh feirme casta agus tá difríochtaí ann idir na réigiúin.
+Braitheann feirmeacha HNV ar mhaoiniú CBT níos mó ar son a gcuid ioncaim ná mar a bhraitheann dian-fheirmeacha, nach dtacaítear bithéagsúlacht, air.
+Deimhníonn cás-staidéir an EEA go bhfuil an chuid is mó d’fhóirdheontais Philéar I dírithe ar na ceantair is táirgiúla.
+Tá bithéagsúlacht íseal anseo agus ní dreasacht mhór é an fóirdheontas i leith táirge atá neamhdhíobhálach don chomhshaol.
+Tá comhchoibhneas níos dearfaí idir chaiteachas Philéar II agus talamh feirme HNV agus is dea-scéal é seo, i bprionsabal, le haghaidh cothabháil na bhfeirmeacha seo.
+Bheadh gá le tuilleadh staidéir a chomhlíonadh chun fáil amach an leor na fóirdheontais seo chun tréigean talún ar lámh amháin agus diansaothrú ar an lámh eile a chosc.
+Tugann an fhianaise maidir le scéimeanna agrai-chomhshaoil a chur i bhfeidhm le fios go bhféadfaí feabhsú a dhéanamh ar cé chomh héifeachtach is atá siad.
+Tá dóchas éigin ag baint le cuid de na bearta ach níl mórán éifeachta le feiceáil le cinn eile.
+Ina theannta seo, d’fhéadfadh dídhaonrú tuaithe agus athruithe i nósanna maireachtála bheith mar bhagairtí uileghabhálacha ar chórais fheirmeoireachta traidisiúnta, nach féidir a réiteach le fóirdheontais san fhadtéarma.
+Beidh maoiniú don CBT mar chuid d’athbhreithniú ollmhór ar bhuiséad iomlán an AE in 2009-2010.
+Tá dúshlán ann maidir le réiteach na bhfeidhmeanna éagsúla atá ag an CBT (táirge bia a dhaingniú, tacaíocht a thabhairt d’ioncam feirme, an comhshaol a chosaint agus feabhas a dhéanamh ar an gcaighdeán maireachtála i gceantair iarghúlta) agus a chinntiú go gcaitear airgead na gcáiníocóirí ar bhealach éifeachtach.
+Tugann an t-eolas teoranta atá ar fáil faoi láthair le tuiscint nach bhfuil an dáileadh reatha atá ann do mhaoiniú CBT an-éifeachtach nuair atáthar ag iarraidh cuspóirí comhshaoil an AE a bhaint amach, go háirithe maidir le cosaint an nádúir.Toradh breise eile a tháinig as anailís an EEA ná nach leor an t-eolas staitistiúil atá ar fáil ar phátrúin chaiteachais CBT chun measúnú ceart a dhéanamh ar na héifeachtaí atá ag an bpolasaí tábhachtach seo.
+I dtéarmaí simplí, cé go gcaithimid beagnach leath de bhuiséad an AE ar an CBT, níl go leor eolais againn chun
+Iasc ar thalamh tirim
+Bainistíocht mhuirí in aeráid athraitheach
+Scéal an iascaire I gcaitheamh na hoíche 6 Deireadh Fómhair 1986 ghabh iascairí portán ó bhaile beag Gilleleje, lastuaidh de Chóbanhávan, lán a líontán de ghliomaigh na hIorua agus iad amuigh ar Mhuir an Kattegat.
+Bhí go leor de na hainmhithe marbh nó ag fáil bháis.
+Bhí dath aisteach ar thart ar leath díobh.
+Má scaoilfí leis ar feadh dhá bhliain, d’athshlánófaí an líon troisc sa Mhuir Bhailt
+Henrik Sparholt, Oifigeach Gairmiúil Cláir Chomhairligh ICES meath géar ar an ngabháil faoin mbliain 1990.
+Níor tháinig aon bhiseach uirthi ó shin i leith.
+Chuir an cliseadh sin brú airgeadais ar an bpobal áitiúil.
+Chiallaigh scála agus luas an chliste sna stoic throisc sa Mhuir Bhailt gur caitheadh go leor fuinnimh ag iarraidh an chúis a bhí leis an mborradh agus leis an gcliseadh dá éis a thuiscint.
+Tá an réigiún tar éis éirí ina chás-staidéar idirnáisiúnta le ceachtanna ann do réigiúin eile.
+Ní scéal simplí atá i scéal na Mara Bhailt – léiríonn castacht an cháis go deimhin féin na dúshláin atá os comhair lucht ceaptha beartais sa chomhshaol mara.
+D’fhionn na taighdeoirí ag an bhForas Taighde Comhshaoil Náisiúnta sa Danmhairg sna samplaí d’ocsaigin thuaslagtha san uisce i gcomhar leis na gliomaigh mharbha go raibh an ocsaigin in easnamh ar achar mór neamhghnách de ghrinneall deisceartach an Kattegat.
+An 'anocsacht' nó an easpa ocsaigine ar ghrinneall na farraige an oíche úd ba chúis leis na heachtraí aisteacha.
+Creideann na heolaithe go raibh na gliomaigh ag plúchadh!
+Dhá bhliain is fiche i ndiaidh na heachtra sin is amhlaidh atá ceantair mhóra den Mhuir Bhailt ina gceantair anocsachta nó ina 'gcriosanna marbha'.
+Sa tóir ar shonraí
+Cliseadh iascaigh Bornholm tábhacht shonrach le líon na n-iasc d’aois áirithe i gceantar éigin.
+Dá mhéid iasc a mhaireann slán i gcaitheamh bliana iomlán is ea is mó iasc a bheifear ag dúil le gabháil idir dhá bhliain agus cúig bliana ina dhiaidh sin nuair a bhíonn na héisc aibí.
+Agus dá mhéid iasc aibí a bhíonn ar fáil is ea is mó uibheacha a sceitear.
+Is iad Ballstáit an AE a dhéanann cinneadh i leith na ngabhálacha iomlána ceadaithe (TAC), tar éis dóibh comhairle eolaíochta a fháil.
+Is minic a léiríonn na cinntí sin tosaíochtaí seachas cosaint na stoc.
+Rinneadh iascach ar thart ar 45 % de na stoic éisc mheasta i bhFarraigí na hEorpa sa bhliain 2006 lasmuigh de na teorainneacha bitheolaíochta sábháilte.
+Aontaíodh ar na leibhéil iascaigh sin ag an leibhéal aireachta.
+Análaíonn éisc ocsaigin tuaslagtha in uisce
+Ceanglaítear srianta diana ar iascairí Bhornholm, díreach ar nós a gcomhghleacaithe ar fud na hEorpa, de réir an Chomhbheartais Iascaigh lena mbunaítear cé mhéid iasc de chineál éigin is féidir a ghabháil in ionaid éagsúla.
+Is í an Chomhairle Idirnáisiúnta um Thaiscéaladh na Mara a sholáthraíonn an chomhairle eolaíochta i leith leibhéal sábháilte ó thaobh na bitheolaíochta de.
+Solathraítear le sonraí suirbhéireachta iascaigh, staitisticí gabhála éisc agus monatóireacht comhshaoil na gcoinníollacha aigéaneolaíochta sonraí luachmhara ó thaobh measúnú sláinte na speiceas tráchtála is mó gabhála.
+Tá ardú drámatúil tar éis tarlú sna hionchuir chothaitheach – truailliú – amach sa Mhuir Bhailt, go háirithe ó na 1960aidí i leith de bharr úsáid mhéadaithe
+Tá cáil mhaith ar Bornholm, oileán idileach Danmhargach ag béal na Mara Bailt isteach agus amach ar leathbhealach idir an tSualainn, an Ghearmáin agus an Pholainn, as a scadán deataithe.
+Bhí an flúirseach éisc mar bhunchloch an gheilleagair áitiúil ar feadh na gcéadta bliain.
+Tháinig tuairim agus leath d'ioncam an iascaigh le linn na 1970aidí ón trosc.
+Bhí méadtú go dtí 80 % tar éis teacht ar luach iomlán an iascaigh troisc faoi dheireadh na 1980aidí.
+Shamhlaigh go leor iascairí todhchaí iontach iontu agus d’infheistigh siad i soithí úra.
+Mar sin féin, tháinig
+SIGNALS EEA 2009 / MUIRÍ / 27 dá réir.
+Ar an treas dul síos, bhí flúirseach larbhaí cópapóid (pseudocalanus acuspes) ann, arb í an fhoinse bia mhór iad don trosc, agus ar deireadh, b’amhlaidh a bhí ganntanas creachadóirí ar nós salán agus rón.
+Uibheacha éisc is ea creach na salán agus an trosc féin is ea creach na rón.
+Agus céard a d’imigh amú?
+Ba theirce an mór-insreabhadh ón Muir Thuaidh ó lár na 1980aidí i leith, aeráideacha.
+Bhí an Mhuir Bhailt ina loch fíoruisce nó gur ardaigh an leibhéal mara timpeall 8 000 bliain ó shin, ag ligean don Mhuir Thuaidh insreabhadh sa loch.
+Bíonn an ‘t-insreabhadh’ sáile sa Mhuir Bhailt fós tábhachtach ó thaobh chothabháil na leibhéal sáile agus ocsaigine.
+D’eascair comhchruinnithe ocsaigine ní b’airde sna ceantair sceite troisc de bharr an insreafa agus ina dhiaidh sin marthanas uibhe ní b’airde agus ní ba mhó iasc óg
+Trosc sa Mhuir Bhailt (1 000 tonna trosc)
+150 na leasachán saorga sa talmhaíocht chomh maith leis an uirbiú.
+Tháinig fás méadaithe ar fhíteaplanctón agus táirgeadh éisc dá bharr sin (ciallaíonn níos mó fíteaplanctóin níos mó bia don iasc).
+Tháinig fadhbanna méadaithe dá bharr fresin áfach leis an anocsacht domhainmhara le fáil sa mhuir.
+Scaoiltear suilfíd hidrigine ó ghrinneall na mara amach sa sáile nuair a éiríonn an sáile thíos ag an ngrinneall anocsach.
+Is tocsaineach í an tsuilfíd hidrigine don chuid is mó foirmeacha beatha, agus ba dhócha gur theaglaim suilfíde hidrigine agus easpa ocsaigine a mharaigh gliomaigh na hIorua sa Kattegat an oíche úd thiar sa bhliain 1986.
+Tá na ceantair anocsachta sa Mhuir Bhailt chomh mór sin anois gur eascair laghdú i méid na gceantar sceite féideartha i lár na Mara Bailt Thoir.
+Laghdaítear rathúlacht sceite an troisc dá réir.
+Cén fáth go raibh na 1980aidí luatha chomh maith sin d’iascach troisc?
+Comhairle ICES
+1 / Leibhéil ghabhála a moladh go heolaíoch (bunaithe ar chomhairle ICES), gabháil cheadaithe iomlán chomhaontaithe (TAC) agus gabháil iarbhír sna ceantair iascaigh timpeall Bornholm sna blianta idir 1989–2007.
+Socraíodh an TAC ní b’airde ná an leibhéal molta beagnach gach aon bhliain nuair a rinneadh an stoc troisc a mheasúnú.
+Sáraíonn an TAC an leibhéal molta faoi níos mó ná 100 % le roinnt blianta anuas.
+Is spéisiúil gur minic an ghabháil iarbhír a bheith níos airde ná an TAC toisc go n-áirítear iascach mhídhleathacha measta freisin leis na figiúir.
+Mínítear ráta marthanais ard na n-uibheacha agus na larbhaí troisc idir na blianta 1978–1983 trí cheithre fhachtóir.
+Is é an bunmhíniú ná gur laghdaíodh an brú iascaigh i dtreo deireadh na 1970aidí.
+Ar an dara dul síos, tháinig sáile ardsalandachta ón Muir Thuaidh go dtí an Mhuir Bhailt de dheasca na gcoinníollacha
+Polainne chomh fairsing sin i samhradh na bliana 2007 gur chuir an Coimisiún Eorpach deireadh leis an iascach Pholannach sa dara leath den bhliain 2007.
+Agus ansin athrú aeráide!
+Tá an t-athrú aeráide ag dul i bhfeidhm ar an teocht agus cóimheá an tsáile sa Mhuir Bhailt araon.
+Méadaíonn ardú teochta domhainmhara an t-éileamh meitibileach don ocsaigin agus laghdaíonn tuaslagthachta na hocsaigine sa sáile.
+Is amhlaidh ar a sheal féin a rannchuirfidh sé sin le leathadh níos faide na hanocsachta.
+Tá an tsalandachta sa Mhuir Bhailt tar éis laghdú go seasmhach ó lár na 1980aidí i leith de bharr báisteach mhéadaithe agus sreabhadh laghdaithe ón Muir Thuaidh sa Mhuir Bhailt.
+Is í an aeráid atá taobh thiar den dá fhachtóir.
+Tá laghdú cuibheasach beag sa tsalandacht ag tiontú cúrsaí cheana féin maidir le hathrú chomhdhéanamh ghnáthóg na Mara Bailt.
+Ón trí speiceas is mó a iasctar, an trosc, an scadán agus an salán, is é an trosc is leochailí don tsalandacht laghdaithe toisc go dtéann an tsalandacht i bhfeidhm ar a gcumas atáirgthe agus ar infhaighteacht na rogha bia le larbhaí troisc.
+Táthar ag réamh-mheas méaduithe leanúnacha um thitim na báistí agus as ar tháinig droch-choinníollacha do mharthain na n-uibheacha, agus ní ba lú iasc óg dá réir.
+Tháinig flúirseach laghdaithe cópapód ón tsalandacht laghdaithe freisin, ar príomhbhia do na larbhaí iad.
+Cé gur laghdaíodh an teorainn do leibhéil sábháilte iascaigh ó thaobh na bitheolaíochta de sna blianta ina dhiaidh sin, ba ghnách gur sháraigh an ghabháil polaitiúil cheadaithe an leibhéal seo (Figiúr 1).
+Cuireann an t-iascach mídhleathach leis an bhfadhb.
+Measadh go ngabháiltear 30 % breise go mídhleathach sa chuid seo den Mhuir Bhailt.
+Bhí na gabhálacha mídhleathacha ag cabhlach iascaigh na
+Fairsinge an bhonn-uiscehiopocsach agus anocsach, Fómhar 2007
+Stáisiúin Samplála
+AN tSUALAINN h di a u h
+T r d Imchuach i a n u
+AN LAITVIA t
+2 / Meastacháin d’fhairsinge na hiopocsa (líon ocsaigine níos lú ná 2 ml/l) agus anocsacht (líon ocsaigine ag nialas; go minic le láithreacht suilfíd hidrigine-a imoibríonn le hocsaigin chun sulfáit a chruthú.
+Nuair a tharlaíonn an t-imoibriú seo, glactar leis go bhfuil tiúchain ocsaigine diúltach) i bhFómhar na bliana 2007.
+Thar am, tá méadú comhsheasmhach tagtha ar an limistéir ina bhfuil tionchar ag an suilfíd hidrigine in Imchuacha Gotland Thoir agus Thiar, agus i Murascaill na Fionlainne.
+Ní théann uisce ó Mhurascaill na Fionlainne isteach i Murascaill Bothnia.
+Mar thoradh, in ainneoin a doimhneacht, fanann sí dea-ocsaiginithe, fiú i gcaitheamh an fhómhair. Foinse: http://www.helcom.fi/environment2/ifs/ifs2007/en_GB/HydrographyOxygenDeep/.
+Athróidh athrú aeráide an Mhuir Bhailt agus a cumas chun tacaíocht a thabhairt do dhaonraí troisc insaothraithe.
+Ní foláir go nglacfaí leis na hathruithe sin sa bhainistiú má tá an stoc le fanacht ag leibhéal ábhartha ó thaobh na tráchtála de
+An tOllamh Brian MacKenzie, DTU‑Aqua, Ollscoil Theicniúil na Danmhairge rathúil a thógáil in aghaidh na mBallstát a bhíonn i mbun ró-iascaigh.
+Tá go leor saineolaithe muirí tar éis leasuithe móra don bheartas a éileamh de bharr na heaspa rathúlachta soiléire um bainistiú inbhuanaithe go leor dá stoic éisc, ar léir é bheith ina tháirge comhréitigh idir na tíortha éagsúla é.
+Ba cheart go gcaithfí leis an gcomhshaol muirí mar éicea-chóras seachas mar earnálacha lena ndúshaothrú.
+Tá Coimisinéir an AE do Ghnóthaí Iascaigh agus Muirí, Joe Borg tar éis a rá fiú nach dtugann an CFP 'spreagadh freagrachta i measc iascairí nó polaiteoirí' agus sheol sé athbhreithniú láithreach ar an mbeartas i Meán Fómhair na bliana 2008, ceithre bliana chun cinn ar an sceideal.
+Tagairtí laghduithe um insreabhadh ón Muir Thuaidh d’aeráid aigéin na todhchaí.
+Ciallaíonn sé sin gur dócha go dtiocfaidh tuilleadh meatha ar na stoic throisc agus éisc mhara eile mura laghdaítear an brú iascaigh.
+Dóchas don todhchaí
+Mar fhreagra ar na fadhbanna casta agus géara comhshaoil sa Mhuir Bhailt is amhlaidh atá na tíortha sa réigiún tar éis aontú ar 'Plean Gníomhaíochta don Mhuir Bhailt' d’fhonn bearta náisiúnta a fhorbairt do chomhtháthú na mbeartas talmhaíochta, iascaigh agus réigiúnach.
+Tá an plean seo, ar glacadh leis i Samhain 2007, ina bhunús tábhachtach d’fhorfheidhmiú níos éifeachtaí bheartas an AE sa cheantar.
+Áirítear leis sin an Chreat-Treoir Straitéise Muirí nua, faoinar cheart do thíortha comhtheorann 'dea-stádas comhshaoil' na Mara Bailt a bhaint amach faoin mbliain 2020, lena n-áirítear ceangaltas go gcuirtear na stoic éisc ar ais ar 'a seanléim'.
+Ina theannta sin is amhlaidh atá an Coimisiún Eorpach ag forbairt straitéis do Réigiún na Mara Bailt as a dtiocfaidh plean gnímh ina saineofar na heochairghnníomhairí, na hionstraimí airgeadais le himlonnú, chomh maith le sceideal oibre.
+Beidh glacadh na mBallstát leis an straitéis mar cheann de thosaíochtaí Uachtaránacht na Sualainne ar an AE, sa dara leath den bhliain 2009.
+D’aithin an tSualainn comhshaol na Mara Bailt mar cheann dá ardtosaíochtaí.
+Dearadh an Comhbheartas Iascaigh (CFP) chun gníomhaíochtaí iascaigh a rialú ó thaobh an chomhshaoil, an gheilleagair agus na sochaí de.
+Táthar tar éis ró-iascach a dhéanamh ar go leor de na speicis éisc is luachmhaire ó thaobh na tráchtála de áfach, agus tá a gcuid uimhreacha anois faoi bhun líonta sábháilte bitheolaíochta.
+Is deacair de bharr bhrí na reachtaíocht gur costasach agus deacair an beart é ionchúiseamh
+Bithfhuinneamh, má thiteann an lug ar an lag
+Níl an t-aistriú ó ola go bithfhuinneamh saor ó bhaol
+Ní haon ní nua é an bithfhuinneamh.
+Tá daoine tar éis bheith ag dó an adhmaid leis na mílte bliain anuas.
+Tugadh 'breoslaí iontaise', go príomha an gual agus an ola, chun cinn leis an réabhlóid thionsclaíoch i lár na 1800aidí.
+Tá breoslaí iontaise ag éirí níos deacra le teacht orthu agus le baint, níos daoire agus faoi réir géardhíospóireachta polaitiúla.
+Bithmhais: a thagraíonn d’ábhar bitheolaíochta beo agus nuabhásaithe.
+Féadann sé a bheith ó bharra, crainn, algaigh, iarmhair thalmhaíochta nó foraoise nó ó dhramhshreabhadh.
+Bithfhuinneamh: gach cineál fuinnimh a dhíorthaítear ón mbithmhais, lena n-áirítear bithbhreoslaí.
+Bithbhreosla: breoslaí iompair leachtacha de
+2 dhéanamh bithmhaise (
+Mearbhogadh chuig nithe inathnuaite
+Tá an bithfhuinneamh ar tí éirí ina ghnó mór.
+Tá sé mar an fhoinse fuinnimh inathnuaite is mó atá i réim (1) san Eoraip agus is dócha go méadófar a tháirgeadh go mór sna blianta amach romhainn.
+Táthar tar éis bithbhreoslaí a ardmholadh mar bhealach maith chun an t-iompar a ghlasú agus allmhairí ola daora a sheachaint.
+Chonacthas ábhar na mbithbhreoslaí sna cinnlínte domhanda ar chúiseanna diúltacha sa bhliain 2008, den chuid is mó i ndáil le praghsanna bia bheith ag dul in airde.
+Tá saothar an EEA i leith bithbhreoslaí srianta do na hargóintí ina bhfabhar agus ina gcoinne.
+Fiú sa chás seo tá conspóid i gceist.
+Tá priacail chomhshaoil nach beag, go príomha ó thaobh athrú um úsáid talún, leis an aistriú chuig táirgeadh bithfhuinnimh ar mhórscála.
+Is iad an is ithir agus na plandaí an dá stóras CO2 mór ar domhan — ina bhfaightear dhá oiread an méid carbóin agus atá inár le n-atmaisféar.
+Scaoilfí ní ba mhó CO2 tiontú na foraoise, na bportach agus na bhféarach ina n-iomláine chuig barra bithbhreosla ná mar a shábhálfaí leis.
+Tá an Coimisiún Eorpach tar éis sprioc éigeantach a mholadh: ba cheart go mbeadh 20 % de gach fuinneamh Eorpach ag teacht ó earraí inathnuaite (sin gach foinse in-athnuaite: gaoth, grian, tonn, s.rl. chomh maith leis an mbithfhuinneamh) faoin mbliain 2020.
+Freagraíonn earraí inathnuaite faoi láthair do 6.7 % de thomhaltas fuinnimh na hEorpa.
+Tagann dhá dtrian de sin ón mbithmhais.
+Tá an Coimisiún Eorpach fonnmhar bithbhreoslaí a chur chun cinn — breosla don iompar — óir an t-éagsúlú a bheith
+Bheadh tionchair thromchúiseacha ar bhithéagsúlacht na hEorpa le haon mhéadú ar an táirgeadh de bharra arúla san Eoraip chun an t-éileamh bia agus breosla a shásamh araon, agus dhéanfadh sé dochar dár n-acmhainní ithreach agus uisce.
+Rachfadh na éifeachtaí iarmhartacha, ar a dtugtar 'athruithe úsáid talún indíreacha', i bhfeidhm in áiteanna eile ar fud an domhain: chuirfeadh réigiúin eile an domhain méadú lena dtáirgeadh bia leis an mbearna a líonadh de réir mar a chuirfeadh an Eoraip srian lena n-onnmhairí bia.D’fhéadfadh tionchair ar phraghsanna bia domhanda bheith cuibheasach mór.
+D’fhéadfaí na priacail laistigh den Eoraip a mhaolú ámh leis an rogha cheart barr agus le bainistiú ceart.
+Tairgtear buntáistí comhshaoil leis na bithbhreoslaí ón dramhaíl, ó iarmhairtí barr agus foraoiseachta mar shampla.
+Tá an EEA tar éis bheith ag féachaint sa chomhthéacs sin leis an gcaoi ina bhféadfadh forbairt teacht ar an mborradh bithfhuinnimh atá ar na bacáin, ag breithniú an féidir leis an bhfuinneamh atá ag teastáil uainn a sholáthar gan dochar a dhéanamh don chomhshaol.
+Áirítear leis an bhfuinneamh inathnuaite fuinneamh a dhíorthaítear ón ngaoth, farraige, grian, hidreachumhacht, s.rl.Is féidir leas a bhaint as an téarma bithbhreosla i leith gach breosla (cinn soladacha, leachtacha nó gáis) i gcomhair aon chuspóir a dhíorthaítear ón mbithmhais.
+Tagraíonn sé i gcomhthéacs na hanailíse seo ámh go sonrach do bhreoslaí don iompar.
+32 / SIGNALS EEA 2009 / FUINNEAMH: BITHFHUINNEAMH AGUS ATHRÚ TALAMHÚSÁIDE agus nósanna feirmeoireachta freagrach as 20 % measta de na hastuithe gáis cheaptha teasa i láthair na huaire.
+Méadaíonn tiontú mórscála na bhforaoisí ina dtalamh arúil an cion sin agus tionchair thromchúiseacha aige sin ar an mbithéagsúlacht.
+D’fhéadfadh an fiadhúlra agus cainníocht agus cáilíocht an uisce bheith thíos leis freisin má thiontaítear achar mór óna ngnáthóga nádúrtha nó ó cheantair fheirmeoireachta traidisiúnta isteach sa diantáirgeadh don bhithfhuinneamh.
+Tionchair sofheicthe ríthábhachtach san iompar toisc a thuilleamaí ar an ola.
+Tá an earnáil iompair ag méadú na nastuithe gáis cheaptha teasa agus ag ithe coigilteas astuithe a bhaineann na hearnálacha eile amach.
+Tá an Coimisiún tar éis moladh dá réir sin go soláthróidh bithbhreoslaí 10 % den bhreosla iompair bhóithre faoin mbliain 2020, más féidir iad a dheimhniú mar chinn inbhuanaithe.
+Léirítear sna sonraí ón mbliain 2007 go bhfuil an bithbhreosla mar 2.6 % den bhreosla iompair bhóithre san AE.
+Is amhlaidh d'fhonn 10 % a bhaint amach nach foláir don Aontas Eorpach táirgeadh agus allmhairí an bhithbhreosla a mhéadú ag tráth ina bhfuil na bithbhreoslaí ag lár díospóireachtaí casta éiceolaíochta agus eacnamúla.
+Tá níos mó díospóireachta timpeall sprioc bithbhreosla an AE.
+Tá Parlaimint na hEorpa tar éis ráthaíocht a éileamh le déanaí go dtiocfaidh 40 % den sprioc 10 % ó fhoinsí nach mbeidh in iomaíocht leis an táirgeadh bia.
+Tá Coiste Eolaíochta an EEA féin tar éis foláireamh a thabhairt gur ró-uaillmhianach í an sprioc cion na mbithbhreoslaí a úsáidtear san iompar chuig 10 % faoin mbliain 2020 agus go mba cheart í a chur ar ceal.
+Tionchair Dhomhanda – praghsanna bia agus athrú talamhúsáide
+Bíonn tionchair dhíreacha agus indíreacha do-sheachanta ag cur chun cinn na mbithbhreoslaí agus an bhithfhuinnimh eile san Eoraip.
+D’fhéadfaimis san Eoraip bithdhíosal ón ola shíol ráibe ar bhealach inbhuanaithe mar shampla, ach bheadh ní ba lú ola shíol ráibe ar fáil do tháirgeadh an bhia laistigh agus lasmuigh den Eoraip.
+Is dócha gurb í an ola phailme a líonfaidh cuid den bhearna sin.
+Thiocfadh cailliúint roinnt foraoise báistí mar thoradh air sin áfach, agus crainn i dtíortha mar an Indinéis á dtreascairt le breis barr pailme a éascú.
+Tá an t-éileamh bithbhreosla ar cheann den iliomad tosca ar fud an domhain atá ag cur leis an ardú deireanach um praghsanna bia, i dteannta le triomaigh in eochairthíortha táirgthe, tomhaltas feola méadaithe agus praghsanna ola ardaitheacha, srl.
+Measann an Eagraíocht um Chomhar agus Fhorbairt Eacnamaíochta (OECD) go gcuireann bearta reatha agus molta an AE agus SAM don bhithbhreosla méadú le praghsanna cruitneachta, arbhair bhuí agus ola ghlasra, faoi bheagnach 8 %, 10 % agus 33 %, faoi seach, sa mheántéarma.
+Tá an tomhaltas bia méadaitheach sa domhan, agus an t-éileamh breise ar bhithbhreosla, ag cur le formhéadú i dtalamh arúil an domhain, agus na féaraigh nádúrtha agus foraoiseacha báistí ag laghdú dá réir.
+Baineann tábhacht le sin toisc go bhfuil an dífhoraoisiú
+% de líon iomlan an tomhaltais fuinnimh deiridh ar iompar bhóithre
+Táthar tar éis torthaí agus patrúin a fháil ó na hiarrachtaí eolaíochta le déanaí tionchair an táirgthe bithfhuinnimh mhéadaithe a mheas, agus tá fonn ar an EEA aird a tharraingt orthu siúd.
+Baineadh leas as íomhánna satailíte agus suirbhéanna talún mar chuid de staidéar sa Bhrasaíl le taispeáint go bhfuil comhghaol idir an ráta tiontaithe foraoise ina talamh arúil san Amasóin le praghsanna domanda an tsoighe – dá airde praghas an tsoighe, is ea is mó foraoise báistí a leagtar.
+Agus is beag amhras atá ann go bhfuil an t-éileamh ar bhitheatánól taobh thiar den phraghas de réir mar a thiontaítear acraí pónairí soighe ina mbarra arbhair do bhitheatánól SAM.
+Idir an dá linn, ab amhlaidh a bhain Tim Searchinger agus taighdeoirí ó Ollscoil Purdue, SAM, leas as samhail dhomhanda agrai-eacnamúil chun taiscéaladh conas a d’fhéadfadh saothrú mórscála an arbhair agus an féar craobhóige (Panicum virgatum) don bhitheatánól i SAM táirgeadh na mbarr bia in áiteacha eile ar domhan, mar a dtiontaítear foraoisí agus féaraigh ina dtalamh arúil leis an mbearna bia a líonadh.
+Meastar ina gcuid taighde go mbeidh na hastuithe gáis cheaptha teasa a bhaineann leis an mbitheatánól níos airde ná iad siúd a bhaineann le húsáid breosla ion-taisí, ar feadh 50 bliain nó níos mó.
+Is amhlaidh sin toisc go bhfeidhmíonn féarach agus foraois mar stórais CO
+Bheadh an
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 fheidhm stórála sin ídithe dá dtiontófaí iad ina gcineál bairr a d’oirfeadh do tháirgeadh an bhithbhreosla.
+Thógfadh sé blianta fada an tairbhe bheith in uachtar ar na gnéithe diúltacha.
+1 / Tomhaltas deiridh fhuinnimh na mbithbhreoslaí — mar % den tomhaltas deiridh fhuinnimh i mbreoslaí iompair bhóithre, AE-27.
+Foinse: Eurostat, 2007; faightear an figiúr ó EurObserv'ER, 2008.
+Is deacair na tionchair a thomhas ar an mbithéagsúlacht agus ar acmhainní nádúrtha ar nós an uisce.
+Cuir i gcás táirgeadh méadaithe an arbhair i meán-Iarthar SAM, a chuireann i mbaol na beartha mara i Murascaill Mheicsiceo, mar ar cruthaíodh crios marbh ní ba mhó ná 20 000 km2 ag na hionchuir ardchothaithigh ón Mississippi.
+Dar le staidéar amháin le déanaí, méadófar trí shásamh spriocanna na bliana 2022 atá i mbille fuinnimh SAM na hualaigh nitrigine sa Mississsippi faoi 10–34 %.
+Ag múnlú na todhchaí agus teastaíonn díospóireacht dhomhanda uainn faoin gcaoi deireadh a chur leis cailliúint na bithéagsúlachta agus aghaidh a thabhairt ar athrú aeráide ag an aon am amháin, agus ag tabhairt san áireamh an éilimh dhomhanda ar tháirgeadh bia méadaithe agus an ardaithe ionaigh um praghas na hola.
+Creideann taighdeoirí an EEA go mba cheart go bhféachfadh an Eoraip go gníomhach leis an oiread bithfhuinnimh agus is féidir a ghiniúint laistigh dá chríocha, agus cóimheá á buanú idir táirgeadh bia, breosla agus snáithíní, agus gan dochar a dhéanamh do sheirbhísí éiceachórais.
+Ba cheart dúinn bogadh ar aghaidh ó na bithbhreoslaí, agus tosú chun dul i mbun taighde agus forbartha ar ard-bhithbhreoslaí (féach ar an mbosca).
+Agus beartaímis de réir gach tionchar comhshaoil, lena n-áirítear éifeachtaí ar an ithir, uisce agus bithéagsúlacht chomh maith le hastuithe gáis cheaptha teasa.
+Is ar an gcaoi sin is féidir leis an AE bheith i gceannas ar thógáil earnála bithfhuinnimh ar fíor-inbhuanaithe í.
+Measadh i staidéar EEA thiar sa bhliain 2006 go bhféadfaí 15 % d’éileamh fuinnimh réamh-mheasta na hEorpa a shásamh sa bhliain 2030 leis an mbithfhuinneamh a dhíorthaítear ó tháirgí talmhaíochta, foraoiseachta agus dramhaíola, trí úsáid a bhaint as acmhainní Eorpacha.
+Tagraítear don mheastachán mar 'chumas bithmhaise' na hEorpa.
+Leagadh síos tacar coinníollacha a thugann cosaint don bhithéagsúlacht agus íoslaghdú na dramhaíola lena chinntiú nach mbeadh an 'cumas bithmhaise' ag déanamh dochair don chomhshaol.
+Dá éis sin, bhain an EEA leas sa bhliain
+2008 as samhail Green-X
+a dearadh ar dtús chun staidéar a dhéanamh ar mhargaí leictreachais, chun
+Tuarascáil an EEA Uimh 7/2006.
+Geallúint na chéad ghlúine eile
+An Eagraíocht um Chomhar agus Fhorbairt Eacnamaíocht, Páras.
+Féadtar leas a bhaint as éagsúlacht stoc fotha neamhbhia leis na próisis táirgthe bithbhreosla den dara glúin.
+Áirítear leo sin bithmhais dramhaíola, adhmad, gais chruithneachta nór arbhair, agus barra speisialta fuinnimh nó bithmhaise ar nós an mhioscantais.
+anailís a dhéanamh ar an gcaoi chun leas a bhaint as an 'gcumas bithmhaise' sin a oireann don chomhshaol ar an mbealach is costéifeachtaí ó thaobh dearcadh an chomhshaoil de.
+Moltar sa staidéar gurb é an bealach is costéifeachtaí chun leas a bhaint as an gcumas bithmhaise 'samhaltaithe' le 18 % de theas na hEorpa, 12.5 % dá leictreachas agus 5.4 % dá breosla iompair ón mbithmhais a sholáthar faoin mbliain 2030.
+Trí úsáid an bhreosla iontaise a laghdú sna trí earnáil go léir d’fhéadfaí 394 milliún tona d’astuithe dé-ocsaíde carbóin a bhaint amach faoin mbliain 2020.
+Bhainfí laghduithe astuithe ní ba mhó amach fiú dá gcuirfí beartais i bhfeidhm chun tús áite a thabhairt do leas na teicneolaíochta chumhacht is teas in éineacht (CTÉ) um leictreachas agus giniúint an teasa.
+Saothraíonn an próiseas sin an teas atá mar seach-tháirge ón táirgeadh fuinnimh.
+Baineann costais leis sin ar ndóigh.
+Is daoire é feabhsú na húsáide bithfhuinnimh faoi thuairim 20 % ná samhail chomhchosúil den ghnáthfhuinneamh faoin mbliain 2030.
+Ba iad na tomhaltóirí faoi dheireadh thiar a bheadh thíos leis an gcostas sin.
+Tugann forbairtí ó cuireadh tús leis an saothar sin, go háirithe méaduithe sna praghsana bia domhanda, le fios go bhfuil na meastacháin 'chumais bhithmhaise' ró-ard: is dócha go mbeidh níos lú talún ar fáil san Eoraip as barra bithfhuinnimh a shaothrú.
+D’fhéadfadh praghsanna arda freisin dul i bhfeidhm ar na torthaí.
+Tagann teachtaireacht shoiléir aníos áfach ón gcleachtadh sin: b’fhearr ó thaobh costas agus maolú an athraithe aeráide, tús áite a thabhairt don bhithfhuinneamh i gcomhair leictreachais agus ghiniúint an teasa trí leas a bhaint as gléasraí CTÉ seachas díriú ar bhreosla don iompar.
+Féadann laghduithe nach beag teacht ar astuithe gáis cheaptha teasa ó bhithbhreoslaí den dara glúin, agus féadann siad laghdú a chur le héifeachtaí diúltacha eile ar nós úsáid leasachán, ach ní dócha go mbeidh siad ar fáil in am chun cur go sonrach leis an sprioc 10 % de bhithbhreoslaí iompair faoin mbliain 2020 a shásamh.
+Teastaíonn i bhfad níos mó taighde i leith na bpróiseas táirgthe agus na tionchair agus deiseanna a bhaineann leo.
+Is dócha leis sin go bhfanfaidh iomaíocht i réim ar thalamh agus uisce idir sainbharra fuinnimh agus barra bia.
+Teastaíonn beartais daingne uainn ag an leibhéal idirnáisiúnta leis na tionchair diúltacha a gcuirtear síos orthu thuas chun rannchur athruithe úsáide talún le fadhbanna comhshaoil a chosc san fheachtas i dtreo an bhithfhuinnimh.
+Tá gné dhomhanda shoiléir leis an dúshlán,
+Ní ar chúl mo thí
+Lastais idirnáisiúnta dramhaíola agus an comhshaol
+Dramhaíl gan teorainneacha
+Tuilleann Zhang Guofu, 35 bliain d’aois, EUR 700 sa mhí, ar pá rímhór sa tSín é lasmuigh de na príomhchathracha, agus é ag scagadh na dramhaíola ina bhfaightear málaí siopadóireachta ó shraith ollmhargaí Bhriotanach agus DVDanna as Béarla.
+Is í an lomfhírinne gur fusa don dramhaíl a chaitear in araid éigin thall i Londain dul chomh fada ar siúl le 5 000 míle le bheith istigh i monarcha athchúrsála éigin i nDeilt Abhainn an Phéarla anonn sa tSín.
+Níor baineadh amach an aidhm sin go fóill áfach, óir tá méadú nach beag faoi cheathair tar éis teacht ar lastais na dramhaíola guaisí agus dofhuascailte idir na blianta 1997 agus 2005.
+Is éagsúil iad na fachtóirí taobh thiar d'onnmhairiú agus allmhairiú na dramhaíola: infhaighteacht na teicneolaíochta sainchóireála; ganntanas ábhar; éagsúlachtaí um praghsanna do dhiúscairt nó tarrtháil.
+Tagann lastais dramhaíola ó Bhallstáit nach féidir a gcuid spriocanna a shásamh laistigh dá gcríocha féin mar thoradh ar bheartas an AE freisin, agus spriocanna á socrú ann don athchúrsáil.
+Coinníonn toirteanna na dramhaíola ar an margadh na costais íseal do thír mar an tSín, óna dteastaíonn amhábhair shaora.
+Meastar an dramhaíl sin bheith ina thrádáil inghlactha chomh fada agus nach mbeifear á diúscairt ag a ceann scríbe agus nach bhfaightear aon ábhar guaiseach inti.
+An bhfuil níos mó taistil déanta ag do shean Teilifís ná mar atá agat féin?
+n-astaítear caithnínigh luatha le miotail troma agus ábhair thocsaineacha eile orthu, agus nochtadh daonna méadaithe mar thoradh air sin, chomh maith le héilliú an bhia, na hithreach agus an uisce dromchla.
+Ní léir dúinn an cruth atá ar chúrsaí i gcás dramthrealamh leictreach agus leictreonach (WEEE) a sheoltar laistigh den AE agus amach ón AE, i bpáirt de bharr go n-úsáidtear cóid débhríocha i dtuairisciú na lastas dramhaíola leictreonaí.
+Is deacair a rá an bhfuiltear ag onnmhairiú teilifíseáin mar ghaireas athláimhe, rud atá inghlactha, nó mar dhramhaíl lena dhiúscairt, nach bhfuil inghlactha.
+Toirmeasctar i gcoitinne onnmhairiú WEEE ón AE go dtí tíortha neamh-OECD.
+Tá onnmhairiú teilifíseáin atá fós ag obair go hiomlán inghlactha ámh.
+Bhí cásanna ann a raibh bunús maith leo a sháraíonn an toirmeasc sin.
+Dealraítear go deimhin féin gur dramhaíl atá i gcion nach beag de na teilifíseáin, ríomhairí agus teileafóin onnmhairithe athláimhe chuig tíortha neamh-OECD a cheannaítear leis an rún chun na comhpháirteanna agus na codanna a luaitear thuas a aisghabháil.
+Mura féidir leis an AE a thoirmeasc féin um onnmhairiú WEEE chuig tíortha neamh-OECD a fhorghníomhú, d’fhéadfadh sé sin an bonn a bhaint de dhaingniú an toirmisc ag leibhéal domhanda faoi réir Choinbhinsiún Basel.
+Ag aimsiú dea-shonraí ar dhramhaíl leictreach agus leictreonach
+In ainneoin na ndeacrachtaí a bhaineann le haimsiú, ceadú agus anailísiú na sonraí um dhramhaíl is amhlaidh go bhfuil an EEA tar éis anailís
+Tá corpas reachtaíochta ag an Eoraip maidir le lastas na dramaíola guaisí agus dofhuascailte.
+Teastaíonn tuilleadh fianaise ámh i leith éifeachtacht na reachtaíochta chun an brú ar an gcomhshaol a mhaolú.
+Is cás tábhachtach í an dramhaíl leictreonach, a mheastar bheith ina dhramhaíl ghuaiseach.
+Is minic a dhíchóimeáiltear í san Afraic agus san Áise gan mórán trealaimh chosanta pearsanta ná beart rialála truaillithe nó gan aon trealamh ná beart den sórt sin a bheith ann.
+Is minic a dhóitear na comhpháirteanna amuigh faoin aer le miotail a aisghabháil, agus is iondúil go
+Tá gach cineál dramhaíola faoi lán seol.
+Tá ualaigh mhéadaitheacha, go háirithe an dramhpháipéar, na plaistigh agus na miotail á mbogadh ó thíortha forbartha chuig tíortha nach mbíonn na caighdeáin chomhshaoil chomh dian céanna iontu.
+Bíonn longa ollmhóra ag treabhadh na bhfarraigí móra gach aon lá agus earraí ar bord ó mhargaí atá ag teacht chun cinn san Áise anall go dtí an Domhan Thiar.
+Bíonn úinéirí na long ríshásta dramhearraí a thabhairt ar ais ón Eoraip lena n-athchúrsáil san Áise, seachas na longa bheith ag seoladh abhaile gan lasta agus le ballasta éigin a chur iontu.
+Ní chiallaíon é sin nach rialaítear na lastais dramhaíola.
+Tá rialacha géara ag na NA agus ag an AE araon faoin gcineál lastaí ar féidir a sheoladh trasna na bhfarraigí.
+Is faoi Choinbhinsiún Basel na NA a rialaítear trádáil idirnáisiúnta na ‘dramhaíola guaiseacha’ ag an leibhéal domhanda (dramhaíl a fhéadann bheith díobhálach do dhaoine nó don chomhshaol).
+Níl a ndóthain tíortha tar éis a síniú a chur leis an toirmeasc a fhaightear sa Choinbhinsiún sin len é a thabhairt i bhfeidhm go domhanda.
+Tá srianta i bhfeidhm ag an AE áfach, agus ní cheadaíonn sé d’onnmhairiú 'na dramhaíola guaisí' ach amháin chuig 'tíortha forbartha' ina bhfaightear na teicneolaíochtaí riachtanacha agus mar a bhfuil dlíthe leordhóthanacha sábháilteachta agus comhshaoil i bhfeidhm.
+Sainítear ‘tír fhorbartha’, chun críche na srianta úd, mar bhallstát den Eagraíocht um Chomhar agus Fhorbairt Eacnamaíochta (OECD).
+Is í aidhm fhadtéarmach an AE go mba cheart do gach aon Bhallstát a dhramhaíl féin a dhiúscairt laistigh dá chríocha féin ('prionsabal na neasachta').
+Cumhachtaí tiomána laistiar den athchúrsáil a stiúradh i gcomhar leis an 'Ionad Ábhar Eorpach um Bainistiú Acmhainní agus Dramhaíola' ar lastais dramhaíola ón AE seinnteoirí dlúthdhiosca srl. chuig na réigiúin sin i bhfad níos airde óir nach mbaineann na figiúir sin ach le teilifíseáin amháin.
+Tugann sé sin le fios go bhfuiltear ag sárú toirmeasc an AE ar thrádáil na dramhaíola guaisí le tíortha neamh-OECD.
+Dramhaíl neamhghuaiseach
+Tháinig borradh drámatúil freisin idir na blianta 1995 agus 2007 (Figiúr 2) ar lastais dramhaíola neamhghuaisí ar nós páipéir, plaisteach agus miotal a sheoltar ón AE, go dtí an Áise, go háirithe an tSín.
+Tháinig méadú deichfhillte ar mhéid na dramhaíola a onnmhairíodh chun na hÁise.
+Ba mhéadú faoi aon déag a tharla sna plaistigh agus faoi chúig i gcás na miotal.
+Tháinig méadú freisin ar an dramhaíl a sheoltar laistigh den AE, ach ag leibhéal i bhfad níos ísle.
+Seoladh an oiread chéanna dramhpháipéir chun na hÁise sa bhliain 2007 agus a seoladh ó thír amháin go tír eile de chuid an AE.
+Ba mhó cainníocht na miotal a seoladh laistigh den AE ná an méid a seoladh chun na hÁise.
+Mar sin féin, seoladh ní ba mhó dramhaíola plaistí chun an mhargaigh Áisigh ná mar a seoladh laistigh den AE.
+chuig réigiúin eile.
+Trí leas a bhaint as staitisticí trádála Eorpacha is féidir méideanna, méid agus luach onnmhairithe na dtáirgí leictreonacha agus leictreacha a sheoltar ón AE chuig réigiúin eile (Figiúr 1).
+Onnmhairíodh ní ba mhó ná 15 000 tonna de theilifíseáin dhaite ón AE chuig tíortha na hAfraice.
+Tháinig timpeall 1 000 teilifíseán gach aon lá isteach sa Nigéir, sa Ghána agus san Éigipt.
+Is fíor-íseal é meánluach na dteilifíseán daite onnmhairithe chun na hAfraice: ba é EUR 64 an praghas in aghaidh an aonaid don Afraic trí chéile, agus ba é EUR 28 an meánluach i leith na dtrí thír a luaitear thuas.
+I gcomparáid leis sin is amhlaidh atá luach EUR 350 ar theilifíseáin a thrádáiltear laistigh den Eoraip.
+Tugann an luach íseal in aghaidh na dteilifíseán a sheoltar chun na hAfraice gur táirgí athúsáide atá i go leor de na honnmhairithe sin, ar dramháil is dócha a bheidh sa mhórchuid díobh.
+Táthar ag súil go mbeidh onnmhairiú iomlán na ríomhairí athúsáide, fón póca,
+B’fhíor-ard é costas na n-amhábhar le deich mbliana anuas, agus b’in ba chúis ar a sheal féin le méadú luach na n-amhábhar tánaisteach a tarrtháladh trí an athchúrsáil.
+Tá na dramh-mhiotail, dramhpháipéar dramhphlaistigh agus dramhábhair eile ón Eoraip atá ag soláthar ábhairt do gheilleagar borrtha na hÁise, rud nach féidir a shásamh le hóghábhar.
+Cuir i gcás reachtaíocht an AE (ar nós na Treorach Pacáistíochta) nach foláir do na Ballstáit leibhéil athchúrsála a bhaint amach fúithí; tugtar spreagadh indíreach inti freisin do sheoladh an dramhábhair lena athchúrsáil.
+D’eascair méideanna méadaitheacha de dhramhábhair athchúrsála ar an margadh as ceangaltais an AE do rátaí sonracha athcúrsála.
+Mar shampla, tháinig méadú ar mhéid na ‘dramhaíola pacáistíochta páipéir agus cairtchláir ó isteach is amach ar 24 milliún tonna chuig 30 milliún tonna idir na blianta 1997 agus 2005.
+Tá líon na pacáistíochta plaistí a athchúrsáladh tar éis méadú ó thuairim 10 go dtí 14 milliún tonna sa tréimhse chéanna.
+An bhfuil sé go maith don chomhshaol?
+Is gnách gur chun leas an chomhshaoil í úsáid na dramhaíola athchúrsáilte in ionad na n-óghábhar.
+Mar shampla, úsáideann cileagram páipéir d’amhábhair athcúrsáilte a leath den fhuinneamh a úsáidtear sa táirgeadh trí leas a bhaint as óghábhair.
+An t-alúmanam a tháirgítear ó channa alúmanaim athchúrsáilte; féadann sé leas a bhaint as níos lú ná 5 % den fhuinneamh a theastaíonn le hais úsáid na n-óghábhar.
+Is amhlaidh trí chéile dá réir go rannchuireann an athchúrsáil go mór le laghdú na nastuithe CO
+2 a bhaineann le
+Méid i 100 tonna
+An Nigéir, Gána agus an Éigipt
+Cuid eile den Eoraip
+An Afraic - iomlán
+An Rúis fuinneamh agus na mbrúnna comhshaoil eile.
+Ní féidir linn a rá an bhfóireann lastas aonair, agus na lastais trí chéile dá réir, chun leas ná chun dochair an chomhshaoil áfach, toisc gur minic nach fios dúinn an méid a bhíonn i ndán don dramhaíl tar éis di calafort Eorpach a fhágáil.
+1 / An easpórtáil de theilifíseáin dhaite ón AE-25 chuig an Afraic, an Áise, an Meánoirthear, na Stáit Aontaithe agus tíortha Eorpacha eile, 2005.Foinse: GCE.
+Chumasódh an forbhreathnú measúnú i bhfad ní b’fhearr d’iarmhairtí comhshaoil agus eacnamúla na lastas dá dtuairisceofaí eolas ní ba mhionsonraithe, go háirithe i leith na gcineálacha dramhaíla a sheoltar.D’fhéadfadh sé cabhrú linne nochtadh an iad roghanna cóireála níos fearr, toilleadh níos mó nó praghsáil éifeachtach atá taobh thiar de na lastais dramhaíola.
+Thuigfimis ní b’fhearr ról na gcaighdeán níos ísle, na heaspa reachtaíocht agus
+Ní folár lastais dramhaíola traschríche lena diúscairt, chomh maith le dramhaíl 'ghuaiseach agus dhofhuascailte' lena tarrtháil, a fhógairt do na húdaráis náisiúnta laistigh den AE.
+Is fíormhionsonraithe í an fhógairt 'náisiúnta' seo.
+Is leagan achoimrithe de na sonraí um lastais amháin a thugtar ar láimh don Choimisiún Eorpach ámh, agus ní léir an forbhreathnú ag leibhéal an AE dá réir.

@@ -1,0 +1,788 @@
+Is éard is matamaitic ann (ón tSean-Ghréigis μάθημα; máthēma: 'eolas, staidéar, foghlaim ') ná réimse eolais a chuimsíonn topaicí amhail; uimhreacha (Teoiric na matamaitice agus na huimhirtheoirice), foirmlí agus struchtúir ghaolmhara (ailgéabar), cruthanna agus na spásanna ina bhfuil siad (geoiméadracht), agus cainníochtaí agus a n-athruithe (calcalas agus anailís). Baineann an chuid is mó den ghníomhaíocht mhatamaiticiúil le húsáid a bhaint as glanréasúnaíocht theibí chun airíonna réad teibí a fháil amach nó a chruthú, arb éard atá i gceist leo ná teibithe ó nádúr, nó sa mhatamaitic nua-aimseartha, aonáin a bhfuil airíonna áirithe acu, ar a dtugtar aicsímí. Is éard atá i gcruthúnas matamaiticiúil ná sraith d'fheidhmeanna ar roinnt rialacha déaduchtacha do thorthaí atá ar eolas cheana féin, lena n-áirítear teoirimí cruthaithe roimhe seo, aicsímí a bhí cruthaithe roimhe seo agus (i gcás teibithe ón nádúr) roinnt airíonna bunúsacha a mheastar mar fhíorphointí tosaigh na teoirice atá á meas.
+Úsáidtear an mhatamaitic san eolaíocht chun feiniméin a shamhaltú, rud a cheadaíonn tuar a dhéanamh ansin ó dhlíthe turgnamhacha. Tugann neamhspleáchas na fírinne matamaiticiúla ó aon turgnamh le tuiscint go mbraitheann cruinneas na dtuartha sin ach amháin ar leordhóthanacht na samhla. Tuartha míchruinn, seachas a bheith de bharr na matamaitice míchirte, le tuiscint go bhfuil gá leis tsamhail mhatamaiticiúil a úsáidtear a athrú. an gá leis an tsamhail matamaitice a úsáidtear a athrú. Mar shampla, ní fhéadfaí luainíocht pheirihéileach Mhearcair a mhíniú ach amháin tar éis coibhneasacht ghinearálta Einstein a bheith tagtha chun cinn, a tháinig in ionad dhlí imtharraingthe Newton mar mhúnla matamaiticiúil níos fearr.
+Tá an mhatamaitic riachtanach sna heolaíochtaí, san innealtóireacht, sa leigheas, san airgeadas, san ríomheolaíocht agus sna heolaíochtaí sóisialta. Forbraítear roinnt réimsí matamaitice, ar nós staitisticí agus teoiric na gcluichí, i ndlúthghaol lena n-úsáidí agus is minic a ghrúpáiltear iad faoin mhatamaitic fheidhmeach. Forbraítear réimsí matamaiticiúla eile go neamhspleách ar aon fheidhm (agus mar sin tugtar glanmhatamaitic orthu), ach is minic a aimsítear feidhmeanna praiticiúla níos déanaí. Is sampla oiriúnach é an fhadhb a bhaineann le fachtóiriú slánuimhir, a théann ar ais go dtí Eoiclídéas, ach nach raibh aon fheidhm phraiticiúil aige sular úsáideadh é i gcripteachóras le heochair phoiblí RSA (le haghaidh slándáil líonraí ríomhaireachta).
+Go stairiúil, ba sa mhatamaitic Ghréagach a tháinig coincheap an chruthúnais agus na críochnúlachta matamaiticiúla a bhaineann leis chun cinn ar dtús, go háirithe sna  hUraiceachtaí. Ó thús, roinneadh an mhatamaitic go bunúsach i gGeoiméadracht, agus uimhríocht (ionramháil uimhreacha aiceanta agus codáin), go dtí an 16ú agus an 17ú haois, nuair a tugadh ailgéabar agus calcalas an-bhídeach isteach mar réimsí nua den ábhar. Ó shin i leith, tá an t-idirghníomhú idir nuálaíochtaí matamaiticiúla agus fionnachtana eolaíocha mar thoradh ar mhéadú tapa i bhforbairt na matamaitice. Ag deireadh an 19ú haois, d'eascair an ghéarchéim bhunúsach sa mhatamaitic (Gearmáinis; Grundlagenkrise der Mathematik) as an modh  aicsímeach a chórasú. Mar thoradh air seo tháinig méadú mór ar líon na réimsí matamaitice agus ar a réimsí feidhmeanna. Sampla de seo is ea Rangú Ábhair na Matamaitice, a liostaíonn níos mó ná 60 réimse matamaitice den chéad leibhéal.
+Tagann an focal matamaitic ón tSean-Ghréigis máthēma (μάθημα), a chiallaíonn ""an rud a fhoghlaimítear,"" ""an t-eolas a fhaigheann duine,"" mar sin freisin ""staidéar"" agus ""eolaíocht"". Tháinig an bhrí níos cúinge agus níos teicniúla chun cinn; ""staidéar matamaitice"" ar an bhfocal ""matamatice"" fiú san tréimhse Chlasaiceach. Is í a aidiacht ná mathēmatikós (μαθηματικός), a chiallaíonn ""bainteach le foghlaim"" nó ""staidéarach,"" rud a chiallaigh freisin ""matamaiticiúil."" Go háirithe, chiallaigh mathēmatikḗ tékhnē (μαθηματικὴ τέχνη; Laidin: ars mathematica) ""an ealaín mhatamaiticiúil.""
+Ar an dul céanna, tugadh an mathēmatikoi (μαθηματικοί) ar cheann den dá phríomhscoil smaointeoireachta sa Phíotagaráiteachas—rud a chiallaigh ""foghlaimeoirí"" seachas ""matamaiticeoirí"" sa chiall nua-aimseartha.
+Sa Laidin, agus sa Bhéarla go timpeall na bliana 1700, is é a bhí i gceist leis an téarma matamaitic ná  ""astralaíocht "" (nó uaireanta ""réalteolaíocht "") seachas ""matamaitic""; d'athraigh an bhrí de réir a chéile go dtí an ceann atá ann faoi láthair ó thart ar 1500 go 1800. Mar thoradh air sin, bhí roinnt mí-aistriúchán ann. Mar shampla, uaireanta déantar  mí-aistriúchán ar rabhadh San Agaistín, gur chóir do Chríostaithe a bheith a bheith airdeallach ar mathematici, rud a chiallaíonn  astralaithe ,  mar cáineadh ar na matamaiticeoirí.
+Téann an fhoirm iolra dealraitheach sa Bhéarla siar go dtí neodar iolra na Laidine mathematica (Cicero), bunaithe ar an iolra Gréagach ta mathēmatiká (τὰ μαθηματικά), a d’úsáid Arastatal (384 -322 RC), agus a chiallaíonn go garbh ""gach rud matamaiticiúil "", cé go bhfuil sé sochreidte nach bhfuair an Béarla ach an aidiacht mathematic(al)  ar iasacht agus gur bhunaigh sí an t-ainmfhocal mathematics  as an úire, i ndiaidh phatrún physics agus metaphysics, a fuarthas le hoidhreacht ón nGréigis.  Sa Bhéarla, glacann an t-ainmfhocal mathematics briathar uatha. Is minic a ghiorraítear é go dtí maths nó, i Meiriceá Thuaidh, math.
+Réimsí na matamaitice
+Roimh an Renaissance, roinneadh an mhatamaitic ina dhá phríomhréimse: uimhríocht — maidir le hionramháil uimhreacha, agus geoiméadracht (nó céimseata) - maidir le staidéar a dhéanamh ar chruthanna. Ní raibh idirdhealú soiléir ansin ag cineálacha áirithe bréageolaíochta, amhail uimhireolaíocht agus astralaíocht, ón matamaitic.
+Le linn an Renaissance, bhí dhá réimse eile le feiceáil. Nodaireacht mhatamaiticiúil ba chúis le hailgéabar, arb éard atá ann, go garbh,  staidéar agus ionramháil foirmlí. Is éard is calcalas ann, ina bhfuil an dá fho-réimse, mionchalcalas agus calcalas suimeálach, ná staidéar ar fheidhmeanna leanúnacha, a mhúnlaíonn na caidrimh neamhlíneacha idir cainníochtaí éagsúla (athróga) de ghnáth. Mhair an roinnt seo ina cheithre phríomhréimse - uimhríocht, geoiméadracht, ailgéabar, calcalas [fíorú de dhíth] - go dtí deireadh an 19ú haois. Is minic a measadh réimsí mar mheicnic neamhaí agus meicnic sholadach mar chuid den mhatamaitic, ach anois meastar go mbaineann siad leis an bhfisic. Bhí roinnt ábhar a forbraíodh le linn na tréimhse seo ann roimh thús na na matamaitic, agus tá siad roinnte ina réimsí cosúil le teoiric na dóchúlachta agus an mhatamaitic theaglamach, a measadh níos déanaí mar réimse uathrialaitheach.
+Ag deireadh an 19ú haois, mar thoradh ar an ngéarchéim bhunaitheach sa mhatamaitic agus mar thoradh ar an modh aicsímeach, tháinig borradh mór ar réimsí nua na matamaitice. Sa lá atá inniu ann, níl níos lú ná 64 réimse den chéad leibhéal i Rangú Ábhar na Matamaitice. Freagraíonn cuid de na réimsí seo don rannán níos sine, mar atá fíor maidir le huimhirtheoiric  (an t-ainm nua-aimseartha don arduimhríocht) agus geoiméadracht. (Mar sin féin, tá ""geoiméadracht"" ina n-ainmneacha ag go leor réimsí céadleibhéil eile nó meastar go coitianta iad ar shlí eile mar chuid den gheoiméadracht.) Ní fheictear an t-ailgéabar agus an calcalas mar limistéir chéad leibhéal, ach roinntear iad i roinnt réimsí céadleibhéil faoi seach. Tháinig réimsí eile den chéad leibhéal chun cinn le linn an 20ú haois (mar shampla teoiric na gcatagóirí; ailgéabar hoimeolaíoch, agus ríomheolaíocht) nó nár breathnaíodh orthu roimhe seo mar mhatamaitic, amhail; loighic agus bunúis na matamaitice (lena n-áirítear teoiric na mionsamhla, ríomhtheoiric, tacartheoiric, teoiric an chruthúnais, agus loighic ailgéabrach).
+Calcalas agus anailís
+Tosaíonn staidéar an cainníocht le uimhreacha, ar dtús le na uimhreacha aiceanta agus slánuimhir agus uimhríocht orthu.
+Agus a tagann forbairt ar an chóras uimhir, aithnítear na slánuimhir mar fo-thacar do na uimhir chóimheasta. Ach tá na uimhreacha chóimheasta fo-thacar freisin do na réaduimhir. Tá an uimhir choimpléascach tacar ginearálaithe do na réaduimhir
+{| style=""border:1px solid #ddd; text-align:center; margin:auto"" cellspacing=""20""
+| uimhreacha aiceanta || slánuimhir || uimhir chóimheasta || réaduimhir || uimhir choimpléascach
+Is brainse den mhatamaitic í an mhatamaitic fheidhmeach a bhaineann úsáid as uirlisí teibí matamaitice chun fadhbanna a réiteach sna heolaíochtaí, i ngnó agus i réimsí eile nach iad. Is réimse tábhachtach matamaitice feidhmí é an staidreamh a bhaineann leas as teoiric na dóchúlachta mar uirlis agus a cheadaíonn tuairisciú, anailísiú agus réamhaisnéis na bhfeiniméan ina bhfuil ról ag seans.
+{|style=""border:1px solid #ddd; text-align:center; margin:auto"" cellspacing=""20""
+|Fisic Mhatamaiticiúil || Dóchúlacht || Staidreamh ||
+Is é an tEanáir nó Mí Eanáir an chéad mhí den bhliain. Tá 31 lá ann.
+Tagann an t-ainm ón Laidin Januarius (le Janus - dia na ngeataí agus na ndoirse ag na Rómhánaigh).  Sean-nós atá ann doirse a bheannú tráth na hEipeafáine (6 Eanáir) – chun a chur i gcuimhne dúinn fáilte a chur roimh dhaoine agus aíonna nua le linn na bliana amach romhainn. Scríobhann roinnt daoine an dáta agus na litreacha CMB thar an doras freisin. Is iad seo túslitreacha ainmneacha traidisiúnta an Triúr Saoithe: Caspar, Meilcíór agus Baltazár.
+Is é an 14 Feabhra an 45ú lá den bhliain de réir fhéilire Ghréagóra. Tá 320 lá fágtha sa bhliain nó 321 lá i mbliain bhisigh.
+1818 — Frederick Douglass, leasaitheoir sóisialta, scríbhneoir, agus daonfhuascailteoir Afrai-Mheiriceánach
+1819 — Christopher Latham Sholes, polaiteoir Meiriceánach
+1856 — Frank Harris, údar agus eagarthóir Éireannach (b.1931)
+1869 — Charles Thomson Rees Wilson, fisicí Albanach, ceannródaí sa bhfisic adamhach is núicléach
+1888 — Chandrashekhar Agashe, Tionsclaí agus fiontraí Indiach
+1894 — Jack Benny, aisteoir Meiriceánach
+1895 — Seán Ó Treasaigh, ball den IRA
+1898 — Fritz Zwicky, réalteolaí Eilvéiseach
+1912 — Joseph Brennan, polaiteoir Éireannach
+1918 — Thomas J. Fitzpatrick, polaiteoir Éireannach
+1925 — Val Mulkerns, scríbhneoir Éireannach
+1929 — Noel Lemass, Óg, polaiteoir Éireannach
+1942 — Michael Bloomberg, méara Cathrach Nua-Eabhrac
+1949 — Richard Neal, polaiteoir Meiriceánach
+1970  —Simon Pegg, Aisteoir Sasanach
+1983 — Rhydian Roberts, amhránaí Breatnach
+1986 — Barry Kirwan, ceoltóir
+1987 — Makka Sagaipova, amhránaí Rúiseach
+1400 — Risteard II, rí Shasana (r.1367)
+1694 — Natalia Naryshkina, banimpire Rúiseach
+1779 — James Cook, taiscéalaí agus loingseoir Sasanach (r.1728)
+1891 — William Tecumseh Sherman, ginearál Meiriceánach
+1912 — Mabel Sharman Crawford, eachtránaí agus scríbhneoir Éireannach
+1931 — Laming Worthington-Evans, polaiteoir Briotanach
+1943 — David Hilbert, matamaiticeoir Gearmánach
+1950 — Karl Guthe Jansky, réalteolaí Meiriceánach
+1957 — Erwan ar Moal, scríbhneoir (r.1874)
+1965 — Michael Kennedy, polaiteoir Éireannach
+1975 — P. G. Wodehouse, scríbhneoir Sasanach (r.1881)
+1979 — Martin Corry, polaiteoir Éireannach
+2015 — Cathair Niall Ó Dochartaigh, Ollamh le Ceiltis
+1895 - D'oscail an dráma deiridh de chuid Oscar Wilde The Importance of Being Earnest i Amharclann St. James's i Londain
+1981 - Fuair 48 duine bás i dtine ag club oíche Stardust i mBaile Átha Cliath
+1993 - Fuarthas corp James Bulger dhá bhliain d'aois ar ráille traenach i Learpholl
+Feabhra, 14
+Is é Márta nó Mí Mhárta an tríú mí den bhliain, agus lá is tríocha ann. Tagann an t-ainm ó Martius, mí Rómhánach.
+In Éireann, is minic a bhíonn Márta gaofar.  Mar sin, deirtear, ""Má thagann Márta isteach breá, gabhfaidh sé amach garbh.""
+""Ins an Márta is fearr an síoladóir""
+Is é an 17 Márta an 76ú lá den bhliain de réir fhéilire Ghréagóra nó an 77ú lá i mbliain bhisigh. Tá 289 lá fágtha sa bhliain.
+1473 — Séamas IV Alba (b. 1513)
+1785 — Ellen Hutchins, luibheolaí Éireannach
+1834 — Gottlieb Daimler, fear gnó Gearmánach
+1877 — George Gardner, dornálaí Meiriceánach
+1877 — Mícheál Ó hAnnracháin, réabhlóidí Éireannach (b.1916)
+1881 — Walter Rudolf Hess, Fiseolaí (b 1973)
+1882 — Alfie Byrne, polaiteoir Éireannach
+1889 — Fionán Ó Loingsigh, polaiteoir agus breitheamh Éireannach
+1889 — Harry Clarke, ealaíontóir Éireannach
+1919 — Nat King Cole, amhránaí Meiriceánach (b.1965)
+1932 — Patrick Delap, polaiteoir Éireannach
+1939 — Giovanni Trapattoni, bainisteoir sacair
+1939 — Robin Knox-Johnston, seoltóir Briotanach
+1949 — Patrick Duffy, aisteoir cineálach
+1951 — Kurt Russell, aisteoir Meiriceánach
+1956 — Rory McGrath, fuirseoir
+1965 — Seosamh Ó Cuana, iománaí Éireannach
+1970 — Yanic Truesdale, aisteoir Ceanadach
+1973 — Caroline Corr, drumadóir Éireannach
+1976 — Stephen Gately, Popcheoltóir  Éireannach (b. 2009)
+1977 — Simon Hamilton, polaiteoir Briotanach
+1982 — Sebastian Zbik, dornálaí Gearmánach
+1982 — Steven Pienaar, imreoir sacair as an Afraic Theas
+1986 — Olesya Rulin, ban-aisteoir
+1990 — Hozier, Ceoltóir Éireannach
+1992 — John Boyega,  Aisteoir Sasanach
+461 — Naomh Pádraig, aspal náisiúnta na nGael (r.~5ú hAois)
+1782 — Daniel Bernoulli, matamaiticeoir Eilvéiseach
+1846 — Friedrich Bessel, matamaiticeoir agus réalteolaí Gearmánach (r.1784)
+1916 — Risteard de Hindeberg, sagart agus teangeolaí Éireannach
+1956 — Fred Allen, fuirseoir Meiriceánach
+1956 — Irène Joliot-Curie, eolaí Francach
+1975 — Ernest Benson, polaiteoir
+1993 — Helen Hayes, ban-aisteoir Meiriceánach
+1999 — Rod Hull, fuirseoir Sasanach
+2007 — John Backus, ríomheolaí Meiriceánach
+2012 — Pápa Shenouda III, Pápa Coptach
+2017 — Derek Walcott, file, drámadóir agus ollamh as Saint Lucia
+2019 — Richie Ryan, polaiteoir Éireannach
+1762 - Chuir saighdiúirí as Éirinn ar dualgas le hArm na Breataine paráid in ómós do Naomh Pádraig ar siúl i Nua-Eabhrac don chéad uair.
+1978 - Teiteann na mílte sibhialach ón bPalaistín deisceart na Liobáine de bharr ionsaithe Iosrael.
+1995 - Bhásaigh an coirpeach Ronnie Kray.
+1992 - Vótáil daoine geala san Afraic Theas deireadh a chur leis an apairtéid.
+2003 - Thosaigh cógaslanna san Ísiltír ag díol cannabas.
+Márta, 17
+Is é Amhrán na bhFiann (Béarla: The Soldiers' Song) amhrán náisiúnta na hÉireann. Scríobh Peadar Ó Cearnaigh na liricí, agus chum Patrick Heaney an port.
+Ba i mBéarla a scríobhadh na liricí ar dtús, ach is é an leagan Gaeilge is gnách a chloisteáil inniu. Ní chantar ach an curfá de ghnáth agus is ar éigean go bhfuil an chuid eile den amhrán ar eolas ag duine ar bith.
+Tá blas láidir Ghaeilge na Mumhan ar na líricí, agus is minic nach féidir an fonn a choinneáil ach an t-amhrán a chanadh sa chanúint seo. Mar shampla, nuair a chantar ar ardaibh sléibhe, is gá an -bh- san fhocal sléibhe a bhá go hiomlán, mar a dhéantar leis an -bh-/-mh- i nGaeilge na Mumhan ar lorg an ghuta fhada.
+duan dán
+Óglách: Is athfhoirm fhileata den fhocal Óglach é Óglách. Úsáidtear an fhoirm sin anseo ar dhá chúis: 1) ní mór -á- fada a bheith ann le rím a choinneáil leis an bhfocal táid, agus 2) ní mór an bhéim a chur ar an dara siolla, ar mhaithe leis an meadracht.
+tíocht in áit ""teacht"", leis an rím a choinneáil le sinn
+canaídh: is mar ""canaig"" nó ""canaíg"" a fhuaimnítear é, mar is gnách i gCúige Mumhan
+fé: fuaimniú Muimhneach an réamhfhocail úd faoi
+do ráinig: is minic a chantar a tháinig anseo inniu, nó is iomaí Gaeilgeoir nach dtuigeann an focal ""ráinig"". Briathar uireasach é ""ráinig"" (nó ""do ráinig"" i gCúige Mumhan) a chiallaíonn ""shroich"" nó ""tharla"", agus is ar éigean a úsáidtear in aon fhoirm eile é seachas aimsir chaite. Cuid de sheanchaint na Mumhan is ea an briathar ""ráinig"", agus d'fheicfeá sa litríocht Bhlascaodach é. Uaireanta, caitear leis mar a bheadh ""ráinigh"" ann (ós rud é gurb ionann ""ráinig"" agus ""ráinigh"" san fhuaimniú), agus cruthaítear foirmeacha cosúil le ""ráineoinn"" (a chiallaíonn ""shroichfinn"").
+a théam: ""téimis"" an chiall atá leis an bhfoirm sa chomhthéacs seo, ar ndóigh. An fhoirm a úsáidtear anseo, áfach, is é modh foshuiteach na haimsire láithrí é. Sa mhodh seo, úsáidtear tamhan na haimsire láithrí, ach tagann na hiarmhíreanna ón aimsir fháistineach, ach amháin go bhfágtar -f-, -ó-, nó -eo- na haimsire fáistiní ar lár. An iarmhír sin -am, níl sí beo inniu ach i nGaeilge na Mumhan, cf. ragham (Gaeilge na Mumhan) in áit rachaidh muid nó rachaimid an Chaighdeáin.
+fé lámhach na bpiléar: cuir an bhéim ar an -é- san fhocal piléar.
+buadhach: is minic a fheictear ""buachach"" anseo i gcóipeanna doiléire nó mílitrithe den téacs, ach is léir gur buadhach, leagan seanlitrithe den aidiacht buach atá ann.
+iompáil: leagan Muimhneach den iompú (nó iompó, mar a déarfadh an tUltach). Tháinig ""iompáil"" díreach ón gcanúint a chleacht Peadar Ua Laoghaire ina úrscéal Séadna.
+namhad: caithfidh tú an -mh- a bhá go hiomlán ar lorg an -a- fhada,. mar a dhéantar i gcanúint na Mumhan: i gcoinne ná'd.
+bíobha: namhaid
+agaibh: béim ar an dara siolla, mar a dhéantar i gCúige Mumhan
+Comhad MIDI an amhráin
+Is é Aibreán nó Mí Aibreáin an ceathrú mí den bhliain.
+Is é an Meitheamh nó Mí an Mheithimh an séú mí den bhliain.
+De réir fhéilire na hÉireann, is é Meitheamh mí lár an tsamhraidh. Is iad na míonna is grianmhaire ná Bealtaine agus Meitheamh. Le linn na míonna seo, is é an mheántréimhse ghréine in aghaidh an lae ná idir 5 agus 6.5 uair i bhformhór na tíre.
+Sna tíortha eile, tosaíonn an samhradh ar na gcéad lá de mhí an Mheithimh agus leanann ar aghaidh go dtí deireadh mhí Lúnasa. Agus dar le Met Éireann, is sa samhradh a bhíonn na trí mhí is teo den bhliain. In Éirinn fiú, is iad Meitheamh, Iúil agus Lúnasa na míonna sin (ach tá níos mó báistí i mí Lúnasa go hiondúil).
+Is í Bealtaine nó Mí na Bealtaine an cúigiú mí den bhliain.
+Síltear go mb’fhéidir go gciallaíonn an focal beal ‘solas geal’ agus is ionann an dara cuid den fhocal agus ‘tine’.  Tá baint láidir idir an fhéile seo agus tinte i mbéaloideas na hÉireann.
+Nuair a bhíonn duine a bhfuil Gaeilge aige/aici i bponc faoi rud éigin, is minic a déarfaidh sé/sí “tá mé idir dhá thine Bhealtaine faoi.” Go dtí céad bliain ó shin, bhíodh sé de nós ag daoine in áiteanna áirithe faoin tuath in Éirinn dhá thine mhóra a lasadh ar an lá seo agus na ba a thiomáint idir an dá thine seo lena gcosaint ar aicídí. De réir téacs ón deichiú haois darb ainm Sanas Chormaic, bhí nós ag na draoithe an rud céanna a dhéanamh le linn ré na bPágánach na céadta bliain roimhe sin.
+Tá eolas faoin bhféile ar 1 Bealtaine faoin alt Lá Bealtaine.
+Is í Mí Iúil an seachtú mí den bhliain. Úsáidtear an leagan Béarla d'ainm na míosa go forleathan sna canúintí, agus is minic a thugtar July an Chabáiste ar Mhí Iúil fosta, ó nuair a bhí drochbhliain ann, ní bhíodh le hithe ag na daoine bochta ach cabáiste, sula n-aibíodh na prátaí i Mí Lúnasa.
+Fuair an mhí a hainm ón Impire Rómhánach Iúl Caesar, a thug isteach féilire nua, Féilire Iúil, lena linn. In Éirinn is í seo an tríú mí den samhradh.
+Tá a laethanta náisiúnta ag dhá cheann de na tíortha is cumhachtaí ar domhan i mí Iúil, an 4ú lá ag Stáit Aontaithe Mheiriceá a cheiliúrann Fógra na Saoirse, agus an 14ú lá ag an bhFrainc, Lá an Bastille.
+Cuireadh Cath na Bóinne ar an 12 Iúil 1690, nuair a rug an tÍsiltíreach Liam, a raibh coróin na Breataine bronnta air ag an bParlaimint, bua ar an Rí Séamus II, agus ceiliúrann an tOrd Oráisteach an lá sin gach bliain.
+Is é Lúnasa, mí Lúnasa nó Lughnasadh an, t-ochtú mí den bhliain.  Is é an 1 Lúnasa, Lá Lúnasa (nó Lughnasa) agus an chead lá den fhómhar,  de réir Fhéilire na nGael.
+Ainmníodh mí Lúnasa as Lugh, nó Lú, duine de na déithe ba thábhachtaí a bhí ag na sean-Cheiltigh, ní amháin in Éirinn ach ar fud na hEorpa.
+Thug muintir na Breataine Bige Lleu Llaw Gyffes uirthi. Ainmníodh Léon na Spáinne as Lugh, chomh maith le Lyon na Fraince agus Londain fosta, síltear.
+Dar le Dáithí Ó hÓgáin, ina chiclipéid faoi bhéaloideas na hÉireann, ba as seanfhocal Ceilteach a chiallaigh mion (lugio) a tháinig an t-ainm Lugh.
+Ní nach ionadh mar sin gur thug sé a ainm don mhí is teo san fhéilire in Éirinn, Mí Lúnasa.
+Féile a bhí ann le fáiltiú roimh fhás an arbhair agus roimh thús an fhómhair. Is minic a bhíodh daoine in Éirinn ag déanamh damhsaí agus tinte cnámha le Féile Lúnasa a cheiliúradh. Bhí cuid de na nósanna seo beo go fóill go dtí an fichiú haois.
+Chum Brian Friel, drámadóir clúiteach as Tír Eoghain, dráma darb ainm Dancing at Lughnasa a bhfuil a lán tagairtí ann do na traidisiúin seo.
+Lá Lúnasa (féile an fhómhair)
+Is é Meán Fómhair nó Mí Mheán Fómhair an naoú mí den bhliain.  Is í seo an dara mí den fhómhar nó ""Meán"".
+Meán Fómhair
+Is é Deireadh Fómhair nó Mí Dheireadh Fómhair an deichiú mí den bhliain agus is é ceann de na seacht mí atá 31 lá acu.
+Tá Oíche Shamhna ar an 31 Deireadh Fómhair ann.
+Is í An tSamhain nó Mí na Samhna an t-aonú mí déag den bhliain.
+Is é Lá Samhna an chéad mhí den Geimhreadh in Éirinn.
+Is é 1 Samhain Lá Samhna agus Lá Fhéile na Naomh Uile. Is í an tSamhain ainm d'fhéile Ceilteach freisin.
+Tá eolas faoin bhféile ar 31 Deireadh Fómhair faoin alt Oíche Shamhna.
+Baineann an t-alt seo le Mí na Nollag. Tá eolas faoin bhféile Chríostaíoch le fáil ar an leathanach An Nollaig.
+Is í Nollaig nó Mí na Nollag an dara mí déag den bhliain sa bhFéilire Ghréagóra, le 31 lá inti.
+Tagann an t-ainm ón bhféile Chríostaí an Nollaig a thiteann ar an 25ú lá.
+Ar 25 Nollaig, ceiliúrtar breith Íosa Críost, an Nollaig
+Tarlaíonn Grianstad gach bliain, ar 21 Nollaig nó 22 Nollaig de ghnáth.
+Oíche Nollag
+Is tír in oirthuaisceart na hÁise í an tSeapáin (Nippon/Nihon; 日 (grian); 本 (fréamh ach bunús); 国 (tír), go litriúil bunús na gréine). Tá sí suite idir an tAigéan Ciúin agus Muir na Seapáine.
+Oileánra atá sa tSeapáin. Tá timpeall ar 6,800 oileán ann ar fad, ach is iad Kyūshū (九州), Shikoku (四国), Honshu (本州, an t-oileán is mó), agus Hokkaidō (北海道) na cinn is tábhachtaí. Tá sléibhte arda sa chuid is mó de na hoileáin, agus bolcánachas áirithe ann chomh maith. Is bolcán é Sliabh Fuji freisin, arb é an sliabh is airde sna hoileáin.
+Tá beagnach 128 milliún duine ina gcónaí sa tSeapáin, agus mar sin, tá sí ar an deichiú tír is mó daonra. Is é réigiún Thóiceo an mórcheantar uirbeach is mó ar.
+Tugann fianaise na seandálaíochta le fios go raibh áitreabh daonna sa tSeapáin chomh luath leis an ré Phailéiliteach Uachtarach, is é sin, tríú trian na ré Pailéilití, 40,000-10,000 bliain ó shin.
+Rinneadh an chéad tagairt liteartha don tSeapáin sa chéad aois AD i dtéacsanna stairiúla ón tSín.
+Bhí tréimhsí na hoscailteachta agus tréimhsí na scoilteachta ag teacht sna sála ag a chéile ansin. Le linn Tréimhse Meiji (明治維新, Meiji Ishin), thosaigh an tSeapáin ag trádáil leis an domhan.
+An Dara Cogadh Domhanda
+D'fhógair an tImpire Hirohito gur ghlac an tSeapáin an fógra Potsdam ar an 15 Lúnasa 1945 (an craoladh ""Jewel Voice""). Mar sin, ghéill an tSeapáin agus chuir an craoladh seo críoch leis an gcogaíocht.
+Ar an 2 Meán Fómhair 1945, shínigh an tSeapáin géilleadh gan chomha ar bord na loinge USS Missouri ag cur deireadh leis an Dara Cogadh Domhanda.
+Borradh iarchogaidh
+Ó glacadh le Bunreacht na Bliana 1947, tá córas polaitiúil na tíre bunaithe ar impireacht bhunreachtúil. Is é sin, is é an tImpire atá ag rialú na tíre go hoifigiúil, ach is ag an bParlaimint, an kokkai, atá an fhíorchumhacht. Mar sin, is tír dhaonlathach pharlaiminteach í an tSeapáin go praiticiúil.
+Is í an tSeapáinis teanga oifigiúil na tíre, agus labhraíonn formhór mór na Seapánach leaganacha éagsúla den teanga seo. Thairis sin, áfach, tá na teangacha in Oileáin Ryukyu i nDeisceart na Seapáine chomh difriúil is go bhfuil sé ciallmhar glacadh leo mar theangacha gaolmhara, seachas mar chanúintí. Thairis sin, tá iarsmaí áirithe den teanga Ainu fágtha i dTuaisceart na Seapáine: teanga í sin nach bhfuil gaol ar bith aici leis an tSeapáinis ach oiread le haon teanga eile. Saothraítear í mar chaitheamh aimsire cultúrtha, cosúil leis an dóigh a mbíonn Gaeilgeoirí ag iarraidh Gaeilge a labhairt agus a chur chun cinn i gcathracha móra na hÉireann, ach dealraíonn sé nach bhfuil cainteoirí dúchais ar bith ann inniu.
+Is iad na Seapánaigh an dream eitneach is mó atá ann, cé go bhfuil Cóiréigh agus Sínigh ina gcónaí sa tír chomh maith. Le fírinne, is iad na Burakumin an mionlach is tábhachtaí sa tSeapáin. Ní mionlach eitneach iad, áfach, ach aicme ar leith. I ré fheodach na Seapáine, bhí na Burakumin (部落民) ag plé le ceirdeanna a raibh neamhghlaine dheasghnách nó bás ag baint leo, is é sin, ag búistéireacht, ag súdaireacht, ag adhlacadh daoine marbha nó ag cur daoine daortha chun báis. Chuaigh an neamhghlaine dheasghnách greamaithe sna daoine seo, agus iad ag cur fúthu i ngeiteonna dá gcuid féin ionas go bhféadfadh na Seapánaigh eile iad a sheachaint. Níor tháinig maolú ar an leithcheal seo ach le déanaí, agus inniu féin is iomaí Seapánach nach gceadódh dá mhac nó dá iníon duine de na Burakumin a phósadh.
+Limistéir Riaracháin na Seapáine
+Is iad na 47 Maoracht an céad leibhéal sna limistéar riaracháin sa tSeapáin. Is Méara tofa díreach ag an bpobal é an príomhfheidhmeannach i ngach Maoracht.  Bíonn na dlíthe agus buiséid aontaithe i dtionól aon seomra reachtaigh.
+Tá gach maoracht foroinnte ina gCathracha agus Ceantair. Bhíonn na Ceantair foroinnte i mbailte agus sráidbhailte.
+Tá an sráidbhaile níos mó ná an lonnaíocht féin toisc gur fo-roinn den cheantar faoin tuath (郡 gun) é. De bharr comhnascadh, tá an méid sráidbhailte sa Seapáin ag dul i laghad.
+Tá leagan amach na Limistéir Riaracháin ag dul tríd athbhreithniú le cathracha, bailte agus sráidbhailte á cónascadh le chéile. Tá sé mar sprioc ná an méid limistéar fo-maoracht a ísliú agus costais riaracháin a ísliú dá bharr.
+Tá an tSeapáin roinnte i Réigiún; ní limistéir riaracháin oifigiúil iad ach tá siad in úsáid go traidisiúnta chun an tSeapáin a roinnt. Tá ocht réigiún ann sa tSeapáin.
+Sráidbhailte na Seapáine
+Is bunachar sonraí téarmaíochta an Aontais Eorpaigh (AE) é Eurodicautom. Tá comhéadain ann ar an Idirlíon atá ina bhealaí chuig an tseirbhís saor in aisce seo, agus leis an gcóras seo is féidir leis na húdaráis foclóir an AE a aistriú idir na teangacha oifigiúla.
+Sa bhliain 2007, cuireadh InterActive Terminology for Europe (Gaeilge:Téarmaíocht Idirghníomhach don Eoraip), nó IATE ar bun, in ionad Eurodicautom.
+IATE - Bunachar téarmaí ilteangach an AE (as Gaeilge)
+An tAontas Eorpach
+Is ciclipéid ar líne é an Vicipéid atá scríofa agus á chothabháil ag pobal oibrithe deonacha, ar a dtugtar Vicipéideoirí, trí chomhoibriú oscailte agus trí úsáid a bhaint as córas eagarthóireachta vicí-bhunaithe ar a dtugtar MediaWiki.
+Is í an Vicipéid an saothar tagartha is mó agus is mó léite sa stair, agus i rith an ama bhí sí ar cheann de na 10 suíomhanna gréasáin is mó tóir. Cruthaithe ag Jimmy Wales agus Larry Sanger ar 15 Eanáir, 2001, tá sé á óstáil ag an bhFondúireacht Wikimedia, eagraíocht neamhbhrabúis Mheiriceá.
+Tá sí scríofa ag an bpobal don phobal agus tá duine ar bith in ann í a athrú ach teacht a bheith aige ar an Idirlíon. Is iomaí Vicipéid atá ann agus Vicipéid an Bhéarla, Vicipéid na Fraincise agus Vicipéid na Gaeilge ina measc.
+Scríobhadh an chéad alt sa leagan Gaeilge i mí Eanáir 2004 agus faoi láthair tá  alt ann.
+Comhfhocal a tháinig ón bhfocal Havaíoch wiki (""scioptha"") agus ón bhfocal Béarla encyclopedia is ea Wikipedia, agus tháinig sé ar an bhfód sa bhliain 2000 mar chomhthogra den chiclipéid phroifisiúnta Nupedia. Tá an togra ar fad faoi stiúir an Wikimedia Foundation, eagraíocht a oibríonn gan bhrabach agus atá i dtaobh le síntiúis.
+Leathnaigh clú agus cáil na Vicipéide mar thionscnamh domhanda go sciobtha. Tá roinnt tograí eile (Wikibooks, Vicífhoclóir, srl.) ag siúl leis an Vicipéid agus iad ag dul chun cinn in éineacht leis an Vicipéid féin.
+Moltar go láidir d'eagarthóirí cloí le dearcadh neodrach sa tslí is go ndéantar achoimriú neamhchlaonta de thuairimí éagsúla ar an ábhar.
+Is minic a luaitear an Vicipéid sna meáin agus sa saol acadúil. Mar sin féin, bíonn conspóidí ar siúl faoin Vicipéid mar shaothar tagartha. Tá moladh agus cáineadh faighte aici maidir leis an tslí a ndáiltear agus a n-eagraítear í, leis an méid topaicí atá aici agus lena cuid ilteangachais. Tá sí an-oscailte agus is féidir loitiméireacht a dhéanamh uirthi, gan trácht ar í a dhul i mbaol an mhíchruinnis agus na neamh-chomhsheasmhachta, cé go mbíonn na riarthóirí san airdeall ar a leithéidí.
+Locht mór eile a chuirtear ina leith is ea an easpa ban atá uirthi mar riarthóirí agus mar scríbhneoirí. Fágann sé seo a rian ar an gcaoi a gcaitear le mná mar ábhar eolais. Is beag aird a thugtar orthu, mar shampla, i gcúrsaí eolaíochta agus teicneolaíochta. Tá sé áitithe mura bhfuil beathaisnéis fhónta mná ar an Vicipéid go síltear nach cuid suntais í, rud is cúis le himeallú féinchothaithe.
+Tá an Wikipedia Foundation buartha faoi seo agus tá tréaniarracht á déanamh ar mhná a mhealladh isteach, cé gur beag rath atá ar an obair go dtí seo.
+D'ainneoin na lochtanna úd, tugann solúbthacht agus oscailteacht féin na Vicipéide deis do scríbhneoirí an tionscnamh a fheabhsú mar fhoinse thagartha.
+Alt ag Mary Beth Taylor de chuid www.beo.ie, 2005
+""Wikipedia: tionscadal an-fhiúntach ar fad"", Alt de chuid www.beo.ie, 2005
+Alt de chuid ""Suíomhanna den chéad scoth"" www.beo.ie
+Wikipedia 1.0 (plan and discussion)
+The Free Universal Encyclopedia and Learning Resource by Richard Stallman (RMS)
+FSF endorsement of Wikipedia
+RMS describes Wikipedia as 'exciting news'
+MediaWiki Fersiwn 1.9.3 - SourceForge
+Wikipedia press coverage
+Yahoo News articles that mention Wikipedia  (updated regularly)
+Sarah Lane's vandalism of the monkeypox article
+Wikipedia Article on CNN
+IBM History Flow : Technical experiment on ""visualizing dynamic, evolving documents and the interactions of multiple collaborating authors."" Uses various Wikipedia articles as example data.
+Láithreáin gréasáin
+Láithreáin oiriúnaithe don Ghaeilge
+Scoil lasmuigh de Ghaeltacht na hÉireann nó na hAlban ina n-úsáidtear Gaeilge mar mheán teagaisc í Gaelscoil, agus i bhformhór na gcásanna bíonn páistí den dá inscne ag freastal uirthi.
+Ós rud é gurb í an Ghaeilge an phríomhtheanga, foghlaimíonn na daltaí go mear agus go líofa í agus bíonn siad dátheangach laistigh de chúpla bliain. Anuas air sin, léiríonn suirbhéanna éagsúla go mbíonn caighdeán oideachais níos fearr ag daltaí na scoileanna seo ná mar a bhíonn ag formhór na scoileanna in Éirinn.
+Aithníonn teangeolaithe go bhfuil an dátheangachas ina bhuntáiste do pháistí, agus go gcabhraíonn sé leo a bheith níos fearr ag foghlaim teangacha.  Léiríonn taighde gur fearr an tuiscint ag gasúir dhátheangacha ar thréithe an duine daonna ná gasúir aonteangacha  => Bíonn an tuiscint ar an saol ag gasúir dhátheangacha éagsúil ón tuiscint a bhíonn ag gasúir aonteangacha
+Ba é Pádraig Mac Piarais a chuir tús leis an scolaíocht dhátheangach i gColáiste Éinne lasmuigh den nGaeltacht ag tús an fichiú haois, agus bhí scoileanna lán-Ghaeilge ag feidhmiú ar fud Shaorstát Éireann agus na Poblachta ó shin i leith.
+Bunaíodh eagraíocht nua,  Gaelscoileanna Teo., i 1973 chun scoileanna nua a bhunú agus tacaíocht a thabhairt dóibh. In ainneoin go leor deacrachtaí bunaíodh a lán scoileanna nua ar fud na hÉireann.
+Bhí sé le maíomh sa bhliain 2005 go raibh gaelscolaíocht ar fáil i ngach aon chontae sa tír, nuair a bunaíodh an chéad ghaelscoil i gContae Liatroma, an t-aon chontae a raibh sí in easnamh air go dtí sin.
+Má chuirtear gaelscolaíocht Thuaisceart Éireann san áireamh, tá 171 bunscoil agus 7 aonaid bunscoil agus 31 meánscoil agus 17 aonaid dara leibhéal lán-Ghaelach ag feidhmiú taobh amuigh den Ghaeltacht ag deireadh 2017, le breis is 50,000 dalta. Tá breis is 13,000 dalta ag fáil oideachas trí mheán na Gaeilge ag an mbun agus dara-leibhéil sa Ghaeltacht freisin.
+Bunscoileanna is mó atá ag múineadh trí Ghaeilge ach tá fás ag teacht de réir a chéile ar líon na meánscoileanna sé sin  Gaelcholáistí nó aonaid Ghaeilge mar a thugtar dóibh a n-oibríonn trí mheán na Gaeilge freisin.
+Is í an eagraíocht Gaeloideachas an t-ainm nua ar Ghaelscoileanna Teo. ó 2016 a chuireann an ghaelscolaíocht chun cinn sa Phoblacht. Déanann an eagraíocht An Chomhairle um Oideachas Gaeltachta & Gaelscolaíochta nó  COGG ionadaíocht agus freastal ar i bPoblacht na hÉireann freisin. Is é An Foras Pátrúnachta an pátrún is mó ar scoileanna lán-Ghaeilge ag an gcéad agus an dara leibhéal i bPoblacht na hÉireann.
+Tuaisceart Éireann
+Bunaíodh an chéad Ghaelscoil i dTuaisceart na hÉireann sna 1970idí faoin ainm Scoil Phobal Feirste i nGaeltacht Sheoige an t-aon Ghaeltacht i dTuaisceart Éireann.  Tá breis is 6,000 dalta i dTuaisceart Éireann ag fáil a gcuid oideachais trí mheán na Gaeilge anois. Déanann Gaeloideachas Teo. agus  Comhairle na Gaelscolaíochta freastal agus ionadaíocht ar
+Gluaiseacht na nGaelscoileanna i dTuaisceart Éireann.
+Gaelscoileanna in Éirinn
+An Foras Pátrúnachta
+An Chomhairle um Oideachas Gaeltachta agus Gaelscolaíochta / COGG
+Comhairle na Gaelscolaíochta Tuaisceart Éireann.
+An Roinn Oideachais agus Scileanna
+Oideachas na luath-óige
+Is í seacláid ná an gnáth-chomhábhar ina lán milseán — an comhábhar is coitianta. Is as síolta an chrainn cócó (Theobroma cacao) a dhéantar í. Cuireann an foclóir síos ar an substaint cócó mar ""seacláid"", agus bia le blas gangaideach láidir (nach bhfuil milis). Tá dhá phairt sa phónaire cócó: is é an cócó an solad sa phónaire cocoa, is é an t-im cócó an tsaill, agus is meascán de na substaintí í an tseaclaid. Bíonn siúcra agus ábhair eile á gcur isteach freisin agus bíonn siad á n-ullmhú ina mbarra seacláide nó ina ndeochanna (seacláid the). Tugann daoine bosca seacláidí mar bhronntanas go minic.
+Saghsanna difriúla seacláide
+Faightear an tseacláid ina lán saghsanna agus cainníochtaí.
+Seacláid dhorcha (gan bhainne)
+Gnáthsheacláid (seacláid agus bainne á meascadh)
+Seacláid bhán (le him cócó agus gan cócó soladach)
+Seacláid leathmhilis (úsáideann daoine an saghas seo sa chócaireacht. Bíonn níos lú siúcra inti)
+Seacláid sú talún (a ullmhaítear san Iodáil)
+Seacláid oráiste (ar nós ""Terry's Chocolate Orange"")
+Tá comhábhair eile ann a chuirtear sa tseacláid ar nós cnónna nó caramal.
+Bia agus deoch
+Is í an chócaireacht an t-athrú a dhéantar ar bhia, de ghnáth tré theas a chur faoi. Is féidir cócaireacht a dhéanamh le tine a ullmhaíodh le hadhmad, le móin, le gual, le gás nó le leictreachas.
+Déantar cócaireacht ar bhia chun é a dhéanamh níos éasca le cogaint agus le próiseáil ag an gcorp, chun é a dhéanamh sábháilte trí fhrídíní a mharú, nó chun feabhas a chur ar bhlas an bhia.
+Tá iliomad bealaí le cócaireacht a dhéanamh. Mar shampla, féadtar róstadh, friochtáil, bácáil, beiriú, friochadh domhain, mallbheiriú nó scalladh a dhéanamh ar an mbia. Déantar ullmhúchán ar bhianna freisin le galú, deatú nó crochadh ar feadh scaithimh, cé gur leasú seachas cócaireacht a thugtar de ghnáth ar an dá mhodh dheireanacha.
+Go ginearálta, déantar cócaireacht i gcónaí ar fheoil, iasc agus uibheacha, le heisceachtaí tábhachtacha, go háirithe iasc i gcócaireacht na Seapáine, agus deatú agus crochadh le hispíní áirithe agus le hiasc.
+Roinnt oidis ar an gcócaireacht Gaelach
+Bricfeasta Gaelach
+Arán donn
+Fear gnó agus polaiteoir Meiriceánach é  (6 Iúil, 1946 a rugadh é), a bhí mar 43ú hUachtarán na Stát Aontaithe. Tháinig sé i gcomharbacht ar Bill Clinton sa bhliain 2001. Toghadh George W. Bush ina uachtarán ar SAM den chéad uair ar 7 Samhain 2000, agus bhí an-chuid conspóide faoi áireamh na vótaí ag an am.
+Bhí a chéad tréimhse feidhmeannais caite aige i 2005, agus toghadh don dara tréimhse é i mí Dheireadh Fómhair, 2004. Tháinig Barack Obama i gcomharbacht air sa bhliain 2009.
+Ba é Bush 46ú Gobharnóir Texas ó 1995 go 2000, agus is ball saoil den Pháirtí Poblachtach é. B'uachtarán a athair roimhe, George H. W. Bush, agus is Gobharnóir deartháir leis, Jeb Bush, i bhFlorida.
+Rugadh i New Haven, Connecticut i 1946 é. Is iad George H. W. Bush agus Barbara Bush a thuismitheoirí. D'fhás sé suas i Midland agus Houston, Texas lena dheartháireacha Jeb, Neil, agus Marvin agus a dheirfiúr Dorothy. Bhí deirfiúr eile aige, Robin, ach fuair sí bás agus í trí bliana d'aois.
+D'fhreastail sé ar an ardscoil Phillips Academy, agus fuair sé a chuid oideachais tríú leibhéal in Ollscoil Yale.
+Bhí Bush ciontaíodh le tiomáint ólta i Maine i 1976 . Phós sé Laura Welch i 1977. Rugadh cúpla d'iníonacha, Barbara agus Jenna, i 1981 díobh. I 1986, agus é 40 bliain d'aois, d'fhág sé an Eaglais Easpagóideach agus chuaigh isteach san Eaglais Mheitidisteach, sainchreideamh a mhná.
+Daoine Meiriceánacha de bhunadh na hEorpa
+Lucht gnó na Stát Aontaithe
+Scríbhneoirí Meiriceánacha
+Is líonra ríomhairí poiblí é an tIdirlíon, a nascann líonraí ríomhaireachta ar fud an domhain ag úsáid córais theileachumarsáide phoiblí.
+Seoltar sonraí mar mheascán de chomharthaí analógacha (seanaimseartha anois) agus comharthaí digiteacha thar an Idirlíon.
+Caithfear seoladh uathúil a bheith ag gach ríomhaire atá ceangailte go díreach leis an Idirlíon. Tugtar an seoladh IP air seo.
+I measc na seirbhísí is mó a úsáidtear ar an Idirlíon, tá:
+VOIP (glór thar IP)
+FTP (an Prótacal Aistrithe Comhad)
+I measc na seirbhísí nach bhfuil in úsáid chomh mór sin níos mó, tá:
+I measc na réimsí úsáide atá ag an Idirlíon, tá:
+Cumarsáid – Ríomhphost, seomraí comhrá, glór thar IP (VOIP), grúpaí nuachta, srl.
+Siamsaíocht – Físeáin de gach saghas (pornagrafaíocht ach go háirithe), irisí ar líne, ceol ar líne, cluichí ar líne, srl.
+Eolas – Tá eolas ar chuile ábhar ar líne. Tá sé furasta go leor teacht air le hinnill cuardaigh
+Ríomhthráchtáil – Siopadóireacht ar líne, seirbhísí bainc, ceantanna ar líne, srl.
+Oideachas – Tá an ríomhfhoghlaim ina réimse atá ag fás go mór
+Roghanna ceangal
+Bíonn roinnt roghanna ar fáil le ceangal leis an Idirlíon. Níl gach rogha ar fáil i ngach áit. I measc na roghanna atá ar fáil, tá:
+Leathanbhanda thar an gcóras fóin nó thar xhábla: Líne Dhigiteach Rannpháirtí (DSL)
+Luas ard – 1 Mbps +
+Ceangailte i gcónaí
+Is féidir glaonna a dhéanamh ag an am céanna
+Níl sé ar fáil go forleathan – caithfidh tú a bheith gar don mhalartán
+Praghas ag ísliú de bharr iomaíochta ó sholáthraithe eile leathanbhand
+Satailít/Gan Sreang
+Roinnt soláthraithe ag cur seirbhísí gan sreang ar fáil
+I gceantair áirithe, an t-aon rogha a bheadh níos sciobtha ná nasc dialaithe
+Glacadóir speisialta nó mias satailíte ag teastáil
+Luas íseal – 56 Kbps ar a mhéid
+Bíonn moill ceangail i gceist
+Líne teileafóin gafa leis – ní féidir glaonna a dhéanamh ag an am céanna
+Móideim ag teastáil
+An t-aon rogha atá ar fáil i gceantair áirithe
+Samplaí: do chomhlacht fóin
+Líonra Digiteach de Sheirbhísí Comhtháite (ISDN)
+Líne ISDN (éagsúil ón líne fóin) ag teastáil
+ar fáil go forleathan in Éirinn
+Luas réasúnta –
+64 Kbps (líne shingil)
+128Kbps (líne dhúbailte)
+Níl bhíonn moill ceangail ann
+Sách daor má bhíonn an dá líne in úsáid
+1965 – Tosaíonn ARPA (Advanced Research Projects Agency - an Ghníomhaireacht um Tionscadail Forbartha Taighdear) ar an ARPANET a fhorbairt
+1969 – Déantar an céad 4 óstach a cheangal le ARPANET: Stanford Research Institute, UCLA, UC Santa Barbara agus University of Utah
+1971 – 23 óstach ar ARPANET
+1973 – Ceanglaítear roinnt óstaigh i dtíortha eile
+1974 – Deartar TCP/IP le húsáid ar ARPANET
+1981 – 213 óstach ar ARPANET. Breis líonraí neamhspleácha á cheangal. Cruthaíonn NSF (National Science Foundation) a líonra fairsing fhéin nach raibh ceangailte le ARPANET
+1982 – An téarma ""Internet"" luaite don chéad uair
+1983 – TCP/IP in úsáid go caighdeánach
+1986 – ARPANET agus NFSNET ceangailte
+1987 – Breis agus 10,000 óstach ar an Idirlíon
+1989 – Breis agus 100,000 óstach ar an Idirlíon
+1992 – An WWW scaoilte ag CERN
+1993 – An chéad bhrabhsálaí – Mosaic
+1994 – Bunaíodh Feadhnacht an Ghréasáin Dhomhanda.  A lán óstaigh agus líonraí nua á gceangal leis an tIdirlíon. Is féidir pizza a ordú ó Pizza Hut tríd!!!
+1996 – 10 milliún óstach
+1996 – 1998 – Borradh mór i gcúrsaí tráchtála ar an nGréasán Domhanda
+2000 – Pléascadh an .com
+2007 – Tá éileamh ar cheol (m.sh. iTunes), podchraoladh (m.sh. cláir raidió), VOIP (m.sh. Skype), blagáil (m.sh. IrishBlogs.ie), cláir feasacháin (m.sh. boards.ie),  srl.
+Feadhnacht an Ghréasáin Dhomhanda
+Poblacht bhunreachtúil chónaidhme ina bhfuil caoga stát agus ceantar cónaidhme amháin is ea Stáit Aontaithe Mheiriceá nó SAM, atá suite idir an tAigéan Atlantach agus an tAigéan Ciúin. Is í an ceathrú tír is mó achar agus an tríú tír is mó daonra ar domhan. Tá caoga stát ar fad ann. Is é Alasca an ceann díobh is mó achar, agus California ar an gceann is líonmhaire daonra.
+Tá na Stáit Aontaithe ar an t-aon ollchumhacht amháin ar an domhan inniu, nó is í an tír seo atá chun tosaigh ó thaobh na heacnamaíochta, na n-armálacha agus an chultúir de ar an gcuid eile dár bpláinéad. Aithnítear tionchar na luaineachtaí eacnamaíocha sna Stáit Aontaithe ar gheilleagar na dtíortha eile, breathnaítear ar scannáin agus ar chláir teilifíse de dhéantús na Stát Aontaithe, agus labhraítear Béarla Mheiriceá mar fhrancbhéarla idirnáisiúnta. Tarraingíonn cumhacht dhoshéanta na Stát Aontaithe idir adhradh agus fhuath ar an tír, ach ní féidir dearmad ná droichead a dhéanamh di.
+Tá an chuid is mó de na stáit suite in aon limistéar amháin in Ilchríoch Mheiriceá Thuaidh. Tá dhá stát ann agus iad scartha ón mbloc seo, mar atá, Stát Haváí, ar oileánra é san Aigéan Ciúin, agus Stát Alasca, a bhfuil stiall chaol de thailte Chúige An Cholóim Bhriotanach, Ceanada, idir é agus Stát Washington.
+Stát daonlathach liobrálach is ea na Stáit Aontaithe, agus bhí páirt thar a bheith tábhachtach ag an tír i bhforbairt stairiúil an daonlathais nua-aimseartha. Ós rud é go bhfuil náisiúnachas an stáit bunaithe ar an mbunreacht agus ar an traidisiún daonlathach in áit aon náisiúntacht nó dream eitneach ar leith, fáiltítear lucht inimirce ó gach cearn den domhan, agus dá réir sin, tá na Stáit Aontaithe ar ceann de na tíortha is ilchultúrtha ar fud an domhain. Cé go mbíonn fadhbanna móra ag an tír le ciníochas agus le foréigean, is féidir a rá go raibh córas daonlathach na Stát Aontaithe ábalta an faobhar a bhaint de na fadhbanna seo sa deireadh.
+Meiriceánaigh dhúchasacha agus coilínigh Eorpacha
+Ceaptar gurbh as an Áise a tháinig sinsir bhundúchasaigh Mheiriceá go dtí an tOileán Úr. Thosaigh siad ag lonnadh ann am éigin i ndiaidh 12,000 RC. D'éirigh le roinnt phobal bundúchasach leibhéal an-ard cultúrtha a bhaint amach i gcúrsaí curadóireachta, ailtireachta agus státaireachta, cosúil le cultúr Mississippi a bhí faoi réim sna blianta 1500-800 RC, a bheag nó a mhór.
+I 1492, shroich an taiscéalaí Genovach Criostóir Colambas, a bhí faoi chonradh ag Coróin na Spáinne, roinnt oileán i Muir Chairib. Deirtear gurbh é an chéad Eorpach a tháinig go Meiriceá, cé go ndeirtear freisin gur tháinig Gaeil mar Naomh Breandán agus Lochlannaigh ann roimhe ón Eoraip. (Tá sé cinnte go ndeachaigh na Lochlannaigh chomh fada sin ó dheas le Talamh an Éisc). Sna blianta i ndiaidh theacht Cholambais, pé ar bith scéal é, fuair formhór na ndaoine dúchasacha bás de bharr eipidéimí na ngalar Eoráiseach.
+Ar 2 Aibreán 1513, tháinig an conquistador Spáinneach Juan Ponce de León i dtír ar ""La Florida,"" mar a bhaist sé air. Ba é sin an chéad teacht Eorpach ar mhórthír na Stát Aontaithe a bhfuil tásc air sna cáipéisí. As na coilíneachtaí bunaithe sa réigiún ag an Spáinn, ní mhaireann ach St. Augustine, a bunaíodh sa bhliain 1565, sa lá atá inniu ann. Chruthaigh trádálaithe Francacha na bhfionnaigh urphoist timpeall na Lochanna Móra; sa deireadh d’éiligh an Fhrainc an chuid is mó de Mheiriceá Thuaidh go dtí Murascaill na Meicsiceo sa deisceart. Ba iad Coilíneacht Virgina, a bunaíodh i Jamestown i 1607, agus Coilíneacht Plymouth na n-Oilithreach, a bunaíodh i 1620, ceann de céad áiteanna lonnaithe rathúla na Sasanach. Bhí a lán inimirce de thoradh chairtfhostú na Coilíneachta Bhá Mhassachusetts i 1628. Thairis sin, bhí Sasana Nua lonnaithe le timpeall 10,000 Piúratánach faoin mbliain 1634. Idir deireadh na 1610-idí agus Cogadh Réabhlóideach Mheiriceá, chuir timpeall 50,000 ciontach go dtí na coilíneachtaí a bhí ag Sasana, agus níos moille an Bhreatain Mhór, i Meiriceá. Thosaigh muintir na hOllainne ag bunú áite lonnaithe feadh theorainn theas Abhann Hudson, Amsterdam Nua ar Oileán Manhattan san áireamh. Bunaíodh áit lonnaithe beag le taobh na nAbhann Delaware i 1638, dár n-ainm An tSualainn Nua, ach glacadh an áit sin ar láimh leis na hOllannaigh i 1655.
+I 1674, bhí na Sasanaigh i gceannas ar na sean-choilíneachtaí Ollannacha; mar sin, athraíodh ainm chúige Nua Ísiltír go dtí Nua-Eabhrac agus New Jersey. Tháinig a lán seirbhísigh féichiúnaigh go dtí an tír – go háirithe sa deisceart. Idir 1630 agus 1680 bhí dhá thrian de na hinimircigh ina seirbhísigh féichiúnaigh. Ag críoch na haoise, bhí sclábhaithe Afracacha ag éiriú príomh-fhoinse an saothair banna. Chruthaigh na 13 coilíneacht Bhriotanacha, a n-éireodh Stáit Aontaithe Mheiriceá, le deighilt na Carolinas i 1729 agus coilíniú Georgia i 1732. Bhí rialtais áitiúla ag gach coilíneacht agus chomh maith leis sin bhí ciall an fhéinrialtais acu le tacaíocht do phoblachtachas. Bhí trádáil na sclábhaithe Afracach dleathach sna 13 coilíneacht, leis. Le hardrátaí beireatais, rátaí báis ísle agus inimirce seasta, mhéadaigh daonra na gcoilíneachtaí faoi dhó gach 25 bliain. Faoin mbliain 1770, bhí 3 mhilliún duine ina gcónaí sna coilíneachtaí – timpeall leath dhaonra na Breataine. Cé go ngearrfaí cánacha orthu, ní raibh aon ionadaithe féin acu sa Pharlaimint i Londain—""diabhal cánacha gan ionadaíocht"", mar a dúirt na ceannairceoirí féin.
+Neamhspleáchas agus fairsingiú Mheiriceá
+Príomhalt: Cogadh Réabhlóideach Mheiriceá
+Bhí a lán teannais idir muintir na gcoilíneachtaí agus na Sasanaigh i rith an tréimhse réabhlóidigh (1760-1770). Mar sin, tháinig Comhdháil Mhór-Roinn i bhPhiladelphia ar 14ú Iúil, 1775 agus chruthaigh siad an tArm Ilchríochach as na mílístí áitiúla. Cuireadh na fórsaí faoi cheannas George Washington. Ghlac an Chomhdháil leis an bhFógra Neamhspleáchais ar 4ú Iúil, 1776. Dar leis an bhFógra, “cruthaítear gach fear go cothrom” agus tá “cearta doshéanta áirithe” acu. Bhí an Fógra dréachtaithe le Thomas Jefferson agus ghlaoigh sé “stáit” ceannnasachta ar na coilíneachtaí.
+I 1777, glacadh Airteagail na Cónaidhme a aontaigh na stáit faoi rialtas feidearálach lag. Mhair sé sin go dtí 1788.
+D’éalaigh idir 70,000-80,000 daoine a bhí dílis don Choróin Bhriotanach, a lán acu ag tabhairt aghaidh ar Nova Scotia agus na críocha Briotanacha nua i gCeanada. Maidir leis na Meiriceánaigh dhúchasacha, throid siad ar dhá thaobh an chogaidh.
+Fuair na fórsaí Meiriceánacha cabhair ó na Francaigh agus sa deireadh, bhuaigh siad an cogadh ar 3 Meán Fómhair 1783. I 1783, ghlac An Bhreatan Mhór le neamhspleáchas na 13 coilíneacht.
+Ceithre bliana níos moille, sa bhliain 1787, eagraíodh coinbhinsiún bunreachtúil. Bhí sé ar intinn ag na teachtaí rialtas náisiúnta láidir a chruthú.
+I Mí Meithimh 1788, bhí Bunreacht na Stát Aontaithe daingnithe ag naoi stát. Bhí sé sin a ndóthain chun rialtas nua a chruthú. Mar sin, chuaigh an chéad Seanad, céad Teach na n-Ionadaithe, agus an chéad Uachtarán, George Washington, i mbun dualgas sa bhliain 1789.
+Dearbhaíodh Nua-Eabhrac mar phríomhchathair fheidearálach ar feadh bliain amháin. Ina dhiaidh sin, bhog an rialtas go dtí Philadelphia.
+I 1791, daingníodh Bille na gCeart, is é sin, deich leasú a cuireadh leis an mBunreacht. Thug na leasuithe sin roinnt chosaint dhlíthiúil do na daoine – mar shampla, ní raibh cead ag an rialtas feidearálach srianta a chur ar shaoirse phearsanta na ndaoine. Bhí clásal sa Bhunreacht ag cosaint na sclábhaíochta suas go dtí 1808. Ach bhí dearcaigh faoi sclábhaíocht ag athrú, áfach. Mar sin, dhíothaigh na Stáit Thuaidh an sclábhaíocht idir 1780 agus 1804. Ach fós mhair na stáit sa deisceart mar chosantóirí na “hinstitiúide aisteach” seo. I 1800, bhog an rialtas feidearálach go dtí an chathair nua, Washington, D.C.
+I rith an naoú haois déag, thosaigh na Meiriceánaigh ag bogadh siar agus mar sin bhí a lán cogadh idir iad féin agus na Meiriceánaigh dúchasacha. I 1803, cheannaigh an tUachtarán Thomas Jefferson a lán críocha ó na Francaigh (“An Ceannach Louisiana”) agus de réir sin, dúbhaileadh méid an náisiúin. Chomh maith leis sin, tharscaoil An Spáinn talamh timpeall Florida mar gheall ar ionsaithe ó na fórsaí Meiriceánacha sa cheantar. I 1845, fuair an tír Poblacht na Texas, leis. Sínigh na Stáit Aontaithe Conradh an Oregan leis na Sasanaigh agus de bharr sin, fuair siad smacht thar Iarthuaisceart Mheiriceá. Bhuaigh na Stáit Aontaithe an Cogadh Meicsiceo-Meiriceá freisin agus fuair siad California agus a lán talaimh in Iardheisceart na tíre. Idir 1848-49, cheap a lán daoine go raibh ór i gCalifornia agus bhí níos mó inimirce siar. De dheasca sin, tógadh iarnróid nua. Ach bhí dochar ag baint leis sin mar maraíodh suas go 40 milliúin bison Meiriceánacha dona gcraiceann, bhfeoil agus chun spás a chruthú do na hiarnróid. Bhí sé sin go huafásach do chultúr na nIndiach ar na plánaí mar ba phríomh-seift iad na bison dóibh.
+Cogadh Carthartha agus Réabhlóid Tionsclaíochta
+Príomhalt: Cogadh Cathartha SAM
+Bhí a lán teannais idir na saorstáit agus na stáit sclábhaíochta. Chomh maith leis sin bhí easaontais faoin gcaidreamh idir an rialtas stáit agus an rialtas feidearálach. I 1860, toghadh Abraham Lincoln, iarrthóir don Pháirtí Poblachtach a bhí i gcoinne sclábhaíochta. Sar a ndeachaigh sé i mbun dualgas, d’fhógair seacht stát sclábhaíochta a neamhspleáchas ó na Stáit Aontaithe agus chruthaigh siad Stáit Cónaidhme Mheiriceá. Dhearbhaigh an rialtas feidearálach gur scaradh mídhleathach a bhí ann. Nuair a ionsaíodh Dún Sumter, thosaigh Cogadh Carthartha Mheiriceá agus chuaigh ceithre stát eile i gcomhar leis an gCónaidhm. Saoradh na sclábhaithe cónaidhme agus a bhog fórsaí an Aontais tríd an Deisceart. Tar éis bua an Aontais i 1865, cuireadh trí leasú le Bunreacht na Stát Aontaithe a shaor beagnach ceithre milliúin Meiriceánaigh Afracacha a bhí ina sclábhaithe. Anois, ba shaoránaigh iad na Meiriceánaigh Afracacha agus bhí cead acu vótáil. Mar gheall ar an chogaidh, bhí níos mó cumhachta ag an rialtas feidearálach.
+Ceann de na gníomhartha deireanach den Chogadh Carthartha ná feallmharú an Uachtaráin Lincoln. De thoradh sin, d’éirigh polasaithe na hAtógála, sin polasaithe an Pháirtí Phoblachtaigh níos radacaí. Chríochnaigh Ré na hAtógála leis an gComhréiteach i 1877. Réitigh an Comhréiteach sin an díospóid maidir le toghchán an uachtaráin i 1876. Ach chaill mórán Meiriceánach Afracacha a gceart vótála, áfach, de bharr dlí Jim Crow. I dtuaisceart na tíre tharla a lán inimirce agus de dheasca sin, thosaigh an Réabhlóid Thionsclaíoch. Mhair an plódú inimirce sin go dtí 1929. Sholáthair an lucht oibre sin saothar do ghnóthlachtaí Meirceánacha agus d’athraigh sé an cultúr Meiriceánach. Ceannaíodh Alasca ón Rúis sa bhliain 1876 agus ansin bhí fairsingiú na tíre trasna na mór-roinne críochnaithe. Sa bhliain 1893, bhris grúpa Meiriceánaigh an mhonarcacht dhúchasach in Haváí agus sa bhliain 1898 rinneadh nasc-ghabháil ar an oileánra.
+An Chéad Chogadh Domhanda, an Spealadh Mór, agus an Dara Cogadh Domhanda
+Príomhailt: An Chéad Chogadh Domhanda, An Spealadh Mór, An Dara Cogadh Domhanda
+Ag tús an Chéad Chogaidh Dhomhanda i 1914, bhí na Stáit Aontaithe neodrach. Rinne na Meiriceánaigh comhbhrón leis na Sasanaigh agus leis na Francaigh, ach bhí a lán saoránaigh, go háirithe Éireannaigh agus Gearmánaigh i gcoinne idirghabhála. Ach i 1917, ghlac na Stáit Aontaithe páirt sa chogadh leis na comhghuaillithe. Níor theastaigh ó na Stáit Aontaithe a bheith gafa i gcúrsaí Eorpacha, agus mar sin, níor daingníodh an Seanad an Conradh Versailles. Chruthaigh an Conradh sin Conradh na Náisiún.
+I 1920, bhí bua ag gluaiseacht na mban mar chuir leasú leis an mbunreacht a dheonaigh vótáil chomhchoiteann dhíreach do mhná. As siocair a gcuid seirbhíse sa chogadh, fuair Meiriceánaigh dhúchasacha saoránacht Mheiriceánach de réir Acht Saoránachta na n-Indiach, 1924.
+I rith an chuid is m
+ó de na 1920idí, bhain na Stáit Aontaithe sult as rathúnas míchothrom mar d’ísligh brabúis feirme agus d’fhás brabúis tionsclaíochta. Ba iad ardú i bhfiach agus stocmhargadh boilscitheach príomhchúiseanna na tuairte i 1929. Ba é an tuairt sin a chur tús leis an Spealadh Mór. Toghadh ina hUachtarán Franklin D. Roosevelt i 1932 agus chruthaigh sé an Beart Nua. Iomad polasaí a bhí ann a mhéadaigh idirghabháil an rialtais san eacnamaíocht. Bhí a lán feirmeacha ar míbhail sna 1930idí de réir an Babhla Deannaigh. De dheasca sin, tharla a lán inimirce nua thiar. Ní bhfuair an tír biseach ón spealadh go dtí go ndeachaigh siad isteach sa Dara Cogadh Domhanda. Cé go raibh na Stáit Aontaithe neodrach go héifeachtach i rith céime luath an chogaidh, thosaigh siad ag soláthar ábhair chogaidh do na comhghuaillithe i Mí Mhárta 1941 de réir an chláir Iasacht-Léas.
+Ar an 7 Nollaig 1941,tharraing ionsaí na Seapánach ar Pearl Harbour na Meiriceánaigh isteach i gcogadh an Aigéin Chiúin. Ba é an dara Cogadh Domhanda an cogadh ba chostasaí ar fud stair Mheiriceá; ach fós mhéadaigh eacnamaíocht na Stáit Aontaithe mar cruthaíodh a lán infheistíochtaí agus post. Tionóladh comhdháil chomhghuaillithe i mBretton Woods agus i Yalta agus tugadh mionchuntas ar córais idirnáisiúnta nua a chuir na Stáit Aontaithe agus an tAontas Sóivéadach i lár cúrsaí domhain. I ndiaidh bua san Eoraip, tionóladh comhdháil idirnáisiúnta i San Francisco a sholáthair Cairt na Náisiún Aontaithe. Ba í Meiriceá an chéad tír ar domhain chun airm núicléacha a fhorbairt agus d’úsáid siad na hairm sin ar dhá chathair sa tSeapáin, Hiroshima agus Nagasaki, i Mí Lúnasa. Ghéill an tSeapáin ar an dóú de Mheán Fómhair agus chuir sé sin críoch leis an gcogadh.
+Cogadh Fuar agus Cearta Sibhialta
+Príomhalt: An Cogadh Fuar
+Is é atá i gceist leis an gCogadh Fuar ná coimhlint idé-eolaíoch, gheilleagrach agus pholaitiúil a bhí ar siúl san 20ú haois idir Stáit Aontaithe Mheiriceá is an caipitleachas ar aon taobh amháin, agus an tAontas Sóivéadach is an cumannachas ar an taobh eile. Bhí an dá thír sin, nó ""mórchumhachtaí"" mar a ghlaodh orthu, gafa i gcúrsaí míleata na hEorpa trí mheán ECAT agus Chomhaontú Vársá. Thacaigh an dá mhórchumhacht sin deachtóireachtaí agus ghabh siad le cogaidh ionadaí. Throid trúpaí na Stát Aontaithe i gcoinne fórsaí cumannacha na Síne i gcogadh na Cóiré i rith 1950-53. Ghabh an House Un-American Activities Committee (sin é ""An Coimisiún um Ghníomhaíochtaí Fhrith-Mheiriceánacha"") sraith imscrúduithe ar dhaoine faoi amhras a bheith ina gcumannaigh. D’éirigh Joseph McCarthy ina cheannaire ar an maoithneachas frith-Chumannaí sin.
+Lainseáil an tAontas Sóivéadach an chéad spásárthach le duine ar bord sa bhliain 1961 agus mar sin rinne na Stáit Aontaithe iarracht oilteacht i matamaitice agus eolaíocht a ardú. Theastaigh ón Uachtarán John F. Kennedy duine a chur ar an nGealach roimh aon tír eile agus mar sin, i 1969 bhí Neil Armstrong agus Edwin Aldrin ar an chéad bheirt a bhain an Ghealach amach. Bhí ar Kennedy déileáil leis an éigeandáil núicléach le fórsaí Sóivéadacha chomh maith. Idir an dá linn d’fhás eacnamaíocht Mheiriceá. Ach ag an am céanna, bhí a lán Meiriceánaigh Afracacha suntasacha, mar Martin Luther King, i gceannas ar Ghluaisteacht na gCearta Sibhialta. Chuaigh an ghluaisteacht sin i ngleic le idirdhealú na ndaoine. Sa deireadh, d’éirigh leis an ngluaisteacht na dlíthe Jim Crow a dhíothú. I ndiaidh feallmharú Kennedy i 1963, glacadh Acht na gCearta Sibhialta, 1964 ag Uachtarán Lyndon B. Johnson. Leathnaigh a chomharba, Richard Nixon, na cogaidh in Oirdheisceart na hÁise. Cuireadh dlús le próiseas na síochána ach lean Cogadh Vítneam ar aghaidh go dtí 1975.
+De thoradh scannail Watergate, cuireadh roinnt chúiseamh i leith Nixon, lena n-áirítear bacadh ceartais agus mí-úsáid cumhachta. Mar sin, thiocfadh dó gur cuireadh táinseamh air agus chun é sin a sheachaint, ba é Nixon an chéad Uachtarán Meiriceánach riamh a éirigh as oifig; chuaigh Leasuachtarán Gerald Ford i mbun dualgas. I rith uachtaránacht Jimmy Carter ag deireadh na 1970idí, chuaigh eacnamaíocht Mheiriceá in olcas. Nuair a tóghadh Ronald Reagan i 1980, bhog polaitíocht Mheiriceá go dtí an taobh deas. Bhí sé sin brathmhar in eacnamaíocht na tíre mar athraíodh tosaíochtaí maidir le cánachas agus caitheamh. I rith na 1980idí laghdaigh cumhacht an Aontais Shóivéadaigh. Ag tús na 1990idí, bhain an chuid is mó de na Poblachtaí Sóisialacha a neamhspleáchas amach agus mar sin tháinig an Cogadh Fuar chun crích.
+Ghabh na Stáit Aontaithe agus a gcomhghuaillithe le ról ceannaireachta sna Náisiúin Aontaithe. Cheadaigh George H. W. Bush Cogadh na Murascaille agus Cogaidh na hIúgslaive agus bhí sé soiléir gur mórchumhacht deireadh ar domhain ab ea na Stáit Aontaithe. Mothaíodh an leathnú eacnamaíochta ba mhó i rith stair nua-aois Mheiriceá idir Márta 1991 go Márta 2001. Bhí na huachtaráin George H.W. Bush, Bill Clinton agus George W. Bush in oifig sa tréimhse sin. I 1998, tháinsíodh Clinton ar chúisimh a bhain le cúis dlí sibhialta agus scannal gnéasach, ach shaor an Seanad é agus d’fhan sé in oifig.
+I rith na 1990idí, bhí méadú i sceimhlitheoireacht Ioslamach i gcoinne Meiriceánach – go háirithe ó ghrúpaí mar al-Qaeda. Bhí ionsaí ar an Ionad Trádála Domhanda sa bhliain 1993, ionsaí ar fórsaí Meiriceánacha sa tSomáil, an bhuamáil ar na Túir Khobar i 1996, na buamáilí ar ambasáid Mheiriceá sa Tansáin agus sa Chéinia, na ceilgí chun ionsaí a dhéanamh i 2000, agus an bhuamáil i 2000 ar an USS Cole sa Phoblacht Éimin i Mí Deireadh Fómhair. Fadhb mhór a bhí ag baint le réim Saddam Hussein san Iaráic – go háirithe do chomharsanna na hIaráice agus do na Náisiúin Aontaithe. De thoradh sin, chuir an NA roinnt smachtbhannaí ar an Iaráic agus bhí na Sasanaigh agus na Meiriceánaigh ar patrol i limistéireachtaí ""no-fly"" na hIaráice agus tharla Feachtas ""Desert Fox"". Glacadh Acht Shaoradh na hIaráice, 1998, a bhí ag lorg réim Saddam Hussein a bhriseadh agus córas daonlathach a chur ina ionad.
+Ba é toghchán na huachtaráin i 2000 ceann de na toghcháin ba chonspóidí riamh i Meiriceá ach, sa deireadh, toghadh George W. Bush. Ar 11ú Meán Fómhair 2001, bhuail sciemhlitheoirí al-Qaeda dá thúr an Ionaid Thrádála Dhomhanda i gcathair Nua-Eabhrac agus An Peinteagán in aice Washington, D.C.. Maraíodh timpeall 3000 daoine. Tar éis na hionsaithe, d'fhógair George W. Bush cogadh ar sceimhlitheoireacht agus bhí tacaíocht an Chomhphobail Idirnáisiúnta á lorg aige. Ag deireadh 2001, thosaigh Feachtas ""Enduring Freedom"" agus an aidhm a bhí ag an bhFeachtas ná an rialtas Taliban agus campaí traenála al-Qaeda a bhriseadh ón Afganastáin. Sa lá atá inniu ann tá fórsaí Taliban fós ag troid i gcoinne fórsaí ECAT sa tír úd.
+I 2002, thosaigh Bush ag úsáid teanga ó Acht Saoradh na hIaráice, 1998 agus an Riarachán Clinton chun athrú réime san Iaráic a éileamh. Bhí a lán tacaíocht ag Bush sna Stáit Aontaithe agus chruthaigh sé Coalition of the Willing (sé sin ""Comhcheangal Fonnmhar""). Ba é a bhí i gceist leis an gComhcheangal ná na tíre a bhí ag tabhairt tacaíochta do na Stáit Aontaithe maidir leis an gcogadh san Iaráic, idir na tíre a thug tacaíocht mhileata agus na tíre a thug tacaíocht fhocal. I Mí Márta 2003, d’ordaigh Bush Feachtas Iraqi Freedom agus briseadh Saddam Hussein ón oifig. Cé go raibh brú ar na Stáit Aontaithe an Iaráic a fhágadh tá na Stáit Aontaithe agus a comhcheangal fós san Iaráic. Tá an comhcheangal ag traenáil armtha nua Iaráice sa lá atá inniu ann agus ag cabhrú forbartha eacnamaíochta agus bonneagair na tíre.
+Sa bhliain 2008, i dtoghchán ina raibh John McCain ina hiarrthóir don Pháirtí Poblachtach agus Barack Obama ina hiarrthóir don Pháirtí Daonlathach, bhuaigh Obama. Is é Barack Obama an chéad Meiriceánach Afracach a bheith ina cheannaire don tír.
+Is é achar talún na Stáit Aontaithe teorantach 7.7 milliún ciliméadar cearnach, is iad an tríú tír is mó sa domhain. Tá radharcra na tíre an-éagsúil, idir choillte agus chnoic san oirthear, phortaigh mhangróibh i bhFlorida, agus mhachairí móra i lár na tíre. Is í Nua-Eabhrac an chathair is mó.
+Tá an tír ag críochantacht le Ceanada thuaidh agus le Meicsiceo theas.
+Is iad na Stáit Aontaithe an chónaidhm mharthanach is sine ar domhain. Poblacht bhunreachtúil atá ann agus cosnaítear cearta neamhfhorleathana leis an ndlí. Is é an cóiriú rialtais ná daonlathach ionadaíoch, ach ní féidir le saoránaigh atá ina gcónaí sna críocha vóta a chaitheamh do hoifigigh feidearálacha. Tá an rialtas rialaithe le córas fíorú agus fuílleach atá sainmhíniú le Bunreacht na Stát Aontaithe. Is é an Bunreacht sár-dhoiciméad dlíthiúil na tíre agus feidhmíonn sé mar chonradh sóisialta do dhaoine na Stát Aontaithe. I gcóras feidearálach Mheiriceá, go hiondúil, tá saoránaigh ceangailte le 3 leibhéal rialtais: an rialtas feidearálach, rialtas an stáit, agus an rialtas áitiúil. De ghnáth tá dualgais an rialtais áitiúil roinnte idir rialtais chontae agus bhardasacha. I mbeagnach gach cás, toghtar oifigigh feidhmiúcháin agus oifigigh reachtacha trí vóta tromlach de cheantar. Níl aon ionadaíocht chionmhar ag an leibhéal feidearálach agus tá sé annamh ag leibhéil íochtaracha. Den chuid is mó, tá breithimh stáit agus feidearálacha ainmniú ag an mbrainse feidhmeannach agus ceadaithe ag an reachtas.
+Tá trí bhrainse sa rialtas feidearálach, agus iad sách neamhspleách ar a chéile. Mar sin, coinníonn siad srianta le chéile, agus aon chraobh amháin obair an dá cheann eile a lochtú is a cheartú.
+An Chumhacht Reachtach: An Chomhdháil agus í roinnte ina dá teach, mar atá teach, an Seanad agus Teach na nIonadaithe. Reachtaíonn siad dlíthe feidearálacha na Stát Aontaithe, agus tá sé de chumhacht acu cogadh a fhógairt, conradh a dhaingniú agus Uachtarán a tháinseamh.
+An Chumhacht Fheidhmitheach: an tUachtarán. Is é an tUachtarán a cheapann na hAirí Rialtais, le formhuiniú na Comhdhála. Tá an tUachtarán ina cheannfort ar an armtha chomh maith. Tá ceart ag an Uachtarán chun bille reachtacha a chrosadh sar a éiríonn siad an dlí.
+An Chumhacht Bhreithiúnach: An Chúirt Uachtarach agus na cúirte ar leibhéil is ísle ná í. Tá na breithiúna ceaptha ag an Uachtarán le formhuiniú an Seanaid. D’fhéadfadh na cúirteanna dlíthe a léiriú agus dlíthe a iompú má mheastar gur dlíthe míbhunreachtúla atá ann.
+Tá 435 feisire i dTeach na nIondaithe. Déanann na feisirí sin iondaíocht ar son ceantair chomhdháile ar feadh thréimhse dhá bliana. Roinntear suíocháin an tí idir na caoga stáit de réir daonra gach deich mbliana. Dar leis an ndaonáireamh i 2000, tá ionadaí amháin ag seacht stát. Tá 53 ionadaí ag California, an stát is líonmhaire daonra. Tá beirt seanadóir ag gach stát. Toghtar na seanadóirí ar feadh thréimhse sé bliana. Toghtar trian de na seanadóirí gach dhá bhliain. Bíonn an tUachtarán i seilbh oifige go ceann ceithre bliana agus ní féidir le héinne a bheith ina nUachtarán ach faoi dhó. Ní thoghtar an tUachtarán le vóta lomdíreach, ach le córas indíreach, sin é toghcholáiste. Roinntear na vótaí maidir le stát. Tá 9 comhalta sa Chúirt Uachtarach agus bíonn siad i seilbh oifige go ceann a saol. Is é Príomh-Bhreitheamh na Stát Aontaithe ceannaire na Cúirte Uachtaraí.
+Tá dlí agus nós imeachta an rialtais feidearálaigh agus an rialtais stáit faoi réir athbhreithnithe ag na cúirteanna. Iompaítear aon dlí a rialaítear in aghaidh an dlí ag an mbrainse breithiúnach. Cruthaíonn buntéacs an Bhunreacht freagrachtaí agus struchtúr an rialtais feidearálaigh. Tugann an Bunreacht mionchuntas ar an gcaidreamh idir an rialtas feidearálach agus na stáit aonair, agus cúrsaí bunúsacha mar shampla údarás eacnamaíochta agus míleata. Cosnaíonn Airteagal a hAon an “eascaire mhór”, sin é habeas corpus, agus ráthaíonn Airteagal a Trí an ceart chun triail ghiúiré a fháil i gceann gach cás coiriúil. Is gá le trí ceathrú na stát leasuithe don Bhunreacht a cheadú. Tá 27 leasú sa Bhunreacht; is é Bille na gCeart ná an chéad deich leasú. Déanann Bille na gCeart agus an Ceithre Leasú Deag bonn na gceart sna Stáit Aontaithe.
+Dar leis an ndaonáireamh a rinne Biúró an Daonáirimh i 2008, tá an daonra measta timpeall 304.516.00. Bhí timpeall 11,2 milliún inimirceach mídhleathach ar áireamh sa mheastachán sin. Bhí an ráta fháis 0,89% i gcomparáid le 0,16% - an ráta fhás san Aontas Eorpach. Tá an ráta breithe (14,16 as gach 1.000) 30% faoi mheán an domhain, ach tá sé níos airde ná aon tír Eorpach ach an Albáin agus Éire amháin. I 2006, deonaítear cónaí dlíthiúil ar 1,27 milliún inimirceach mídhleathach. Ar feadh fiche bliana, is é an Meicsiceo an tír a thagann an chuid is mó de na hinimircigh go dtí na Stáit Aontaithe; gach bliain ó 1998 is iad an tSín, an India agus na hOileáin Fhilipíneacha na hardthíortha a sheolann inimircigh. Is é an Meiriceá an tír thionsclaithe aonair ina bhfuil méadú mhór daonra réamhaithriseadh.
+Tá daonra éagsúil ag na Stáit Aontaithe – tá níos mó ná milliún ball i 31 grúpa sinsear. Is iad na daoine geala an grúpa ciníoch is mó sa tír; is iad na Meiriceánaigh Gearmánacha, na Meiriceánaigh Éireannacha, agus na Meiriceánaigh Sasanacha na 3 grúpa sinsear is mó. Is iad na Meiriceánaigh Afracacha an mionlach ciníoch is mó agus an an tríú grúpa sinsear is mó sa tír. Is iad na Meiriceánaigh Áiseacha an dara mionlach ciníoch is mó sa tír agus na Sínigh agus na Filipínigh an dá grúpa sinsear is mó sa mhionlach sin. I 2006, bhí timpeall 4,5 milliún daoine le sinsir Mheiriceánaigh dhúchasacha nó sinsir Alascacha (agus 2,9 milliún daoine den sinsear sin amháin) agus níos mó ná milliún daoine le sinsir ó Haváí nó Oileán Chiúin (0,5 milliún daoine den sinsear sin amháin). Treocht mhór atá sna Stáit Aontaithe sa lá atá inniu ann ná fás an daonra Mheiriceánaigh Laidineacha. Tá amuigh is istigh ar 44 milliún Meiriceánaigh de shliocht Spáinneach, agus tá timpeall 64% le sinsear Mheicsiceacha. Idir 2000 agus 2006, d’fhás daonra Spáinneach na tíre le 25,5% ach níor fhás an daonra Easpáinneach ach 3,5%. Tháinig an chuid is mó den fhás sin ó hinimirce. I 2004, rugadh 12% den daonra Mheiriceánach i dtíortha iasachta, agus níos mó ná leath an uimhire sin ón Meiriceá Laidineach.
+Cónaíonn timpeall le 83% den daonra i gceann de na 363 limistéar cathrach. I 2006, bhí daonra thar 100.000 daoine i 254 áit chorpraithe sna Stáit Aontaithe, agus bhí níos mó ná milliún cónaitheoir i 9 gcathair agus thar 2 mhilliún cónaitheoir i 4 cathair (Nua-Eabhrac, Los Angeles, Chicago, agus Houston). Tá caoga limistéar cathrach sna Stáit Aontaithe le daonra thar milliún daoine.
+Is é an Béarla an teanga náisiúnta de facto. Cé nach bhfuil aon teanga oifigiúil ag an leibhéal feidearálach, cuireann roinnt dlíthe, mar na riachtanais do headóirsiú, caighdeán ar Bhéarla. Sa bhliain 2003, labhair timpeall 215 milliún duine, is é sin 82% den daonra thar 5 bliana d’aois, Béarla amháin sa bhaile. Labhair níos mó ná 10% den daonra Spáinnis sa bhaile. Mar sin, is í Spáinnis an dara teanga sa tír agus is í an teanga iasachta is mó a mhúintear freisin. Molann roinnt Meiriceánach stádas oifigiúil a chur ar an mBéarla, mar a bhfuil sé i 28 stát ar a laghad. Is teangacha oifigiúla iad Haváís agus Béarla in Haváí de réir dlíthe an stáit. Cé nach bhfuil teanga oifigiúil ag Nua-Mheicsiceo nó Louisiana, tá dlíthe ann chun úsáid Bhéarla agus Spáinnise a chur ar fáil do dhaoine i Nua-Mheicsiceo agus úsáid Bhéarla agus Fhraincise a chur ar fáil do dhaoine in Louisiana. I stáit eile, mar shampla California, ní mór doiciméid rialtais áirithe a fhoilsiú as Spáinnis chomh maith. Deonaíonn roinnt críoch aitheantas dá dteangacha dúchasacha in éineacht le Béarla: glactar le Samóis mar theanga oifigiúil eile i Samó Mheiriceá agus Chamorro mar theanga oifigiúil eile in Guam agus sna hOileáin Mariana Thuaidh. Is í Spáinnis an teanga oifigiúil i bPuerto Rico.
+Go hoifigiúil, tír shaolta is ea na Stáit Aontaithe; ráthaíonn Bunreacht na Stát Aontaithe saoirse creidimh. Ní iniúchann an rialtas creideamh na Meiriceánach. Dar le suirbhé príobháideach a stiúradh i 2001, mhaígh 76,5% de Meiriceánaigh gur Chríostaí iad, síos ó 86,4% i 1990. Chleacht 52% de Mheiriceánaigh fásta ceann de na sainchreidimh Protastúnacha, agus bhí 24,5% de dhaoine ag cleachtadh Caitlicigh Rómhánaigh. An tuairisciú iomlán de Neamh-Chríostaí i 2001 ná 3,7%, suas ó 3,3% i 1990. Is iad na príomhchreidimh Neamh-Chríostaí ná Giúdachas (1,4%), Ioslam (0,5%), Búdachas (0,5%), Hiondúchas (0,4%) agus Uilíochas Aonadúil (0,3%). Idir 1990 agus 2001, dhúbháil an méid Moslamach agus Búdasach. Mhínigh 8,2% de dhaoine iad féin mar aindiachaí i 1990 agus d’ardaigh é sin go dtí 14,1% i 2001. Ach tá an méid sin fós níos lú ná i dtíortha iarthionsclaíocha eile mar shampla sa Bhreatan (44% i 2005) agus an tSualainn (69% i 2001, 85% i 2005).
+Tá an t-oideachas poiblí Meiriceánach faoi stiúradh rialtais na stát agus pobail áitiúla, agus rialaíonn Roinn Oideachais na Stát Aontaithe an córas agus an Roinn ag baint úsáid as srianta ar dheontais feidearálacha. I ngach stát nach mór, tá ar pháistí freastal ar scoil ó 6 nó 7 mbliana d’aois (de ghnáth sin é Kindergarten nó Rang a hAon) go dtí 18 mbliana d’aois (go hiondúil ó Rang a Dó-Dhéag go dtí deireadh na meánscoile). Ceadaíonn roinnt stát daltaí an scoil a fhágáil agus iad 16 nó 17 mbliana d’aois. Cláraítear timpeall 12% de pháistí i scoileanna príobháideacha neamhsheicteacha nó i scoileanna paróisteacha. Faigheann thar 2% de pháistí oideachas sa bhaile. Tá a lán institiúidí oideachais ardleibhéil sna Stáit Aontaithe idir cinn  phríobháideacha agus phoiblí, agus tá cuid díobh thar a bheith iomaíoch. Chomh maith leis sin tá coláistí pobail le cáilíochtaí difriúla agus le polasaí oscailte maidir leis an gcead isteach. As Meiriceánaigh 25 bliain d’aois agus níos sine, bhain 84,6% díobh céim amach ó mheánscoil, d’fhreastail 52,6% ar choláiste éigean, fuair 27,2% díobh céim baitsiléara. Tá an bunráta litearthachta amuigh agus istigh ar 99%. Cuireann na Náisiúin Aontaithe innéacs oideachais de 0,97 ar na Stáit Aontaithe agus mar sin, tá sé ar dhá thír san 12ú áit is fearr ar domhan maidir le hoideachas.
+Tá an t-ionchas saoil i Meiriceá (77.8 bliain) níos ísle ná an uimhir iomlán in Iarthar na hEorpa; tá an uimhir trí nó ceithre bliana níos ísle ná san Iorua, san Eilvéis agus i gCeanada. D’ísligh céimíocht na tíre maidir leis an ionchas saoil thar fiche bliain, ón 11ú áit go dtí an 42ra háit sa domhan. Tá an ráta mortlaíochta (6.37 as gach 1,000 daoine) sa 42ra háit as 221 tír, ar chúl gach tíre in Iarthar na hEorpa. Tá na rátaí marthanais maidir le hailse sna Stáit Aontaithe ar na rátaí is airde ar domhan. Tá timpeall is an tríú cuid de dhaonra aosach Mheiriceá murtallach agus tríú cuid breise róthrom; is é sin an ráta is airde sa domhan tionsclaithe agus dhúbháil an ráta sa deireadh 25 bliain. Measann gairmí sláinte gur eipidéim is ea diaibéiteas chineál 2 a bhaineann leis an otracht. Tá an ráta toirchis i measc déagóirí sna Stáit Aontaithe (79,8 as gach 1000) cheithre oiread níos mó ná sa Fhrainc agus a chúig oiread níos mó ná sa Ghearmáin. Is féidir ginmhilleadh dlíthiúil a fháil sna Stáit Aontaithe ach is conspóid mhór pholaitiúil í. Cuireann a lán stát cosc ar chistiúchán poiblí don ghinmhilleadh. Tá roinnt dlíthe ann sna stáit chomh maith a chuireann cosc ar ghinmhilleadh san iarthéarma, ní foláir an ginmhilleadh a chur in iúl do thuismitheoirí maidir le déagóirí, agus uaireanta tá tréimhse feithimh ann sar is féidir an ginmhilleadh a fháil. Cé go bhfuil an ráta ginmhilltí ag laghdú, tá coibhneas ginmhilltí Mheiriceá (241 as gach 1000 breith beo agus 15 as gach 1000 bean idir 15-44) níos airde ná formhór na tíre in Iarthar na hEorpa.
+Caitear níos mó ar an gcóras sláinte sna Stáit Aontaithe ná mar in aon náisiún eile má tomhaistear é i gcaitheamh an duine agus i gcéatadán an OTN. Níl córas sláinte na Stát Aontaithe uilíoch murab ionann agus tíortha forbartha eile. Baineann an córas níos mó feidhm as cistiúcháin phríobháideacha. Sa bhliain 2004, d’íoc árachas príobháideach as 36% den chaiteachas sláinte pearsanta, íocaíochtaí-as-póca príobháideacha ar 15% agus rialtais feidearálacha, stáit agus áitiúla ar 44%. Sa bhliain 2000 chuir an Eagraíocht Dhomhanda Sláinte córas sláinte na Stát Aontaithe sa chéad áit ar domhan maidir le freagrachas, ach sa 37ú áit maidir le feidhmiú ginearálta. Is ceannaire iad na Stáit Aontaithe i nuála sláinte. I 2004, chaith earnáil neamhthionsclaíoch na Stát Aontaithe a trí oiread an duine ná an Eoraip ar thaighde bithleighis. Is iad billí leighis príomhchúis féimheachta pearsanta sna Stáit Aontaithe. I 2005, ní raibh árachas ag 46,6 milliún de Mheiriceánaigh, sin é 15,% den daonra. Is í príomhchúis an meathlú sin ná an laghdú in árachas sláinte atá urraithe ag fostóirí, a thit ó 62,6% i 2001 go 59,5% i 2005. Bhí amuigh agus istigh an tríú cuid de na daoine gan árachas ina gcónaí i líon tí le hioncaim bliantúla níos mó ná $50,000 agus leath na ndaoine sin le hioncam thar $75,000. Bhí tríú cuid eile de dhaoine i dteideal árachais sláinte poiblí ach ní raibh siad cláraithe. I 2006, d’éirigh Massachusetts an chéad stát chun árachas sláinte a shainordú; sa bhliain 2010 cuireadh tús le hiarracht le córas sláinte uilíoch a chur ar bun (Affordable Care Act, nó Obamacare, go comónta). Níor baineadh an cuspóir sin amach go hiomlán agus tá iarracht leanúnach ar siúl ag an pháirtí atá i seilbh an Tí Bháin agus an tSeanaid chun an córas nua seo a chur ar cheal.
+Cúrsaí teaghlaigh
+Tá 58% de mhuintir na tíre os cionn 18 bliana d'aois pósta. Níor phós 25% den daonra riamh.
+I ndiaidh do roinnt stát póstaí comhghnéis a aithin, chuaigh an cás dlí Obergefell v. Hodges go dtí Cúirt Uachtarach na Stát Aontaithe agus thug an chúirt cead dó ar leibhéal náisiúnta (2015). Níl an polaigíneas dlíthiúil cé go mbíonn corr-iarracht ar siúl chun é a chleachtadh, go mór mhór in áiteanna in iarthar na tíre nó i measc imirceach.
+Tá an t-uchtú comónta agus sách éasca a chur i bhfeidhm de réir an dlí i gcomparáid le tíortha eile san Iarthar. Agus 127,000 duine uchtaithe sa bhliain 2001 sna Stáit Aontaithe is féidir a rá go bhfuil leath den méid daoine uchtaithe ar domhan nach mór sa tír úd.
+Tír ilchultúrtha is ea an Meiriceá agus cineál grúpaí eitneacha lena dtradisiúin agus luachanna féin ina gcónaí ann. Níl aon eitneach “Meiriceánach”; lasmuigh de dhaonra beag Meiriceánach dúchasach, tháinig beagnach gach Mericeánaigh nó a sinsir ar inimirce laistigh cúig céad. Is é an cultúr atá ag formhór na Meiriceánach ná príomhchultúr Meiriceánach – cultúr iartharach a thagann ó thraidisiúin imirceach Iarthar na hEorpa. Chuir na lonnaitheoirí Sasanacha agus Ollannacha tús leis an gcultúr sin. Bhí cultúr na Gearmáine, na hÉireann agus na hAlban tábhachtach chomh maith. Ghlac príomhchultúr an Mheiriceá le hairíona áirithe ó sclábhaithe Mandé agus Wolof a tháinig ó Iarthar na hAfraice; d’fhorbair cultúr sainiúil Meiriceánach Afracach a bhí bunaithe ar thraidisiúin na sclábhaí Bantu a tháinig ó Lár-Afraic agus chuaigh sé sin i bhfeidhm ar an bpríomhchultúr chomh maith. Chomhtháthaigh Creole agus Cajun na Louisiana agus Hispanos an iardheiscirt agus an náisiún ag fairsingiú siar. Mar sin tháinig siad i dtadhall le cultúr an Mheicsiceo. Tháinig eilimintí chultúrtha nua leis an inimirce mhór sa 19ú haois agus tús an 20ú haois. D’fhéadfadh corcán leáite aonclineálach a ghlaoch ar an meascán chultúrtha sin nó babhla sailéid ina choinníonn na hinimircigh agus a sinsir a dtréithí cultúrtha sainiúla féin.
+Cé go ndeireann cultúr Meiriceánach gur sochaí gan aicme atá ann sna SA, shainaithin eacnamaithe agus socheolaithe go bhfuil difríochtaí chultúrtha ann idir aicme na tíre agus téann sé sin i bhfeidhm ar teanga, luachanna agus rudaí eile. Is foinse iad an mheánaicme agus an aicme phroifisiúnta do treochtaí sóisialta mar fheimineachas, timpeallacht agus ilchultúrachas. Tá féiníomhá, déarcaigh sóisialta agus dóchais chultúrtha na Meiriceánach conasctha go géar lena ngairm. Cé go bhfuil luach mór ag baint le héacht eacnamaíochta, meastar gur airí dimhneach é a bheith i do ghnáthdhuine. Cé go bhfuil léargas ann go bhfuil soghluaisteacht sóisialta ard ag Meiriceánaigh, ceapann roinnt anailísí go bhfuil soghluaisteacht sóisialta níos lú sna SA ná in Iarthar na hEorpa agus i gCeanada.
+Na Meáin Chumarsáide
+I 1878, d’úsáid Eadweard Muybridge ceamaraí iolracha chun gluaiseacht a tharraingt agus mar sin thaispeáin sé cumhacht na grianghrafadóireachta. I 1894, taispeánadh céad taispeántas scannáin tráchtála an domhain i Nua-Eabhrac ag baint úsáid as Kinetoscope Thomas Edison. Na blianta a leanas, bhí na Stáit Aontaithe ar thús cadhnaíochta an fhorais scannáin fuaime. Ó thús an fhichiú haois, bhí tionscal scannáin na SA suite i agus timpeall ar  Hollywood, California. Bhí baint ag an stiúrthóir D. W. Griffith le forás na gramadaí scannáin.
+Luaitear an scannán Citizen Kane (1941) le Orson Welles go minic i vótáilí criticeoirí mar an scannán is fearr riamh. Tá aisteoirí scannán mar John Wayne agus Marilyn Monroe ina n-íol, agus ba cheannaire é an léiritheoir/fiontraí Walt Disney i gcartúin agus earraí scannán. Rinneadh a lán scannán rathúla tráchtála mar Star Wars (1977) agus Titanic (1997) sna príomhstiúideonna in Hollywood agus mar sin, tá scannáin Hollywood i gceannas ar thionscal scannáin an domhain sa lá atá inniu ann.
+Is iad na Meiriceánaigh na breathnóirí is mó ar domhan agus tá an meánam a chaitheann siad os comhair na teilifíse ag méadú (5 uair an lae i 2006). Is eagrais tráchtála iad na 4 mhórbhealach teilifíse go léir. Éisteann Meiriceánaigh leis an raidió, atá go mór tráchtála chom maith, ar feadh dhá huair go leith. Na suíomhanna idirlín is coitianta, lasmuigh de shuíomh tairsigh agus gléasanna cuardaithe, ná eBay, MySpace, Amazon.com, The New York Times, agus Apple. Coimeádann 12 milliún Meiriceánach blag.
+Chuaigh stíl liriceach agus rithimeach an cheoil Afracaigh-Meiriceánaigh i bhfeidhm ar an gceol Meiriceánach. Glacadh eilimintí ó cheol mar na gormacha nó blues agus ceol seanaimseartha agus d’éirigh sé sin ina seánraí coitianta le lucht éisteachta domhanda. D’fhás snagcheol le ceoltóirí mar Louis Armstrong agus Duke Ellington ag tús an fichiú haois. Tháinig ceol tíre, R&B agus roc is roll chun cinn sna 1920idí agus 1950idí faoi seach. Le linn athbheochana an cheoil tíre, d’éirigh Bob Dylan ceann de na scríbhneoir cheoil is fearr i Meiriceá agus bhí James Brown ina cheannaire ar fhorás an cheoil funk. Ceann de na cruthú Meiriceánaigh nua is ea hip hop agus an ceol tí. D’éirigh popréaltaí Meiriceánacha mar Elvis Presley, Michael Jackson agus Madonna ina gceiliúráin domhanda.
+Litríocht, fealsúnacht agus na healaíona
+I rith an 18ú haois agus i dtús an 19ú haois, ba iad ealaíon agus litríocht na hEorpa a bhí i gcion ar ardchultúr agus mheon Mheiriceá. Ach i lár an 19ú haois tháinig scríbhneoirí mar Nathaniel Hawthorne, Edgar Allan Poe agus Henry David Thoreau ar an saol, agus mar sin bhí stíl liteartha shoiléir Mheiriceánach ann. Príomhphearsana sa litríocht a tháinig ar a sáile ab ea Mark Twain, aorthóir, agus Walt Whitman, file. File suntasach eile ab ea Emily Dickinson, file a bhí beagnach anaithnid i rith a saoil. Tugtar ""Úrscéal Mór Meiriceánach"" go minic ar úrscéal a chuireann síos ar ghné bhunúsach an charachtair agus an fhiontair náisiúnta, mar shampla: Moby-Dick le Herman Melville (1851), The Adventures of Huckleberry Finn le Mark Twain (1885) agus The Great Gatsby le F. Scott Fitzgerald (1925).
+Tá Duais Nobel na Litríochta bronnta ar 11 saoránach Meiriceánach—an buaiteoir is déanaí ná Toni Morrison sa bhliain 1993. Ainmnítear Ernest Hemingway, a bhuaigh Duais Nobel i 1954, go minic mar dhuine de na scríbhneoirí is tábhachtaí sa 20ú haois. Tháinig seánraí liteartha coitianta mar leabhair buachaillí bó agus ficsean coir ar an saol. Chruthaigh scríbhneoirí an Beat Generation seánraí liteartha nua chomh maith le húdair iar-nua-aimseartha mar John Barth, Thomas Pynchon agus Don DeLillo.
+Chruthaigh na transcendentalists a bhí treoraithe le Ralph Waldo Emerson agus Henry David Thoreau, an chéad phríomhghluaiseacht fealsúnachta i Meiriceá. Tar éis an chogaidh charthartha, ba é Charles Pierce, agus ansin ba iad William James agus John Dewey, ceannairí i bhforbairt an phragmatachais. I rith an 20ú haois, chabhraigh obair W.V. Quine agus Richard Rorty le fealsúnacht anailíseach a thabhairt chun tosaigh i gciorcail acadúla na SA.
+Tíortha agus críocha labhartha na Sínise
+Tugtar Bricfeasta Éireannach ar bhricfeasta te ina mbíonn ispíní, ubh, bagún, putóg dubh agus trátaí friochta. Bíonn an béile seo ar fáil go coitianta i dtithe lóistín ar fud na tíre agus sa Bhreatain, áit a dtugtar British Breakfast air, agus is áil le cuid de mhuintir Uladh ""bricfeasta Ultach"" a thabhairt air.
+en:Full breakfast#Ireland
+Is tír í an Fhrainc (Fraincis: La France) nó Poblacht na Fraince (Fraincis: République française) atá suite in iarthar na hEorpa. Tá teorainn aici leis an mBeilg, Lucsamburg, an nGearmáin, an Eilvéis, an Iodáil, Monacó, Andóra agus an Spáinn. Is ball den Aontas Eorpach í an Fhrainc ó bhunú na heagraíochta.
+Tá príomhchuid na tíre suite in iarthar mhór-roinn na hEorpa, agus tá príomhoileán na tíre, Corsica, suite sa Mheánmhuir. Tá críocha agus oileáin Fhrancacha eile suite timpeall an domhain. Is í Guáin na Fraince an chríoch is mó thar lear.
+San iomlán, tá achar 547,026 km² sa ""Fhrainc Dhúthach"" (Eorpach), ar a dtugtar l'Hexagone, an ""Heicseagán"", uaireanta, mar gheall ar a cruth. Tá cóstaí ag an Fhrainc san iarthar, sa tuaisceart agus sa deisceart, tá a tírdhreach múnlaithe den chuid is mó ag mánna nó cnoic. Tá an chuid thoir theas den tír sléibhtiúil; is iad na príomh-shliabhraonta na Piréiní, an Massif Central, na hAlpa agus na Vosges san oirthear. Is é Mont Blanc an sliabh is airde sa Fhrainc agus sna hAlpa (4,810 m).
+Tá aeráid éadrom i dtuaisceart agus in iarthuaisceart na tíre. San oirdheisceart, tá aeráid Mheánmhara ann. San iarthar, tá an aeráid den chuid is mó aigéanach le go leor báisteach, geimhreadh éadrom agus samhradh te.
+Is í an phríomhchathair Páras an chathair is tábhachtaí agus is mó sa bhFrainc le níos mó ná deich milliún áitritheoir i limistéar na cathrach (Réigiún Ile-de-France). Tá níos mó ná milliún áitritheoir sna ceantair uirbeacha timpeall Marseille agus Lyon freisin.
+Ar an 1 Eanáir 2012 b'iad na cathracha ba mhó sa tír dar le suirbhéanna an daonáireamh:
+Príomhalt: Réigiúin na Fraince
+Roinntear an Fhrainc ina hocht réigiúin déag.
+Ó Aimsir na Róimhe go dtí an Réabhlóid
+Tá an Fhrainc suite sa réigiún a nglaoití an Ghaill air tráth — áit a ndeirtear gur tháinig na Ceiltigh aisti. Rinne Iúil Caesar concas ar an nGaill d'Impireacht na Róimhe san 1ú aois RC, agus ar deireadh ghlac na Gallaigh le cultúr agus le teanga na Róimhe. D'fhorbair an teanga de réir a chéile go dtí an pointe go n-aithneofaí mar Fhraincis í. Ón 2ú haois nó ón 3ú haois ar aghaidh, tháinig borradh ar an gCríostaíocht agus sa 4ú nó sa 5ú aois, scríobh Naomh Jerome gurbh í an Ghaill an t-aon réigiún a bhí ""saor ó eiriceacht"". Sna Meánaoiseanna, d'úsáid na Francaigh an ráiteas seo le cruthú gurbh iad ""Ríocht sár-chríostaíocht na Fraince"".
+Sa 4ú haois, tháinig treibheanna Gearmánacha ón oirthear trasna abhann na Réine. Glaodh Francanna orthu. Chruthaigh na Francanna a n-impireacht féin, an Impireacht Chairilínseach, a shroich barr a réime faoin Impire Séarlas Mór. Ar bhás Shéarlais Mhóir, roinneadh an Impireacht ina trí chuid, le Conradh Verdun (843). Ba í an chuid iarthair, faoi riail Shéarlais Mhaoil, a chuir tús leis an bhFrainc mar is ann inniu di.
+Bhí na Cairilínsigh i gcumhacht sa Fhrainc go dtí 987, nuair a corónaíodh Hugh Capet, Diúc na Fraince agus Cunta Pháras. Diaidh ar ndiaidh d'aontaigh a shliocht, na Capetian, na Valois agus na Bourbon, an tír trí chogadh agus pósadh. Ba sa seachtú haois déag, faoi réimeas Louis XIV, ba mhó cumhacht na tíre. Ag an am seo bhí an daonra ba mhó san Eoraip aici agus bhí tionchar mór aici ar pholaitíocht, ar eacnamaíocht, agus ar chultúr na hEorpa. Bhí tionchar mór ag an bhFrainc freisin ar Réabhlóid Mheiriceá, ag íoc as airm agus ag cur sonraí míleata ar fáil do na réabhlóidithe in aghaidh Shasana.
+Ó Mhonarcacht go Poblacht
+Bhí an mhonarcacht seo i gcumhacht go dtí Réabhlóid na Fraince sa bhliain 1789. Cuireadh Rí Louis XVI agus a bhanríon, Marie Antoinette, chun báis chomh maith leis na mílte Francach eile.
+I ndiaidh dornán rialtas réabhlóideach, thóg Napoleon Bonaparte cumhacht ón bpoblacht sa bhliain 1799, ar dtús mar an ""Chéad Consul"" agus níos déanaí mar Impire den Chéad Impireacht Francach (1804–1814). I rith cogaidh éagsúla, bhí cuid mhaith de mhór-roinn na hEorpa tógtha aige, agus chuir sé gaolta i gceannas ar na ríochtanna a ghabh sé (mar shampla Joseph Bonaparte sa Spáinn).
+I ndiaidh briseadh deireanach Napoleon ag Cath Waterloo, cuireadh an mhonarcacht ar bhun arís sa Fhrainc.
+Tugtar 'Athghairm na mBúrbónach' ar an tréimhse 1815-1830 i stair na Fraince. Mar réimeas bhí sí thar a bheith choimeádach.
+Nuair a tharla  Réabhlóid Iúil sa bhliain 1830, baineadh an choróin de Charles X,  agus gaireadh gaol eile i bhfad amach uaidh, Louis Philippe I as Ríshliocht Orléans, i gcomharbas ar  Tháinig Dara Poblacht na Fraince ar an saol sa bhliain 1848;  sa bhliain 1852 d'fhógair Louis-Napoléon Bonaparte Dara Impireacht na Fraince. Chaill airm na Fraince in aghaidh na bPrúiseach sa mbliain 1870 agus cuireadh tús le Tríú Poblacht na Fraince.
+Bhí coilíneachtaí ag an bhFrainc ón 17ú haois go dtí na 1960í. Sa 19ú agus 20ú haois bhí a hImpireacht Domhanda ar an dara ceann ba mhó, i ndiaidh impireacht na Breataine. Idir 1919 agus 1939, bhí an Impireacht os cionn 12,347,000 km² (4,767,000 míkm²). Leis an tír féin san áireamh, sna 1920í agus 1930í, bhí 8.6% de achar an domhain faoi réimeas na Fraince.
+Cé gur bhuaigh siad ar deireadh sa gCéad Chogadh Domhanda, d'fhulaing an tír go mór, go háirithe ó thaobh daoine agus mianraí de.
+Bhunaigh an rialtas, Fronta an Phobail, córas leasaithe shóisialta sna 1930í. Ar an 4 Meitheamh 1936, bhí Léon Blum tofa ina phríomh-aire ar an Fhrainc. Thit an tóin as sa bhliain 1938 agus tháinig Édouard Daladier (ar chlé ón lár) ina háit.
+Sa bhliain 1940, tar éis ionradh na nGearmánach ag baint úsáid as blitzkrieg, ghéill an Fhrainc.
+Bhí daoine sa Fhrainc nár aontaigh leis an ngéilleadh agus thosaigh siad ""Fórsaí Saoirse na Fraince"" lasmuigh den tír, agus Frithbheartaíocht na Fraince istigh sa tír.
+Sa bhliain 1944 tar éis ionradh na gcomhghuaillithe ar ""D-Day"", bhí an Fhrainc saor arís. Go luath ina dhiaidh sin búnaíodh an Nouvelle Armée Française (""Arm Nua na Fraince"") le cabhair na gcomhghuaillithe agus lean siad ag troid go dtí deireadh an Chogaidh.
+Bunaíodh Ceathrú Poblacht na Fraince i ndiaidh an Chogaidh. Faoi mar a bhí ag deireadh an Chéad Chogaidh Dhomhanda bhí sé deacair don tír ar dtús báire, ach tar éis tamaill bhí sí cumhachtach arís. Rinneadh iarracht a hImpireacht Cóilíneach a choimeád ach bhí trioblóid ag tósnú. Rinne an Fhrainc iarracht Vítneam a ath-thógaint ach theip uirthi agus cuireadh tús leis an gCéad Chogadh Ind-Síneach. Chaill na Francaigh an cogadh sin ag Cath Dien Bien Phu sa bhliain 1954. Díreach ina dhiaidh sin, bhris Cogadh Saoirse na hAilgéire amach san Ailgéir.
+Ní raibh na Francaigh cinnte céard le déanamh san Ailgéir. Bhí thart ar mhilliúin coilíneach Eorpach ina gcónaí ann. Bhí sé chomh dona sin gur bheag nach raibh Cogadh Cathartha sa bhFrainc. Sa bhliain 1958, thit an rialtas agus bunaíodh Cúigiú Poblacht na Fraince, le huachtarán láidir., Charles de Gaulle. Bhí sé in ann an tír a choimeád le chéile fad is bhí sé ag iarraidh deireadh a chur leis an gcogadh. Chríochnaigh Cogadh na Saoirse san Ailgéir agus an cogadh cathartha sa príomhchathair Algiers, tar éis idirbheartaithe ar an 19 Márta 1962, an Comhaontú Evian, le neamhspleáchas don Ailgéir.
+Le blianta beaga anuas tá an cairdeas atá ag an tír leis an nGearmáin ag cur go mór le polaitíocht agus eacnamaíocht na hEorpa.
+Is poblacht leath-uachtaránach aonadach í Poblacht na Fraince le traidisiúin daonlathacha láidre. Ceadaíodh bunreacht na Cúigiú Poblachta le reifreann ar 28 Meán Fómhair 1958. Neartaigh sé údarás an fheidhmeannais go mór i gcomórtas leis an bparlaimint. Tá dhá fhoras sa bhrainse feidhmithe: Uachtarán na Poblachta, a thoghtar go díreach chun téarma cúig bliana, agus a fheidhmíonn mar cheann stáit; agus an Rialtas, a bhíonn faoi stiúir ag Príomh-Aire a roghnaíonn an tUachtarán agus an Pharlaimint iad. Is é Emmanuel Macron Uachtarán reatha na Poblachta, agus is í Élisabeth Borne an Príomh-Aire reatha.
+Is reachtas dhá-bhrainse í parlaimint na Fraince ina bhfuil Tionól Náisiúnta (Assemblée Nationale) agus Seanad (Sénat). Déanann na teachtaí ionadaíocht ar son dáilcheantair, teachta amháin i ndáilcheantar amháin, agus roghnaítear go díreach ar feadh téarmaí cúig bliana iad. Tá sé de chumhacht ag an Tionól an rialtas a bhriseadh, agus dá bhrí sin is gá tromlach sa Tionól chun rialtas a chur ar bun. Roghnaítear seanadóirí le coláiste toghcháin ar feadh téarmaí sé bliana, agus cuirtear leath de na suíocháin go toghchán gach trí bliana.
+Tá cumhachtaí reachtaíochta an tSeanaid teoranta le hais an Tionóil; i gcás easaontais idir an dá sheomra, tá an focal deiridh ag an Tionól Náisiúnta. Tá tionchar láidir ag an rialtas i múnlú clár oibre na Parlaiminte.
+Úsáidtear an euro mar airgeadra sa Fhrainc. Dar le tuairisc na bliana 2022 ón gCiste Airgeadúil Idirnáisiúnta, is é geilleagar na Fraince an 10ú ceann is mó ar domhan de réir olltáirgeacht intíre (OTI) paireachta cumhacht cheannaigh (PCC), agus an 7ú ceann de réir OTI ainmniúla. De réir OTI PCC de réir chónaithigh, is é an 25ú geilleagar is mó ar domhan atá ag an bhFrainc, é ar $56,200 don chónaitheach.
+De réir Innéacs Forbartha Daonna, Socraithe don Éagothroime, 2022 na Náisiún Aontaithe (en), innéacs a dhéanann iarracht an caighdeán maireachtála a thomhas i ngach tír de réir gnéithe eacnamaíochta agus neamheacnamaíochta, is í an 24ú tír is forbartha ar domhan í an Fhrainc, as 156 tír a tomhaiseadh. Cuireann sin ar an 13ú tír is forbartha as 27 ballstát an Aontais Eorpaigh í. I dTuarascáil Sonais Domhanda 2018 na Náisiún Aontaithe, meastar gurb í an Fhrainc an 23ú tír is sona, as 156 thír.
+Is í an earnáil seirbhíse (nó an tríú earnáil) an earnáil is mó i ngeilleagair na tíre: sa bhliain 2015, is 76.7% de phostanna a bhí i seirbhísí, i gcomparáid le 20.5% sa dara hearnáil (an tionsclaíocht), agus 2.8% sa chéad earnáil (an talmhaíocht agus an iascaireacht). Tagann thart ar 77 milliún turasóir go dtí an Fhrainc gach bliain.
+I Mí Dheireadh Fómhair 2022, bhí ráta dífhostaithe na tíre ar 7.1%, an cúigiú leibhéal ab airde san Aontas Eorpach in éineacht leis an Laitvia agus an tSualainn.
+Suíomh rialtais oifigiúil
+Fhrainc, An
+In Éirinn inniu, is é an Taoiseach (Taoisigh an uimhir iolra) ceannaire rialtais nó príomh-aire Phoblacht na hÉireann. Sa stair, thugtaí taoiseach ar cheannaire treibhe (mar shampla Geronimo nó Vercingetorix), nó go ginearálta, ar an té a bhí i gceannas.
+Seanteideal Gaelach é taoiseach, a chiallaíonn ""tiarna"" nó ""ceannaire"". I Stair na hÉireann  bhíodh an taoiseach ina ionadaí dá ríocht nuair a bhíodh gnóthaí aige leis na treibheacha eile, chomh maith le bheith i gceannas ar a mhuintir i bpáirc an áir.
+An Taoiseach mar cheannaire rialtais in Éirinn
+Is é an tUachtarán atá freagrach as Taoiseach a cheapadh ar mholadh Dáil Éireann. Caithfidh an Taoiseach, an Tánaiste agus an tAire Airgeadais bheith ina mbaill de Dháil Éireann. Sa Dáil, freagraíonn an Taoiseach ceisteanna  maidir leis an pholaitíocht, le polasaithe nó le hábhair áirithe a bhaineann lena Roinn féin.
+Is é Leo Varadkar, TD, ceannaire pháirtí Fhine Gael, Taoiseach na hÉireann faoi láthair.
+Taoisigh na hÉireann idir 1919 agus an lá inniu
+Tabhair faoi deara gurb i 1937 a cuireadh tús leis an teideal 'Taoiseach' don té a bhí i gceannas ar an rialtas. Ba é an Príomhaire a bhí mar cheann rialtais sa Chéad Dáil. I 1921, déanadh Uachtarán Phoblacht na hÉireann de Eamon de Valera. Bhí Mícheál Ó Coileáin ina Chathaoirleach ar Rialtas Sealadach na hÉireann. De réir Bhunreacht Shaorstát Éireann, an teideal a bhí ar cheann an rialtais ná Uachtarán na hArdchomhairle. Mar sin, níl sé go huile is go hiomlán ceart an teideal 'Taoiseach' a bhronnadh ar gach duine a bhí i gceannas na rialtas éagsúil in Éirinn roimh dhaingniú Bhunreacht na hÉireann i 1937.
+Vercingetorix (Taoiseach ar treibh Ghallach) agus Asterix (carachtar ficseanúil)
+Taoiseach.gov.ie Suíomh oifigiúil
+Is polaiteoir Éireannach é Pádraig Parthalán Ó hEachthairn (Patrick Bartholemew Ahern as Béarla), nó Bertie Ahern mar a thugtar air de ghnáth, a rugadh ar an 12 Meán Fómhair 1951. D'ob é an 10ú agus 11ú Taoiseach (ceann Rialtais na hÉireann) ó 26 Meitheamh 1997 go dtí 6 Bealtaine 2008. Tháinig sé i gcomharbacht ar Sheán de Briotún i 1997. D'fhógair sé go n-éireodh sé as a phost mar Thaoiseach agus mar cheannaire Fhianna Fáil ar 2 Aibreán 2008 de bharr an bhrú a bhí ag teacht air ó Bhinse Fiosraithe Mahon. Tháinig Brian Ó Comhain i gcomharbacht air.
+Níos túisce, chaith sé sealanna ag feidhmiú mar an Aire Airgeadais agus an Aire Saothair.
+Tús a shaoil
+Saolaíodh Bertie Ó hEachthairn i nDroim Conrach i dtuaisceart Bhaile Átha Cliath, agus is san áit seo a chaith sé a shaol ar fad go dtí an lá inniu. Is eisean an duine is óige de chúigear, mac le Con agus Julia Ahern, as Contae Chorcaí don bheirt. Phós a thuismitheoirí i mí Dheireadh Fómhair 1937, agus chuireadar fuathú in Ascaill an Teampaill i nDroim Conrach, áit ina chaithfidís iomlán a saolta.
+Teachta Dála
+Ré mar Thaoiseach
+An Tíogar Ceilteach agus Titim an Tíogair Cheiltigh
+D'éirigh Ahern as sa bhliain 2008 nuair a bhí an tóin ag titim as An Tíogar Ceilteach.
+An Próiséas Síochána
+Scannail Bhinse Fiosrúcháin Mahon
+Thug Bertie Ahern, an Taoiseach ó 1997 go 2008, fianaise “dhochreidte” don Bhinse sa bhliain 2007. Bhí 'rath fáistine' ag Ahern. De bharr an bhrú a bhí ag teacht air ón mbinse fiosraithe, d'fhógair Ahern go n-éireodh sé as a phost mar Thaoiseach agus mar cheannaire Fhianna Fáil ar 2 Aibreán 2008
+Sa bhliain 2012 chuir Binse Fiosrúcháin Mahon ina leith cuir inis Ahern bréaga leis an mbinse i dtaobh a chuir airgid phearsanta.
+D'éirigh Ahern as Fianna Fáil i ngeall air seo, is tar éis gur iarr Mícheál Ó Máirtín ar an bpáirtí Ó hEachthairn a ruaigeadh. Glacadh isteach sa pháirtí arís é i 2022, tráth a rabhthas ag tuairimiú go raibh faoi rith don Uachtaránacht.
+Liam Lawlor
+Ray Burke (aire rialtais)
+Binse Fiosraithe um Ábhair Phleanála agus Íocaíochtaí Áirithe
+Stair thoghchánaíochta Uí Eachthairn
+Ardmhéaraí Bhaile Átha Cliath
+Ceannairí Fhianna Fáil
+Daoine as Baile Átha Cliath
+Is é an 12 Meán Fómhair an 255ú lá den bhliain de réir fhéilire Ghréagóra nó an 256ú lá i mbliain bhisigh. Tá 110 lá fágtha sa bhliain.
+Rinn Verde - Lá Náisiúnta
+1774 — William Neilson, scoláire Preispitéireach i gCúige Uladh go luath san 19ú haois (b. 1821)
+1818 — Richard Jordan Gatling, dearthóir arm tine Meiriceánach (b. 1903)
+1852 — Herbert Henry Asquith, Príomh-Aire na Ríochta Aontaithe (b. 1928)
+1865 — James Cosgrave, polaiteoir Éireannach (b. 1936)
+1888 — Herman Dreer, údar Afra-Mheiriceánach (b. 1981)
+1888 — Maurice Chevalier, aisteoir Francach (b. 1972)
+1897 — Irène Joliot-Curie, eolaí Francach (b. 1956)
+1906 — Fad Browne, polaiteoir Éireannach (b. 1991)
+1907 — Louis MacNeice, file agus scoláire clasaiceach (b.1963)
+1913 — Jesse Owens, lúthchleasaí Meiriceánach (b. 1980)
+1924 — Ella Mae Morse, amhránaí Meiriceánach (b.1999)
+1931 — Ian Holm, aisteoir Briotanach (b. 2020)
+1940 — Des Foley, polaiteoir, iománaí, agus imreoir peil Ghaelach (b. 1995)
+1944 — Barry White, amhránaí agus cumadóir Meiriceánach (b. 2003)
+1948 — Michael Dransfield, file Astrálach (b. 1973)
+1951 — Parthalán Ó hEachthairn, polaiteoir Éireannach, an 10ú Taoiseach
+1957 — Hans Zimmer, cumadóir ceoil
+1958 — Wilfred Benítez, dornálaí Meiriceánach
+1960 — Julian Jackson, dornálaí Meiriceánach
+1968 — Paul F. Tompkins, aisteoir Meiriceánach
+1974 — Nuno Valente, imreoir sacair Portaingéalach
+1976 — Maciej Żurawski, imreoir sacair
+1981 — Jennifer Hudson, ceoltóir, amhránaí agus aisteoir Meiriceánach
+1986 — Emmy Rossum, aisteoir
+1987 — Yaroslava Shvedova, imreoir leadóige Casacach
+1994 — Elina Svitolina, imreoir leadóige Úcránach
+1994 — Mhairi Black, polaiteoir Briotanach
+1680 — Peadar Brahe, uasal Sualannach (r. 1602)
+1819 — Gebhard Leberecht von Blücher, marascal machaire Prúiseach (r. 1742)
+1903 — Maxwell Henry Close, geolaí Éireannach (r. 1822)
+1918 — George Reid, polaiteoir Astrálach agus 4ú Príomh-Aire na hAstráile (r. 1845)
+1937 — Seán French, polaiteoir Éireannach (r. 1890)
+1964 — Sergiusz Piasecki, scríbhneoir (r.~1901)
+1977 — Steve Biko, gníomhaí (r.1946)
+1981 — Eugenio Montale, file (r.1896)
+1989 — Séamus Ó Tuama, sceimhlitheoir Éireannach (r. 1919)
+1994 — Tom Ewell, aisteoir Meiriceánach (r. 1909)
+2003 — Johnny Cash, ceoltóir Meiriceánach (r.1932)
+1975 - Canónaíodh Oilibhéar Pluincéid, an chéad Éireannach go nglaodh Naomh go hoifigiúil air ó 1226
+Meán Fómhair, 12
+4 Eanáir – Ghabh fórsaí de chuid na Síne Seoul sa Chóiré den dara huair.
+1 Feabhra - D'fhógair Comhthionól Ginearálta na Náisiúin Aontaithe gur stát saightheach í Daon-Phoblacht na Síne i gCogadh na Cóiré.
+6 Márta – Cuireadh tús le triail Julius agus Ethel Rosenburg i Nua-Eabhrac, spiaireacht curtha ina leith.
+14 Márta – Chuir fórsaí na Náisiún Aontaithe ruaig ar an airm Shíneach i Seoul in Oibríocht Ripper.
+29 Márta – Ciontaíodh Julius agus Ethel Rosenburg.
+1 Iúil – An chéad cheolchoirm i sraith díobh ag Judy Garland sa Theatre Royal i mBaile Átha Cliath.
+12 Lúnasa - Foilsíodh The Catcher in the Rye le J. D. Salinger i SAM.
+9 Meán Fómhair - Ghlac arm na Síne seilbh ar Lása, príomhchathair na Tibéide.
+31 Nollaig - Tháinig deireadh leis an bPlean Marshall Meiriceánach san Eoraip.
+16 Deireadh Fómhair – Chas Judy Garland amhráin sa chéad cheolchoirm i sraith chlúiteach de 14 cheann sa Palace Theatre i gCathair Nua-Eabhrac.
+6 Eanáir — Noel Coonan, polaiteoir Éireannach de chuid Fine Gael
+7 Eanáir — Helen Worth, ban-aisteoir Sasanach
+12 Eanáir — Kirstie Alley, ban-aisteoir Meiriceánach
+25 Eanáir — M.J. Ó Nualláin, polaiteoir Éireannach
+25 Eanáir — Steve Prefontaine, lúthchleasaí Meiriceánach (b. 1975)
+30 Eanáir — Phil Collins, ceoltóir Sasanach
+1 Feabhra — Alan Shatter, polaiteoir Éireannach de chuid Fine Gael
+1 Feabhra — John McNally, polaiteoir Albanach
+6 Feabhra — Margo, amhránaí Éireannach
+10 Feabhra — Jan Erik Rekdal, file agus criticeoir Ioruach
+20 Feabhra — Gordon Brown, príomh-aire na Ríochta Aontaithe
+23 Feabhra — Eddie Dibbs, imreoir leadóige Meiriceánach
+1 Márta — Deb Fischer, polaiteoir Meiriceánach
+4 Márta — Kenny Dalglish, imreoir sacair agus bainisteoir Albanach
+10 Márta — Maureen O'Sullivan, polaiteoir neamhspleách Éireannach
+12 Márta — Pádraig Ó Cíobháin, scríbhneoir Éireannach
+17 Márta — Kurt Russell, aisteoir Meiriceánach
+18 Márta — Paul Barber, aisteoir Briotanach
+24 Márta — Martin McAleese, polaiteoir Éireannach
+26 Márta — Carl Wieman, fisiceoir Meiriceánach
+29 Márta — Roger Myerson, eacnamaí Meiriceánach
+1 Aibreán — Brendan Grace, fuirseoir, amhránaí, agus aisteoir Éireannach
+15 Aibreán — Seán Ó Caoimh, iománaí agus imreoir peil Ghaelach
+16 Aibreán — William M. McKechnie, breitheamh Éireannach
+20 Aibreán — Günther Berkus, ceoltóir, ealaíontóir agus stiúrthóir scannáin Gearmánach-Éireannach
+20 Aibreán — Luther Vandross, amhránaí agus léiritheoir ceoil Meiriceánach
+24 Aibreán — Éanna Ó Cionnigh
+15 Bealtaine — Frank Wilczek, fisiceoir
+21 Bealtaine — Adrian Hardiman, breitheamh den Chúirt Uachtarach in Éirinn
+23 Bealtaine — Anatoly Karpov, imreoir fichille Rúiseach
+25 Bealtaine — Séamus Ó Maitiú, gearrscéalaí Éireannach
+27 Bealtaine — John Conteh, dornálaí Briotanach
+29 Bealtaine — Mícheál Mac Dubhghaill, polaiteoir agus dlíodóir Éireannach
+4 Meitheamh — Melanie Phillips, iriseoir Briotanach
+6 Meitheamh — Tadhg Ó Dúshláine, file agus scoláire Éireannach
+8 Meitheamh — Bonnie Tyler, amhránaí Breatnach
+13 Meitheamh — Mike Weaver, dornálaí Meiriceánach
+15 Meitheamh — John Redwood, polaiteoir Briotanach
+16 Meitheamh — Roberto Durán, dornálaí Panamach
+19 Meitheamh — Ayman al-Zawahiri, sceimhlitheoir Ioslamach
+20 Meitheamh — Paul Muldoon, file Éireannach
+20 Meitheamh — Tress MacNeille, guthaisteoir Meiriceánach
+27 Meitheamh — Máire Mhic Ghiolla Íosa, Uachtarán na hÉireann (1997-2011)
+27 Meitheamh — Máire Mhic Ghiolla Íosa, 8ú Uachtarán na hÉireann
+28 Meitheamh — Lan Tangi, file Francach
+4 Iúil — Billy Lawless, polaiteoir Éireannach
+5 Iúil — Roger Wicker, polaiteoir Meiriceánach
+6 Iúil — Geoffrey Rush, aisteoir Astrálach
+10 Iúil — Rajnath Singh, polaiteoir Indiach
+21 Iúil — Robin Williams, aisteoir Meiriceánach (b. 2014)
+23 Iúil — Edie McClurg, fuirseoir agus ban-aisteoir Meiriceánach
+26 Iúil — Daniel Everett, teangeolaí Meiriceánach
+28 Iúil — Santiago Calatrava, ailtire, innealtóir agus ealaíontóir Vaileinseach
+31 Iúil — Evonne Goolagong, imreoir leadóige Astrálach
+Lúnasa — Peter Mathews, Teachta Dála (b. 2017)
+8 Lúnasa — Mohamed Morsi, 5ú hUachtarán na hÉigipte
+10 Lúnasa — Ricardo López Murphy, polaiteoir Airgintíneach
+17 Lúnasa — Alan Minter, dornálaí Sasanach
+17 Lúnasa — Sandra White, polaiteoir Albanach
+31 Lúnasa — Angelique Rockas, aisteoir, léiritheoir agus gníomhaí
+1 Meán Fómhair — Geraldine Kennedy, iriseoir agus polaiteoir Éireannach
+5 Meán Fómhair — Michael Keaton, aisteoir Meiriceánach
+8 Meán Fómhair — John McDonnell, polaiteoir Briotanach
+12 Meán Fómhair — Parthalán Ó hEachthairn, polaiteoir Éireannach, an 10ú Taoiseach
+12 Meán Fómhair — Parthalán Ó hEachthairn Iar-Taoiseach na hÉireann
+23 Meán Fómhair — Mian Muhammad Shehbaz Sharif, polaiteoir sa Phacastáin
+25 Meán Fómhair — Mark Hamill, aisteoir Meiriceánach
+30 Meán Fómhair — Barry Marshall, micribhitheolaí Astrálach
+2 Deireadh Fómhair — Sting, ceoltóir agus aisteoir Sasanach
+5 Deireadh Fómhair — Bob Geldof, amhránaí, scríbhneoir amhrán, agus gníomhaí polaitiúil
+7 Deireadh Fómhair — Natsuo Kirino, scríbhneoir Seapánach
+28 Deireadh Fómhair — Peter Hitchens, iriseoir Máltach
+7 Samhain — Lawrence O'Donnell, láithreoir teilifíse Meiriceánach
+21 Samhain — John N. Kennedy, polaiteoir Meiriceánach
+15 Nollaig — Joe Jordan, imreoir sacair agus bainisteoir Albanach
+30 Nollaig — Gabriel de Mhistéal, polaiteoir Éireannach
+10 Eanáir — Sinclair Lewis, scríbhneoir Meiriceánach (r. 1885)
+17 Eanáir — Alexander Haslett, polaiteoir Éireannach
+29 Eanáir — Conor Hogan, polaiteoir Éireannach
+30 Eanáir — Ferdinand Porsche, dearthóir carranna Gearmánach
+19 Feabhra — André Gide, scríbhneoir Francach (r. 1869)
+12 Márta — Joseph Mongan, polaiteoir Éireannach
+22 Márta — Francis Bulfin, polaiteoir Éireannach
+27 Márta — James Geoghegan, polaiteoir Éireannach
+31 Márta — Daniel O'Leary, polaiteoir Éireannach
+10 Aibreán — Nora Barnacle, céile James Joyce
+26 Aibreán — Arnold Sommerfeld, fisiceoir Gearmánach
+29 Aibreán — Ludwig Wittgenstein, fealsúnaí Ostarach (r. 1889)
+7 Bealtaine — Warner Baxter, aisteoir Meiriceánach
+10 Bealtaine — William Dwyer, polaiteoir Éireannach
+16 Bealtaine — Patrick Mulvany, polaiteoir Éireannach
+29 Bealtaine — Fanny Brice, ban-aisteoir Meiriceánach
+9 Meitheamh — Mayo Methot, ban-aisteoir
+10 Meitheamh — Seoirse Gabhán Ó Dubhthaigh, polaiteoir Éireannach (r. 1882)
+13 Meitheamh — Ben Chifley, 16ú príomhaire na hAstráile (r. 1885)
+13 Iúil — Arnold Schoenberg, cumadóir ceoil Ostarach
+23 Iúil — Philippe Pétain, ceannaire Vichy sa Fhrainc sa Dara Cogadh Domhanda (r. 1856)
+11 Meán Fómhair — Thomas Carter, polaiteoir Éireannach
+5 Samhain — Úna Ní Fhaircheallaigh, scoláire Éireannach
+20 Samhain — Thomas Burke, polaiteoir neamhspleách Éireannach
+4 Nollaig — Pedro Salinas, scríbhneoir Spáinneach
+Síocháin - Léon Jouhaux
+Fisic - John Cockcroft, Ernest Walton
+Ceimic - Edwin Mattison McMillan, Glenn Theodore Seaborg
+Leigheas – Max Theiler
+Litríocht – Pär Lagerkvist
+26 Iúil - Alice in Wonderland
+Is é an 6 Iúil an 187ú lá den bhliain de réir fhéilire Ghréagóra nó an 188ú lá i mbliain bhisigh. Tá 178 lá fágtha sa bhliain.
+An Mhaláiv - Lá na Saoirse (1964) agus Lá na Poblachta (1966)
+Oileáin Chomóra - Lá na Saoirse (1975)
+Poblacht na Seice - Lá Jan Hus (1415)
+1796 — Nioclás I na Rúise, (b. 1855)
+1859 — Verner von Heidenstam, scríbhneoir Sualannach
+1896 — Máire Ní Ghuairim, múinteoir, scríbhneoir, agus amhránaí Éireannach
+1907 — Frida Kahlo, péintéir Meicsiceach
+1916 — Hugh Gibbons, polaiteoir agus dochtúir Éireannach
+1921 — Nancy Reagan, Céad-Bhean na Stát Aontaithe (b. 2016)
+1925 — Bill Haley, ceoltóir Meiriceánach
+1925 — Ruth Cracknell, ban-aisteoir Astrálach
+1929 — Hélène Carrère d'Encausse, staraí agus polaiteoir Francach
+1936 — Dave Allen, fuirseoir (b. 2005)
+1937 — Ned Beatty, aisteoir Meiriceánach (b. 2021)
+1940 — Tove Skutnabb-Kangas, teangeolaí Fionlannach
+1946 — George W. Bush, Uachtarán Mheiriceá
+1946 — Sylvester Stallone, aisteoir Meiriceánach
+1951 — Geoffrey Rush, aisteoir
+1959 — Danny Kennedy, polaiteoir i dTuaisceart Éireann
+1961 — Jonas Jonasson, iriseoir agus scríbhneoir Sualannach
+1963 — Paul Girvan, polaiteoir i dTuaisceart Éireann
+1975 — 50 Cent, rapcheoltóir
+1976 — Rory Delap, imreoir sacair
+1977 — Piaras Ó Dochartaigh, polaiteoir Éireannach
+1987 — Kate Nash, ceoltóir Sasanach
+1990 — Jeremy Suarez, aisteoir Meiriceánach
+1993 — Ciarán Mac Giolla Chainnigh, imreoir peil Ghaelach
+1189 — Anraí II Shasana, Rí Shasana (r. 1133)
+1249 — Alasdair II na hAlban (r. 1198)
+1854 — Georg Ohm, eolaí ón Ghearmáin (r. 1789)
+1885 — Jonathan Pim, politician
+1893 — Guy de Maupassant, scríbhneoir Francach
+1902 — Maria Goretti, naomh Iodálach
+1916 — Odilon Redon, péintéir Francach
+1958 — John Esmonde, Bairnéad an 14ú, polaiteoir Éireannach
+1960 — Aneurin Bevan, polaiteoir Breatnach
+1962 — William Faulkner, Scríbhneoir Meiriceánach (r. 1897)
+1970 — Michael Sheridan, polaiteoir Éireannach
+1971 — Louis Armstrong, 69, amhránaí Meiriceánach (r. 1901)
+2003 — Buddy Ebsen, aisteoir agus damhsóir Meiriceánach
+2005 — Claude Simon, Scríbhneoir Francach (r. 1913)
+2020 — Ennio Morricone, Cumadóir Iodálach (r. 1928)
+2022 — James Caan, aisteoir Meiriceánach
+1952 - Cuireadh deireadh le seirbhís na dtramanna i Londain
+1988 - Bhris tine amach ar bhord rige ola an Piper Alpha, an Mhuir Thuaidh. Maraíodh an 167 fear a bhí ar bord
+2005 - D'fhógair Coiste Idirnáisiúnta na gCluichí Oilimpeacha gur i Londain a reáchtáilfear na Cluichí Oilimpeacha sa bhliain 2012
+Iúil, 06
+19 Eanáir - Fosclaíodh Binse Tóiceo inar cúisíodh coirpigh cogaidh Seapánacha.
+29 Eanáir – Cuireadh an Grúpa Lárnach Faisnéise ar bun sna Stáit Aontaithe, ath-ainmnithe mar an CIA an bhliain ina dhiaidh.
+6 Márta - Cuireadh tús le díbirt 2.5 milliún Gearmánach ón Sudetenland sa tSeicslóvaic.
+22 Iúil - Rinne grúpa Síónach buama a phléascadh san Óstán David in Iarúsailéim. Scriosadh cuid de agus fuair 92 duine bás.
+3 Eanáir — John Paul Jones, ceoltóir Sasanach agus ball de Led Zeppelin
+5 Eanáir — Diane Keaton, ban-aisteoir Meiriceánach
+6 Eanáir — Syd Barrett, ceoltóir, giotáraí, agus cumadóir Sasanach
+12 Eanáir — Hazel Cosgrove, Lady Cosgrove, breitheamh Briotanach
+19 Eanáir — Dolly Parton, amhránaí, cumadóir ceoil agus aisteoir Meiriceánach
+19 Eanáir — Julian Barnes, scríbhneoir Sasanach
+2 Feabhra — Blake Clark, fuirseoir Meiriceánach
+13 Feabhra — Richard Blumenthal, polaiteoir Meiriceánach
+20 Feabhra — Brenda Blethyn, ban-aisteoir Briotanach
+21 Feabhra — Alan Rickman, aisteoir Sasanach
+21 Feabhra — Anthony Daniels, aisteoir Sasanach
+26 Feabhra — Ahmed Zewail, eolaí Éigipteach (b. 2016)
+27 Feabhra — Miguel Angel Cuello, dornálaí Airgintíneach
+28 Feabhra — Robin Cook, polaiteoir Briotanach
+6 Márta — David Gilmour, giotáraí Sasanach
+12 Márta — Frank Welker, aisteoir Meiriceánach
+12 Márta — Liza Minnelli, ban-aisteoir agus amhránaí Meiriceánach
+30 Márta — Eoin Hand, peileadóir agus bainisteoir Éireannach
+2 Aibreán — Ruairí Ó Cuinn, polaiteoir Éireannach de chuid Pháirtí an Lucht Oibre
+13 Aibreán — Al Green, amhránaí Meiriceánach
+17 Aibreán — Georges Jean Franz Köhler, imdhíoneolaí Gearmánach
+17 Aibreán — Henry Kelly, DJ Éireannach
+22 Aibreán — Paul Charles William Davies, fisiceoir Briotanach
+25 Aibreán — Talia Shire, ban-aisteoir Meiriceánach
+20 Bealtaine — Cher, amhránaí is scríbhneoir ó Meiricéa
+22 Bealtaine — George Best, peileadóir sacair (b. 2005)
+3 Meitheamh — Eddie Holman, ceoltóir Meiriceánach
+9 Meitheamh — Peter Kilfoyle, polaiteoir Briotanach
+14 Meitheamh — Donald Trump, 45ú Uachtarán ar Stáit Aontaithe Mheiriceá
+18 Meitheamh — Fabio Capello, imreoir sacair agus bainisteoir Iodálach
+2 Iúil — Richard Axel, bitheolaí móilíneach Meiriceánach
+5 Iúil — Gerardus 't Hooft, fisiceoir teoiriciúil Ísiltíreach
+6 Iúil — George W. Bush, uachtarán SAM
+6 Iúil — Sylvester Stallone, aisteoir Meiriceánach
+11 Iúil — Ed Markey, polaiteoir Meiriceánach
+12 Iúil — Robert Fisk, iriseoir Briotanach
+13 Iúil — Cheech Marin, aisteoir Meiriceánach
+15 Iúil — Linda Ronstadt, amhránaí Meiriceánach
+19 Iúil — Ilie Năstase, imreoir leadóige Rómánach
+20 Iúil — Brian Fleming, polaiteoir Éireannach
+22 Iúil — Danny Glover, aisteoir Meiriceánach
+24 Iúil — Gallagher, fuirseoir Meiriceánach
+1 Lúnasa — Frank McLoughlin, polaiteoir Éireannach
+13 Lúnasa — Janet Yellen, eacnamaí Meiriceánach
+19 Lúnasa — Bill Clinton, uachtarán SAM
+5 Meán Fómhair — Freddie Mercury, amhránaí le banna Queen (b. 1991)
+5 Meán Fómhair — Lily Brett, scríbhneoir Astrálach
+15 Meán Fómhair — Tommy Lee Jones, aisteoir agus stiúrthóir scannán Meiriceánach
+18 Meán Fómhair — Gailard Sartain, aisteoir Meiriceánach
+20 Meán Fómhair — Finbarr Dwyer, ceoltóir Éireannach
+4 Deireadh Fómhair — Susan Sarandon, aisteoir Meiriceánach
+19 Deireadh Fómhair — Philip Pullman, údar Sasanach
+20 Deireadh Fómhair — Elfriede Jelinek, scríbhneoir Ostarach
+6 Samhain — Sally Field, ban-aisteoir Meiriceánach
+24 Samhain — Ted Bundy, dúnmharfóir srathach Meiriceánach
+1 Nollaig — Patrick Gallagher, polaiteoir Éireannach
+2 Nollaig — Gianni Versace, dearthóir faisin Iodálach
+8 Nollaig — Dan Neville, polaiteoir Éireannach
+14 Nollaig — Antony Beevor, staraí cogaidh agus iarshaighdiúir Sasanach
+14 Nollaig — Patty Duke, ban-aisteoir Meiriceánach
+14 Nollaig — Stan Smith, imreoir leadóige Meiriceánach
+16 Nollaig — Benny Andersson, ceoltóir Sualannach
+17 Nollaig — Eugene Levy, aisteoir agus fuirseoir Ceanadach
+18 Nollaig — Steven Spielberg, stiúrthóir scannán Meiriceánach
+22 Nollaig — Rodrigo Valdez, dornálaí Colómach
+31 Nollaig — Cliff Richey, imreoir leadóige Meiriceánach
+3 Eanáir — William Joyce (""Lord Haw Haw""), craoltóir Naitsíoch (r. 1906)
+19 Eanáir — Pádraic Ó Máille, polaiteoir Éireannach
+21 Eanáir — James Crowley, polaiteoir Éireannach
+5 Feabhra — George Arliss, aisteoir Sasanach
+23 Márta — Francisco Largo Caballero, cearchumannaí Spáinneach (r. 1869)
+23 Márta — Gilbert Newton Lewis, ceimiceoir fisiceach Meiriceánach
+24 Márta — Alexander Alekhine, imreoir fichille Rúiseach-Francach
+30 Márta — William Magennis, polaiteoir Éireannach
+11 Aibreán — Jack Thompson, dornálaí Meiriceánach
+20 Aibreán — Hanna Sheehy-Skeffington, shufraigéid agus náisiúnaí Éireannaigh
+10 Meitheamh — Jack Johnson, dornálaí Meiriceánach
+14 Meitheamh — John Logie Baird, ceannródaí teilifíse Albanach (r. 1888)
+21 Iúil — Patrick Duffy, polaiteoir Éireannach
+27 Iúil — Gertrude Stein, scríbhneoir Meiriceánach (r. 1874)
+5 Lúnasa — James Victory, polaiteoir Éireannach
+13 Lúnasa — H. G. Wells, scríbhneoir Sasanach (r. 1866)
+16 Meán Fómhair — James Hopwood Jeans, eolaí Sasanach (r. 1877)
+15 Deireadh Fómhair — Hermann Göring, ceannaire míleatach Naitsíoch (r. 1893)
+16 Deireadh Fómhair — Hans Frank, coirpeach cogaidh Gearmánach
+7 Samhain — Willis Linn Jepson, luibheolaí Meiriceánach
+15 Samhain — Gerhart Hauptmann, scríbhneoir Gearmánach (r. 1862)
+30 Samhain — Seán Milroy, polaiteoir Éireannach
+25 Nollaig — W. C. Fields, fuirseoir agus aisteoir Meiriceánach
+Gan dáta – Robin Flower, scoláire Ceilteach Sasanach (r. 1881)
+Síocháin - Emily Greene Balch, John Mott
+Fisic - Percy Williams Bridgman
+Ceimic - James B. Sumner, John Howard Northrop, Wendell Meredith Stanley
+Leigheas - Hermann Joseph Muller
+Litríocht - Hermann Hesse
+12 Samhain - Song of the South
+Ba bliain bhisigh an bhliain 2004.
+Bliain Shíneach (22 Eanáir): Moncaí (猴)
+29 Márta - Chuir Poblacht na hÉireann cosc ar tobac a chaitheamh in láithreacha oibre.
+1 Bealtaine - Leathnú an Aontais Eorpaigh: tháinig an Chipir, an Eastóin, an Laitvia, an Liotuáin, Málta, an Pholainn, an Phoblacht Sheiceach, an tSlóivéin, an tSlóvaic, agus an Ungáir isteach.
+2 Samhain - Bhuaigh George W. Bush an toghchán uachtaránachta i Stáit Aontaithe Mheiriceá.
+26 Nollaig - Crith talún an-mhór in oirdheisceart na hÁise, a rinne a lán dochair sna réigiúin timpeall an Aigéin Indiagh. Cruthaíodh súnámaí an-láidir a bhuail an Téalainn, an India, Srí Lanca, Oileáin Mhaildíve, an Mhalaeisia, Maenmar, an Bhanglaidéis, Burma agus an Indinéis. Deirtear gur cailleadh 186,983 duine, móide níos mó ná 40,000 duine ar iarraidh.
+10 Eanáir — Kaitlyn Maher, ban-aisteoir Meiriceánach
+19 Feabhra — Millie Bobby Brown, ban-aisteoir Briotanach
+8 Márta — Kit Connor, Aisteoir Sasanach
+13 Márta — Coco Gauff, imreoir leadóige ó Mheiriceá
+1 Bealtaine — Charli D'Amelio, damhsóir Meiriceánach
+3 Deireadh Fómhair — Jennifer Gadirova, gleacaí ealaíonta Briotanach
+9 Eanáir — Norberto Bobbio, dlí-eolaí Iodálach
+5 Márta — Tom Leonard, polaiteoir Éireannach
+1 Aibreán — Carrie Snodgress, ban-aisteoir Meiriceánach
+7 Aibreán — Maureen Potter, ban-aisteoir Éireannach
+8 Aibreán — Éinde Ó Callaráin, imreoir peil Ghaelach
+5 Bealtaine — Paul Schuster, scríbhneoir Gearmáinise ón Rómáin
+5 Meitheamh — Ronald W. Reagan, 40ú huachtarán na Stát Aontaithe, ó 1981 go 1989
+5 Meitheamh — Ronald W. Reagan, 93, 40ú uachtarán na Stát Aontaithe (r. 1911)
+10 Meitheamh — Ray Charles, amhránaí agus pianódóir Meiriceánach (r. 1930)
+28 Meitheamh — Francis Crick, fisiceoir, bitheolaí móilíneach agus néareolaí Sasanach (r. 1916)
+1 Iúil — Marlon Brando - aisteoir Meiriceánach (r. 1924)
+18 Iúil — Eoin Mac Tighearnáin, staraí Éireannach
+21 Iúil — Edward Lewis, bitheolaí Meiriceánach
+3 Lúnasa — Henri Cartier-Bresson, 95, grianghrafadóir (r. 1908)
+8 Lúnasa — Fay Wray, ban-aisteoir
+13 Lúnasa — Julia Child, cócaire agus pearsantacht theilifíse (r. 1912)
+14 Lúnasa — Czesław Miłosz, scríbhneoir aistí agus file liriciúil Polannach (r. 1911)
