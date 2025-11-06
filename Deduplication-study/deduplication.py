@@ -1,4 +1,4 @@
-from collections import Counter
+from collections import Counter, defaultdict
 
 def line_similarity(a, b):
     """Return True if lines differ by at most one word"""
@@ -11,29 +11,59 @@ def line_similarity(a, b):
     return mismatches <= 1
 
 def find_near_duplicates(lines):
+    """
+    Fast near-duplicate detection using signatures.
+    Only compare lines that have the same number of words or off by one.
+    """
+    seen_lines = set()
     duplicates = set()
-    n = len(lines)
-    for i, line in enumerate(lines):
-        print(f"{round(i/n*100)}% ({i} of {n} completed)", end="\r")
-        for other in lines[i+1:]:
-            if line_similarity(line, other):
-                duplicates.add(line)
-                duplicates.add(other)
+
+    # Bucket lines by length to reduce unnecessary comparisons
+    length_buckets = defaultdict(list)
+    for line in lines:
+        length_buckets[len(line.split())].append(line)
+
+    # Compare lines only within the same or adjacent length buckets
+    print(f"Checking {len(length_buckets)} groups for near-duplicates...")
+    for length in length_buckets:
+        print(f"\tBucket length {length} with {len(length_buckets[length])} lines")
+        candidates = length_buckets[length] + length_buckets.get(length - 1, []) + length_buckets.get(length + 1, [])
+        for j, line in enumerate(candidates):
+            print(f"\t{round(((j/len(candidates))*100)**0.5)}%", end="\r")
+            if line in seen_lines:
+                continue
+            for other in candidates[j+1:]:
+                if line_similarity(line, other):
+                    duplicates.add(other)  # keep first occurrence, remove later
+            seen_lines.add(line)
+
     return duplicates
 
 def find_duplicates(lines):
-    line_counts = Counter(lines)
-    duplicates = {line for line, count in line_counts.items() if count > 1}
+    """Find exact duplicates, keeping the first copy"""
+    seen = set()
+    duplicates = set()
+    for line in lines:
+        if line in seen:
+            duplicates.add(line)
+        else:
+            seen.add(line)
     return duplicates
 
 def find_duplicate_triplets(lines):
+    """Find repeated triplets, excluding first occurrence"""
     triplets = [tuple(lines[i:i+3]) for i in range(len(lines) - 2)]
     counts = Counter(triplets)
     repeated_triplets = {triplet for triplet, count in counts.items() if count > 1}
-    # Flatten triplets into individual lines to remove
+
     lines_to_remove = set()
+    first_seen = set()
     for triplet in repeated_triplets:
-        lines_to_remove.update(triplet)
+        if triplet not in first_seen:
+            first_seen.add(triplet)
+            for i in range(1, len(lines) - 2):
+                if tuple(lines[i:i+3]) == triplet:
+                    lines_to_remove.update(lines[i:i+3])
     return lines_to_remove
 
 def main():
@@ -47,23 +77,30 @@ def main():
             lines = [line.strip() for line in f if line.strip()]
             lines = lines[:10000]
 
-        # Find duplicates
+        print("Finding exact duplicates...")
         duplicates = find_duplicates(lines)
-        print(f"Total completely duplicate lines in {d}: {len(duplicates)}.")
+        print(f"{d}: {len(duplicates)} exact duplicates")
 
-        # Find duplicate triplets
+        print("Finding duplicate triplets...")
         triplet_lines = find_duplicate_triplets(lines)
-        print(f"Found {len(triplet_lines)} lines in duplicate triplets in {d}.")
+        print(f"{d}: {len(triplet_lines)} lines in duplicate triplets")
 
-        # Find near duplicates
+        print("Finding near duplicates...")
         near_duplicates = find_near_duplicates(lines)
-        print(f"Total near duplicate lines in {d}: {len(near_duplicates)}.\n")
+        print(f"{d}: {len(near_duplicates)} near duplicates\n")
 
         # Combine all lines to remove
         all_to_remove = duplicates.union(triplet_lines).union(near_duplicates)
 
+        # Keep first occurrence of each line
+        cleaned_lines = []
+        seen = set()
+        for line in lines:
+            if line not in all_to_remove or line not in seen:
+                cleaned_lines.append(line)
+                seen.add(line)
+
         # Write cleaned file
-        cleaned_lines = [line for line in lines if line not in all_to_remove]
         with open(output_filename, "w", encoding="utf-8") as f:
             for line in cleaned_lines:
                 f.write(line + "\n")
