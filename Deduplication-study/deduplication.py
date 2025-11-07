@@ -1,4 +1,5 @@
 from collections import Counter, defaultdict
+from datasketch import MinHash, MinHashLSH
 
 def line_similarity(a, b):
     """Return True if lines differ by at most one word"""
@@ -10,32 +11,38 @@ def line_similarity(a, b):
     mismatches += abs(len(words_a) - len(words_b))
     return mismatches <= 1
 
-def find_near_duplicates(lines):
+def find_near_duplicates_minhash(lines, num_perm=128, threshold=0.8):
     """
-    Fast near-duplicate detection using signatures.
-    Only compare lines that have the same number of words or off by one.
+    Fast near-duplicate detection using MinHash + LSH.
+    threshold: approximate Jaccard similarity to consider as near-duplicate
     """
-    seen_lines = set()
-    duplicates = set()
-
-    # Bucket lines by length to reduce unnecessary comparisons
-    length_buckets = defaultdict(list)
+    # Step 1: Create MinHash objects
+    print("Creating MinHash signatures...")
+    minhashes = []
     for line in lines:
-        length_buckets[len(line.split())].append(line)
+        words = set(line.split())
+        m = MinHash(num_perm=num_perm)
+        for word in words:
+            m.update(word.encode('utf8'))
+        minhashes.append(m)
 
-    # Compare lines only within the same or adjacent length buckets
-    print(f"Checking {len(length_buckets)} groups for near-duplicates...")
-    for length in length_buckets:
-        print(f"\tBucket length {length} with {len(length_buckets[length])} lines")
-        candidates = length_buckets[length] + length_buckets.get(length - 1, []) + length_buckets.get(length + 1, [])
-        for j, line in enumerate(candidates):
-            print(f"\t{round(((j/len(candidates))*100)**2)}%", end="\r")
-            if line in seen_lines:
-                continue
-            for other in candidates[j+1:]:
-                if line_similarity(line, other):
-                    duplicates.add(other)  # keep first occurrence, remove later
-            seen_lines.add(line)
+    # Step 2: Build LSH index
+    print("Building LSH index...")
+    lsh = MinHashLSH(threshold=threshold, num_perm=num_perm)
+    for i, m in enumerate(minhashes):
+        lsh.insert(f"line_{i}", m)
+
+    # Step 3: Query for near-duplicates
+    print("Querying for near-duplicates...")
+    duplicates = set()
+    for i, m in enumerate(minhashes):
+        print(i/len(minhashes) * 100, "%", end="\r")
+        result = lsh.query(m)
+        for j_str in result:
+            j = int(j_str.split("_")[1])
+            if i != j:
+                # Only mark the later occurrence as duplicate
+                duplicates.add(lines[j])
 
     return duplicates
 
@@ -51,31 +58,31 @@ def find_duplicates(lines):
     return duplicates
 
 def find_duplicate_triplets(lines):
-    """Find repeated triplets, excluding first occurrence"""
+    """
+    Find repeated triplets, keeping only the first occurrence of each triplet.
+    Returns a set of triplets that occur more than once (like find_duplicates returns duplicates).
+    """
     triplets = [tuple(lines[i:i+3]) for i in range(len(lines) - 2)]
-    counts = Counter(triplets)
-    repeated_triplets = {triplet for triplet, count in counts.items() if count > 1}
+    seen = set()
+    duplicates = set()
 
-    lines_to_remove = set()
-    first_seen = set()
-    for triplet in repeated_triplets:
-        if triplet not in first_seen:
-            first_seen.add(triplet)
-            for i in range(1, len(lines) - 2):
-                if tuple(lines[i:i+3]) == triplet:
-                    lines_to_remove.update(lines[i:i+3])
-    return lines_to_remove
+    for triplet in triplets:
+        if triplet in seen:
+            duplicates.add(triplet)
+        else:
+            seen.add(triplet)
+
+    return duplicates
 
 def main():
     datasets = ["EUbookshop", "Wikipedia", "XLEnt"]
 
     for d in datasets:
         filename = f"Deduplication-study/{d}.txt"
-        output_filename = f"Deduplication-study/{d}_cleaned.txt"
 
         with open(filename, "r", encoding="utf-8") as f:
             lines = [line.strip() for line in f if line.strip()]
-            lines = lines[:50000]
+            lines = lines[:50000]  # keep the limit
 
         print("Finding exact duplicates...")
         duplicates = find_duplicates(lines)
@@ -85,27 +92,51 @@ def main():
         triplet_lines = find_duplicate_triplets(lines)
         print(f"{d}: {len(triplet_lines)} lines in duplicate triplets")
 
-        print("Finding near duplicates...")
-        near_duplicates = find_near_duplicates(lines)
-        print(f"{d}: {len(near_duplicates)} near duplicates\n")
+        print("Finding near-duplicates...")
+        near_duplicates = find_near_duplicates_minhash(lines)
+        print(f"{d}: {len(near_duplicates)} near-duplicates found")
 
-        # Combine all lines to remove
-        all_to_remove = duplicates.union(triplet_lines).union(near_duplicates)
-
-        # Keep first occurrence of each line
-        cleaned_lines = []
+        d_cleaned_lines = []
         seen = set()
         for line in lines:
-            if line not in all_to_remove or line not in seen:
-                cleaned_lines.append(line)
+            if line not in seen:
+                d_cleaned_lines.append(line)  # keep first occurrence
                 seen.add(line)
 
-        # Write cleaned file
-        with open(output_filename, "w", encoding="utf-8") as f:
-            for line in cleaned_lines:
+        cleaned_triplet_lines = []
+        seen_triplets = set()
+        i = 0
+        while i < len(lines):
+            if i <= len(lines) - 3:
+                triplet = tuple(lines[i:i+3])
+                if triplet in triplet_lines:
+                    if triplet not in seen_triplets:
+                        cleaned_triplet_lines.extend(lines[i:i+3]) # keep first occurrence
+                        seen_triplets.add(triplet)
+                    i += 1
+                    continue
+            if lines[i] not in lines[i-2:i]:
+                cleaned_triplet_lines.append(lines[i])
+            i += 1
+
+        near_duplicates_cleaned_lines = []
+        seen_near = set()
+        for line in lines:
+            if line not in near_duplicates:
+                if line not in seen_near:
+                    near_duplicates_cleaned_lines.append(line)  # keep first occurrence
+                    seen_near.add(line)
+
+        with open(f"Deduplication-study/Complete duplicates/{d}.txt", "w", encoding="utf-8") as f:
+            for line in d_cleaned_lines:
                 f.write(line + "\n")
 
-        print(f"Cleaned file written to {output_filename} with {len(cleaned_lines)} lines remaining.\n")
+        with open(f"Deduplication-study/Triplet duplicates/{d}.txt", "w", encoding="utf-8") as f:
+            for line in cleaned_triplet_lines:
+                f.write(line + "\n")
 
+        with open(f"Deduplication-study/Near duplicates/{d}.txt", "w", encoding="utf-8") as f:
+            for line in near_duplicates_cleaned_lines:
+                f.write(line + "\n")
 if __name__ == "__main__":
     main()
