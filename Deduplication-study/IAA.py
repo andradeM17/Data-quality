@@ -3,6 +3,13 @@ import pandas as pd
 import numpy as np
 from itertools import combinations
 from math import comb
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# -------------------------
+# Helper functions
+# -------------------------
 
 def percent_agreement(df):
     n_items, n_annotators = df.shape
@@ -24,7 +31,6 @@ def percent_agreement(df):
 
 
 def fleiss_kappa(table):
-    """Compute Fleiss' kappa from category count table."""
     table = np.array(table, dtype=float)
     n_items, n_categories = table.shape
     n = int(table.sum(axis=1)[0])
@@ -32,12 +38,10 @@ def fleiss_kappa(table):
     P_i = ((table * (table - 1)).sum(axis=1)) / (n * (n - 1))
     P_bar = P_i.mean()
     P_e = (p_j ** 2).sum()
-    kappa = (P_bar - P_e) / (1 - P_e)
-    return kappa
+    return (P_bar - P_e) / (1 - P_e)
 
 
 def krippendorff_alpha(data, values=None, missing=None):
-    """Krippendorff's alpha (nominal)."""
     items = [list(item) for item in data]
     if values is None:
         values = sorted({v for row in items for v in row if v is not missing})
@@ -61,12 +65,7 @@ def krippendorff_alpha(data, values=None, missing=None):
     total_pairs = coincidence.sum()
     if total_pairs == 0:
         return float("nan")
-    Do = 0.0
-    for k in range(K):
-        for l in range(K):
-            if k != l:
-                Do += coincidence[k, l]
-    Do /= total_pairs
+    Do = sum(coincidence[k, l] for k in range(K) for l in range(K) if k != l) / total_pairs
     marg = coincidence.sum(axis=1)
     p = marg / total_pairs
     De = 1 - (p ** 2).sum()
@@ -74,7 +73,6 @@ def krippendorff_alpha(data, values=None, missing=None):
 
 
 def cohens_kappa(a, b):
-    """Pairwise Cohen's kappa."""
     a, b = np.array(a), np.array(b)
     categories = sorted(set(a) | set(b))
     mapping = {cat: i for i, cat in enumerate(categories)}
@@ -93,8 +91,8 @@ def cohens_kappa(a, b):
 # Main execution
 # -------------------------
 
-def main(path):
-    df = pd.read_csv(path)
+def main():
+    df = pd.read_csv("Deduplication-study/annotations.csv")
     df = df.set_index(df.columns[0])
 
     print("\n=== Annotation Matrix ===")
@@ -118,19 +116,30 @@ def main(path):
     alpha = krippendorff_alpha(df.values, values=categories)
     print(f"Krippendorff’s alpha (nominal): {alpha:.4f}")
 
-    # Pairwise Cohen’s kappa
-    pairs = list(combinations(df.columns, 2))
-    kappas = []
-    for a, b in pairs:
-        k = cohens_kappa(df[a], df[b])
-        kappas.append(k)
-    print(f"\nAverage pairwise Cohen’s kappa ({len(pairs)} pairs): {np.nanmean(kappas):.4f}")
+    # Pairwise Cohen’s kappa (matrix + heatmap)
+    annotators = df.columns
+    pairwise_kappas = pd.DataFrame(index=annotators, columns=annotators, dtype=float)
 
-    print("\n=== Done ===")
+    for a, b in combinations(annotators, 2):
+        k = cohens_kappa(df[a], df[b])
+        pairwise_kappas.loc[a, b] = k
+        pairwise_kappas.loc[b, a] = k
+    np.fill_diagonal(pairwise_kappas.values, 1.0)
+
+    print("\n=== Pairwise Cohen’s Kappa ===")
+    print(pairwise_kappas.round(3))
+    print(f"\nAverage pairwise Cohen’s kappa: {np.nanmean(pairwise_kappas.values):.4f}")
+
+    # Plot heatmap
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(pairwise_kappas.astype(float), annot=True, cmap="coolwarm", vmin=0, vmax=1)
+    plt.title("Inter-Annotator Agreement (Cohen’s Kappa)")
+    plt.tight_layout()
+    plt.savefig("Deduplication-study/annotator_kappa_heatmap.png")
+    print("\nSaved heatmap as 'annotator_kappa_heatmap.png'")
+    plt.close()  # close figure to prevent GUI issues in VS Code
+
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python Deduplication-study/Scripts/IAA.py Deduplication-study/annotations.csv")
-    else:
-        main(sys.argv[1])
+    main()
