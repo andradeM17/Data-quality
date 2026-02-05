@@ -74,7 +74,7 @@ indices = np.argsort(coefficients)
 sorted_features = [features[i] for i in indices]
 sorted_coefficients = coefficients[indices]
 
-plt.figure(figsize=(14, 6))
+plt.figure(figsize=(20, 12))
 bars = plt.barh(sorted_features, sorted_coefficients, color=['tomato' if c < 0 else 'skyblue' for c in sorted_coefficients])
 plt.axvline(0, color='black', linewidth=0.8)
 plt.xlabel("Coefficient Value")
@@ -104,7 +104,7 @@ indices = np.argsort(rf_importances)[::-1]
 sorted_features = [features[i] for i in indices]
 sorted_importances = rf_importances[indices]
 
-plt.figure(figsize=(14, 6))
+plt.figure(figsize=(20, 12))
 bars = plt.barh(sorted_features[::-1], sorted_importances[::-1], color='mediumseagreen')
 plt.xlabel("Feature Importance")
 plt.ylabel("Variable")
