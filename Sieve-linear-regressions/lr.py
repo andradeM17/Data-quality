@@ -13,7 +13,7 @@ import numpy as np
 # 1. Create your dataset
 # ----------------------------------------
 
-df = pd.read_csv("Sieve-linear-regressions/dingo/lrdata.csv", header=None)
+df = pd.read_csv("Sieve-linear-regressions/lrdata.csv", header=None)
 df = df.set_index(0)
 df = df.transpose()
 df.columns.name = None
@@ -74,7 +74,7 @@ indices = np.argsort(coefficients)
 sorted_features = [features[i] for i in indices]
 sorted_coefficients = coefficients[indices]
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(20, 12))
 bars = plt.barh(sorted_features, sorted_coefficients, color=['tomato' if c < 0 else 'skyblue' for c in sorted_coefficients])
 plt.axvline(0, color='black', linewidth=0.8)
 plt.xlabel("Coefficient Value")
@@ -89,7 +89,7 @@ for bar in bars:
              va='center', ha='right' if bar.get_width() < 0 else 'left')
 
 plt.tight_layout()
-plt.savefig("Sieve-linear-regressions/dingo/linear_coefficients.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/linear_coefficients.png", dpi=300)
 print("Linear regression coefficient plot saved as 'linear_coefficients.png'")
 
 # ---------------------------
@@ -104,7 +104,7 @@ indices = np.argsort(rf_importances)[::-1]
 sorted_features = [features[i] for i in indices]
 sorted_importances = rf_importances[indices]
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(20, 12))
 bars = plt.barh(sorted_features[::-1], sorted_importances[::-1], color='mediumseagreen')
 plt.xlabel("Feature Importance")
 plt.ylabel("Variable")
@@ -116,5 +116,5 @@ for bar in bars:
              f"{bar.get_width():.3f}", va='center')
 
 plt.tight_layout()
-plt.savefig("Sieve-linear-regressions/dingo/rf_feature_importances.png", dpi=300)
+plt.savefig("Sieve-linear-regressions/rf_feature_importances.png", dpi=300)
 print("Random Forest feature importance plot saved as 'rf_feature_importances.png'")
