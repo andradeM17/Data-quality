@@ -20,6 +20,11 @@ with open(csv_file, newline='') as f:
         annotator_a = all_data[a]
         annotator_b = all_data[b]
 
+        agreements = sum(x == y for x, y in zip(annotator_a, annotator_b))
+        total = len(annotator_a)
+        observed_agreement = agreements / total
+        print("(Observed agreement:", round(observed_agreement, 2), ")")
+
         kappa = cohen_kappa_score(annotator_a, annotator_b)
         print(f"    Annotator {a+1} vs {b+1}: {round(kappa, 3)}")
 
@@ -41,13 +46,3 @@ for i in range(0, 14):
         alpha = 1
 
     print(f"  Krippendorff's alpha: {round(alpha, 3)}")
-
-    data = list(map(list, zip(*current_rows)))
-    num_annotators = len(data)
-
-    for (a, b) in itertools.combinations(range(num_annotators), 2):
-        annotator_a = data[a]
-        annotator_b = data[b]
-
-        kappa = cohen_kappa_score(annotator_a, annotator_b)
-        print(f"    Annotator {a+1} vs {b+1}: {round(kappa, 3)}")
