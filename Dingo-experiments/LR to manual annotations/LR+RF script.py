@@ -128,7 +128,7 @@ sorted_features = [X.columns[i] for i in indices]
 sorted_lr = linreg.coef_[indices]
 sorted_rf = rf.feature_importances_[indices]
 
-fig, ax = plt.subplots(figsize=(20, 24))
+fig, ax = plt.subplots(figsize=(24, 24))
 y_positions = np.arange(len(sorted_features))
 
 for y, lr, rf_val in zip(y_positions, sorted_lr, sorted_rf):
@@ -137,13 +137,14 @@ for y, lr, rf_val in zip(y_positions, sorted_lr, sorted_rf):
 
     ax.text(lr + (1 if lr > 0 else -1), y,
             f"{lr:.1f}",
-            va='center', ha='left' if lr > 0 else 'right', fontsize=14)
+            va='center', ha='left' if lr > 0 else 'right', fontsize=19)
 
 ax.axvline(0, color='black', linewidth=0.8)
 ax.set_yticks(y_positions)
+ax.tick_params(axis='x', labelsize=25)
 ax.set_yticklabels(sorted_features, fontsize=30)
-ax.set_xlabel("Linear Regression Coefficient")
-ax.set_title("Feature Importance Combination Chart\n(bar length = LR coefficient, bar thickness = RF importance)")
+ax.set_xlabel("Linear Regression Coefficient", fontsize=20)
+ax.set_title("Feature Importance", fontsize=30)
 plt.tight_layout()
 plt.savefig("Dingo-experiments/LR to manual annotations/combination_chart.png", dpi=300)
 print("Combination chart saved.")
