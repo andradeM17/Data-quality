@@ -11,7 +11,7 @@ measures = ["C", "H", "NS"]
 for f in files:
     for m in measures:
         print(f + m)
-        data = pd.read_csv(f"FG/{f}{m}.csv", delimiter='\t')
+        data = pd.read_csv(f"WMDQS (DQ1)/IAA/FG/{f}{m}.csv", delimiter='\t')
         data = data.fillna('BLANK')  # replace NaN with a default value
         data = data.values.tolist()  # list of lists (rows = items, cols = annotators)
 
