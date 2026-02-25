@@ -10,8 +10,8 @@ with open(csv_file, newline='') as f:
     reader = csv.reader(f, delimiter='\t')
     rows = list(reader)
 
-    # ---------- Cohen's Kappa (pairwise between annotators) ----------
-    print("  Pairwise Cohen's kappa:")
+    # ---------- Pairwise Cohen's Kappa + Krippendorff ----------
+    print("  Pairwise agreement metrics:")
 
     all_data = list(map(list, zip(*rows)))
     num_annotators = len(all_data)
@@ -23,10 +23,23 @@ with open(csv_file, newline='') as f:
         agreements = sum(x == y for x, y in zip(annotator_a, annotator_b))
         total = len(annotator_a)
         observed_agreement = agreements / total
-        print("(Observed agreement:", round(observed_agreement, 2), ")")
+        print(f"\n  Annotator {a+1} vs {b+1}")
+        print("    Observed agreement:", round(observed_agreement, 2))
 
+        # Cohen
         kappa = cohen_kappa_score(annotator_a, annotator_b)
-        print(f"    Annotator {a+1} vs {b+1}: {round(kappa, 3)}")
+        print("    Cohen's kappa:", round(kappa, 3))
+
+        # Krippendorff (pairwise)
+        try:
+            alpha_pair = krippendorff.alpha(
+                reliability_data=[annotator_a, annotator_b],
+                level_of_measurement='nominal'
+            )
+        except ValueError:
+            alpha_pair = 1
+
+        print("    Krippendorff's alpha:", round(alpha_pair, 3))
 
 
 for i in range(0, 14):
