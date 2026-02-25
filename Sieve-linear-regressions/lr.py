@@ -118,3 +118,32 @@ for bar in bars:
 plt.tight_layout()
 plt.savefig("Sieve-linear-regressions/rf_feature_importances.png", dpi=300)
 print("Random Forest feature importance plot saved as 'rf_feature_importances.png'")
+
+# ----------------------------------------
+# 6. Combination Chart: length = LR coef, height = RF importance
+# ----------------------------------------
+
+indices = np.argsort(linreg.coef_)
+sorted_features = [X.columns[i] for i in indices]
+sorted_lr = linreg.coef_[indices]
+sorted_rf = rf.feature_importances_[indices]
+
+fig, ax = plt.subplots(figsize=(20, 24))
+y_positions = np.arange(len(sorted_features))
+
+for y, lr, rf_val in zip(y_positions, sorted_lr, sorted_rf):
+    color = 'tomato' if lr < 0 else 'skyblue'
+    ax.barh(y, lr, height=rf_val*5, color=color)
+
+    ax.text(lr + (1 if lr > 0 else -1), y,
+            f"{lr:.1f}",
+            va='center', ha='left' if lr > 0 else 'right', fontsize=14)
+
+ax.axvline(0, color='black', linewidth=0.8)
+ax.set_yticks(y_positions)
+ax.set_yticklabels(sorted_features, fontsize=30)
+ax.set_xlabel("Linear Regression Coefficient")
+ax.set_title("Feature Importance Combination Chart\n(bar length = LR coefficient, bar thickness = RF importance)")
+plt.tight_layout()
+plt.savefig("Sieve-linear-regressions/combination_chart.png", dpi=300)
+print("Combination chart saved.")
